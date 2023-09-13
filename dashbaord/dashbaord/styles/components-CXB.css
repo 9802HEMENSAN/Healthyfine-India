@@ -1,0 +1,4186 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 415.8rem;
+}.components-SC1 {
+  width: 100%;
+  height: 313.6rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.components-SC1 .personal-details-LHP {
+  box-sizing: border-box;
+  padding: 3.2rem 3.2rem 7.2rem 3.2rem;
+  width: 42rem;
+  height: 48rem;
+  position: absolute;
+  left: 37.5rem;
+  top: 37.5rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP {
+  margin-bottom: 3.2rem;
+  width: 100%;
+  height: 18.8rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .heading-k6D {
+  margin: 0rem 13.1rem 0.9rem 0rem;
+  box-sizing: border-box;
+  padding-right: 3.2rem;
+  width: calc(100% - 13.1rem);
+  height: 2.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .heading-k6D .auto-group-cipt-TFX {
+  margin: 0.2rem 0.7rem 0.189rem 0rem;
+  width: 14.8rem;
+  height: calc(100% - 0.3889rem);
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.6428571429;
+  letter-spacing: 0.042rem;
+  text-transform: uppercase;
+  color: #202741;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: solid 0.2rem #009394;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .heading-k6D .done-roT {
+  width: 3.8rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.3;
+  letter-spacing: 0.06rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Cabin, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #009394;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 {
+  width: 21.2rem;
+  row-gap: 0.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36389-g1o {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36389-g1o .auto-group-mixs-QyP {
+  box-sizing: border-box;
+  padding: 0.3rem 0.7rem 0.4rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36389-g1o .auto-group-mixs-QyP .birthday-8uP {
+  margin: 0.1rem 0.9rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36389-g1o .auto-group-mixs-QyP .item--qJ1 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36389-g1o .frame-2609268-ZE1 {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 12.9rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #202741;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36394-yYd {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36394-yYd .auto-group-snxj-im7 {
+  box-sizing: border-box;
+  padding: 0.3rem 0.7rem 0.4rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36394-yYd .auto-group-snxj-im7 .age-G1w {
+  margin: 0.1rem 4.1rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36394-yYd .auto-group-snxj-im7 .item--aYR {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36394-yYd .frame-2609268-7YM {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 12.9rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #202741;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36395-Z9T {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36395-Z9T .auto-group-puqz-7Rs {
+  box-sizing: border-box;
+  padding: 0.3rem 0.7rem 0.4rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36395-Z9T .auto-group-puqz-7Rs .gender-TEq {
+  margin: 0.1rem 1.8rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36395-Z9T .auto-group-puqz-7Rs .item--Z2y {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36395-Z9T .frame-2609268-VSR {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 12.9rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6f6f6f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #202741;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36396-y6h {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36396-y6h .auto-group-ympf-KRT {
+  box-sizing: border-box;
+  padding: 0.3rem 0.7rem 0.4rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36396-y6h .auto-group-ympf-KRT .height-T1s {
+  margin: 0.1rem 2.3rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36396-y6h .auto-group-ympf-KRT .item--N8q {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36396-y6h .frame-2609268-VjF {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 12.9rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #202741;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36397-Ljs {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36397-Ljs .auto-group-it1b-26u {
+  box-sizing: border-box;
+  padding: 0.3rem 0.7rem 0.4rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36397-Ljs .auto-group-it1b-26u .weight-AD7 {
+  margin: 0.1rem 2rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36397-Ljs .auto-group-it1b-26u .item--HYd {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1default-CqP .personalinfo-wa1 .group-36397-Ljs .frame-2609268-2WD {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 12.9rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #202741;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM {
+  width: 100%;
+  height: 15.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .heading-2Pj {
+  margin-bottom: 1rem;
+  box-sizing: border-box;
+  padding: 0.05rem 0rem 0.1rem 0rem;
+  width: 19.3rem;
+  height: 2.7rem;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .heading-2Pj .auto-group-ricr-xHP {
+  margin-right: 4.5rem;
+  width: 14.8rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.6428571429;
+  letter-spacing: 0.042rem;
+  text-transform: uppercase;
+  color: #202741;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.2rem #009394;
+  box-sizing: border-box;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj {
+  width: 21.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36389-nnD {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36389-nnD .auto-group-q81f-8r5 {
+  box-sizing: border-box;
+  padding: 0.3rem 0.7rem 0.4rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36389-nnD .auto-group-q81f-8r5 .birthday-sHs {
+  margin: 0.1rem 0.9rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36389-nnD .auto-group-q81f-8r5 .item--nQq {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36389-nnD .frame-2609268-vG9 {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 12.9rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36394-Ntq {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36394-Ntq .auto-group-apxm-Xmj {
+  box-sizing: border-box;
+  padding: 0.3rem 0.7rem 0.4rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36394-Ntq .auto-group-apxm-Xmj .age-5HT {
+  margin: 0.1rem 4.1rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36394-Ntq .auto-group-apxm-Xmj .item--CN5 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36394-Ntq .frame-2609268-wKf {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 12.9rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36395-o6y {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36395-o6y .auto-group-qtxd-kY1 {
+  box-sizing: border-box;
+  padding: 0.3rem 0.7rem 0.4rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36395-o6y .auto-group-qtxd-kY1 .gender-teD {
+  margin: 0.1rem 1.8rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36395-o6y .auto-group-qtxd-kY1 .item--omB {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36395-o6y .frame-2609268-wsP {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 12.9rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36396-QW5 {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36396-QW5 .auto-group-3lmx-YMP {
+  box-sizing: border-box;
+  padding: 0.3rem 0.7rem 0.4rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36396-QW5 .auto-group-3lmx-YMP .height-fwo {
+  margin: 0.1rem 2.3rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36396-QW5 .auto-group-3lmx-YMP .item--nmX {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36396-QW5 .frame-2609268-84h {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 12.9rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36397-Nzd {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36397-Nzd .auto-group-4of7-8iu {
+  box-sizing: border-box;
+  padding: 0.3rem 0.7rem 0.4rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36397-Nzd .auto-group-4of7-8iu .weight-UXs {
+  margin: 0.1rem 2rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36397-Nzd .auto-group-4of7-8iu .item--o4M {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .personal-details-LHP .property-1variant2-GvM .personalinfo-3Zj .group-36397-Nzd .frame-2609268-Y1w {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 12.9rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH {
+  box-sizing: border-box;
+  padding: 3.2rem 3.2rem 4.4rem 3.2rem;
+  width: 42rem;
+  height: 50.9rem;
+  position: absolute;
+  left: 81rem;
+  top: 36rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.components-SC1 .contact-details-mvH .property-1default-sCd {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1default-sCd .heading-1pd {
+  margin: 0rem 13.1rem 1rem 0rem;
+  box-sizing: border-box;
+  padding-right: 4.2rem;
+  width: calc(100% - 13.1rem);
+  height: 2.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1default-sCd .heading-1pd .auto-group-ceqq-jEq {
+  margin: 0.2rem 0.8rem 0.1rem 0rem;
+  height: calc(100% - 0.3rem);
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.6428571429;
+  letter-spacing: 0.042rem;
+  text-transform: uppercase;
+  color: #202741;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.2rem #009394;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1default-sCd .heading-1pd .done-cJd {
+  width: 3.8rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.3;
+  letter-spacing: 0.06rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Cabin, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #009394;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1default-sCd .contactinfo-hay {
+  width: 100%;
+  row-gap: 0.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1default-sCd .contactinfo-hay .mobile-no-dzR {
+  width: 100%;
+  height: 5.8rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1default-sCd .contactinfo-hay .mobile-no-dzR .auto-group-znk9-bRT {
+  box-sizing: border-box;
+  padding: 0.3rem 1.1rem 0.3rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1default-sCd .contactinfo-hay .mobile-no-dzR .auto-group-znk9-bRT .mobile-Xpu {
+  margin: 0.1rem 2.2rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1default-sCd .contactinfo-hay .mobile-no-dzR .auto-group-znk9-bRT .item--Fku {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1default-sCd .contactinfo-hay .mobile-no-dzR .auto-group-c61w-nF3 {
+  width: 27.2rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1default-sCd .contactinfo-hay .mobile-no-dzR .auto-group-c61w-nF3 .mobile-vs3 {
+  margin-bottom: 0.8rem;
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #202741;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1default-sCd .contactinfo-hay .mobile-no-dzR .auto-group-c61w-nF3 .whatsapp-no-Bny {
+  box-sizing: border-box;
+  padding: 0.4rem 0.594rem 0.4rem 0.8rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #202741;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1default-sCd .contactinfo-hay .mobile-no-dzR .auto-group-c61w-nF3 .whatsapp-no-Bny .item-91-896-452167-7gd {
+  margin-right: 13.8938rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1default-sCd .contactinfo-hay .mobile-no-dzR .auto-group-c61w-nF3 .whatsapp-no-Bny .ion-logo-whatsapp-DzZ {
+  width: 1.3125rem;
+  height: 1.3125rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1default-sCd .contactinfo-hay .email-74M {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1default-sCd .contactinfo-hay .email-74M .auto-group-vcjb-Ttu {
+  box-sizing: border-box;
+  padding: 0.3rem 1.1rem 0.4rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1default-sCd .contactinfo-hay .email-74M .auto-group-vcjb-Ttu .email-QJM {
+  margin: 0.1rem 3rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1default-sCd .contactinfo-hay .email-74M .auto-group-vcjb-Ttu .item--W6V {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1default-sCd .contactinfo-hay .email-74M .email-3MK {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 27.2rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #202741;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1default-sCd .contactinfo-hay .address-tsj {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1default-sCd .contactinfo-hay .address-tsj .address-TR3 {
+  margin: 0.05rem 0.6rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1default-sCd .contactinfo-hay .address-tsj .item--Zys {
+  margin-right: 1.1rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1default-sCd .contactinfo-hay .address-tsj .address-uH3 {
+  margin-top: 0.05rem;
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 27.2rem;
+  height: 8.2rem;
+  border: solid 0.1rem #202741;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1default-sCd .contactinfo-hay .address-tsj .address-uH3 .plot-no-4-75-1-madhavi-nagar-opposite-bhel-rd-gate-balanagar-hyderabad-telangana-500037-diq {
+  max-width: 22.4rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T .heading-Qd7 {
+  margin: 0rem 16.3rem 1rem 0rem;
+  width: calc(100% - 16.3rem);
+  height: 2.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T .heading-Qd7 .auto-group-wngh-jQV {
+  margin: 0.05rem 0.8rem 0.1rem 0rem;
+  height: calc(100% - 0.15rem);
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.6428571429;
+  letter-spacing: 0.042rem;
+  text-transform: uppercase;
+  color: #202741;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.2rem #009394;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T .heading-Qd7 .auto-group-svbo-ov9 {
+  width: 4.8rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T .heading-Qd7 .auto-group-svbo-ov9 .material-symbols-edit-m6H {
+  margin: 0rem 2.4rem 0.3rem 0rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T .contactinfo-fSZ {
+  width: 100%;
+  row-gap: 0.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T .contactinfo-fSZ .mobile-1mK {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T .contactinfo-fSZ .mobile-1mK .auto-group-mjjm-BQu {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T .contactinfo-fSZ .mobile-1mK .auto-group-mjjm-BQu .auto-group-ksqz-Xjf {
+  box-sizing: border-box;
+  padding: 0.3rem 1.1rem 0.4rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T .contactinfo-fSZ .mobile-1mK .auto-group-mjjm-BQu .auto-group-ksqz-Xjf .mobile-UQ1 {
+  margin: 0.1rem 2.2rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T .contactinfo-fSZ .mobile-1mK .auto-group-mjjm-BQu .auto-group-ksqz-Xjf .item--nvV {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T .contactinfo-fSZ .mobile-1mK .auto-group-mjjm-BQu .mobile-j53 {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 27.2rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T .contactinfo-fSZ .mobile-1mK .whatsapp-no-zmf {
+  margin: 0rem 7rem 0rem 1.4rem;
+  box-sizing: border-box;
+  padding: 0.4rem 8.9rem 0.4rem 0.894rem;
+  width: calc(100% - 8.4rem);
+  display: flex;
+  align-items: center;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T .contactinfo-fSZ .mobile-1mK .whatsapp-no-zmf .ion-logo-whatsapp-hvy {
+  margin-right: 5.4938rem;
+  width: 1.3125rem;
+  height: 1.3125rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T .contactinfo-fSZ .mobile-1mK .whatsapp-no-zmf .item-91-896-452167-Evu {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T .contactinfo-fSZ .email-Vrq {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T .contactinfo-fSZ .email-Vrq .auto-group-us3b-Fr1 {
+  box-sizing: border-box;
+  padding: 0.3rem 1.1rem 0.4rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T .contactinfo-fSZ .email-Vrq .auto-group-us3b-Fr1 .email-PxD {
+  margin: 0.1rem 3rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T .contactinfo-fSZ .email-Vrq .auto-group-us3b-Fr1 .item--hCD {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T .contactinfo-fSZ .email-Vrq .email-2VP {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 27.2rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T .contactinfo-fSZ .address-tGh {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T .contactinfo-fSZ .address-tGh .address-dzy {
+  margin: 0.05rem 0.6rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T .contactinfo-fSZ .address-tGh .item--Z7w {
+  margin-right: 1.1rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T .contactinfo-fSZ .address-tGh .address-fwf {
+  margin-top: 0.05rem;
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 27.2rem;
+  height: 8.2rem;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .contact-details-mvH .property-1variant2-43T .contactinfo-fSZ .address-tGh .address-fwf .plot-no-4-75-1-madhavi-nagar-opposite-bhel-rd-gate-balanagar-hyderabad-telangana-500037-oHB {
+  max-width: 22.4rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+}
+.components-SC1 .bank-details-pi5 {
+  box-sizing: border-box;
+  padding: 3.2rem 3.2rem 5.8rem 3.2rem;
+  width: 42rem;
+  height: 47.2rem;
+  position: absolute;
+  left: 124.5rem;
+  top: 37.5rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb {
+  margin-bottom: 2.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .heading-4sK {
+  margin: 0rem 13.1rem 1rem 0rem;
+  box-sizing: border-box;
+  padding-right: 7.1rem;
+  width: calc(100% - 13.1rem);
+  height: 2.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .heading-4sK .auto-group-beuq-Bh3 {
+  margin: 0.2rem 0.7rem 0.1rem 0rem;
+  height: calc(100% - 0.3rem);
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.6428571429;
+  letter-spacing: 0.042rem;
+  text-transform: uppercase;
+  color: #202741;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.2rem #009394;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .heading-4sK .done-3jF {
+  width: 3.8rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.3;
+  letter-spacing: 0.06rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Cabin, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #009394;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB {
+  width: 100%;
+  row-gap: 0.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36389-sTP {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36389-sTP .auto-group-5tcv-RE1 {
+  box-sizing: border-box;
+  padding: 0.3rem 1.2rem 0.4rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36389-sTP .auto-group-5tcv-RE1 .upi-id-YpR {
+  margin: 0.1rem 8.2rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36389-sTP .auto-group-5tcv-RE1 .item--f8M {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36389-sTP .frame-2609268-Q5w {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 21.2rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #202741;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36394-SoK {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36394-SoK .auto-group-6vw5-bRK {
+  box-sizing: border-box;
+  padding: 0.3rem 1.2rem 0.4rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36394-SoK .auto-group-6vw5-bRK .bank-8RF {
+  margin: 0.1rem 8.9rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36394-SoK .auto-group-6vw5-bRK .item--FVs {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36394-SoK .frame-2609268-zTT {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 21.2rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #202741;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36395-3Rj {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36395-3Rj .auto-group-wozs-bCM {
+  box-sizing: border-box;
+  padding-right: 1.2001rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36395-3Rj .auto-group-wozs-bCM .a-c-no-XLu {
+  margin: 0.1rem 7.6rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36395-3Rj .auto-group-wozs-bCM .item--brZ {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36395-3Rj .frame-2609268-L3T {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 21.2rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6f6f6f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #202741;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36396-oxd {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36396-oxd .auto-group-ygtt-mPf {
+  box-sizing: border-box;
+  padding-right: 1.2001rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36396-oxd .auto-group-ygtt-mPf .ifsc-code-7yK {
+  margin: 0.1rem 5.4rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36396-oxd .auto-group-ygtt-mPf .item--eCZ {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36396-oxd .frame-2609268-n3s {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 21.2rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #202741;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36397-mAh {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36397-mAh .auto-group-pvh7-ird {
+  box-sizing: border-box;
+  padding: 0.3rem 1.2rem 0.4rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36397-mAh .auto-group-pvh7-ird .account-holder-FrZ {
+  margin: 0.1rem 1.6rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36397-mAh .auto-group-pvh7-ird .item--ZsF {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1default-XMb .personalinfo-jMB .group-36397-mAh .frame-2609268-JK3 {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 21.2rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #202741;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .heading-gqP {
+  margin-bottom: 1rem;
+  width: 19.3rem;
+  height: 2.7rem;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .heading-gqP .auto-group-rwm7-S3s {
+  box-sizing: border-box;
+  padding-right: 1.5rem;
+  width: 15.5rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .heading-gqP .auto-group-rwm7-S3s .auto-group-sywh-mbw {
+  margin: 0.05rem 0.7rem 0.1rem 0rem;
+  height: calc(100% - 0.15rem);
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.6428571429;
+  letter-spacing: 0.042rem;
+  text-transform: uppercase;
+  color: #202741;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.2rem #009394;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .heading-gqP .auto-group-rwm7-S3s .material-symbols-edit-FX7 {
+  width: 2.4rem;
+  height: 2.4rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36389-KG5 {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36389-KG5 .auto-group-rgp1-sYV {
+  box-sizing: border-box;
+  padding: 0.3rem 1.2rem 0.4rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36389-KG5 .auto-group-rgp1-sYV .upi-id-QYR {
+  margin: 0.1rem 8.2rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36389-KG5 .auto-group-rgp1-sYV .item--WrM {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36389-KG5 .frame-2609268-FZ3 {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 21.2rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36394-utV {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36394-utV .auto-group-py2r-GU9 {
+  box-sizing: border-box;
+  padding: 0.3rem 1.2rem 0.4rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36394-utV .auto-group-py2r-GU9 .bank-oiy {
+  margin: 0.1rem 8.9rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36394-utV .auto-group-py2r-GU9 .item--j6q {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36394-utV .frame-2609268-sTw {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 21.2rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36395-L6d {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36395-L6d .auto-group-f1zh-VER {
+  box-sizing: border-box;
+  padding-right: 1.2001rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36395-L6d .auto-group-f1zh-VER .a-c-no-qp5 {
+  margin: 0.1rem 7.6rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36395-L6d .auto-group-f1zh-VER .item--kw3 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36395-L6d .frame-2609268-Hvy {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 21.2rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6f6f6f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36396-zKb {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36396-zKb .auto-group-mgqw-vyw {
+  box-sizing: border-box;
+  padding-right: 1.2001rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36396-zKb .auto-group-mgqw-vyw .ifsc-code-GH7 {
+  margin: 0.1rem 5.4rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36396-zKb .auto-group-mgqw-vyw .item--ySR {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36396-zKb .frame-2609268-7Hj {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 21.2rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36397-NUZ {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36397-NUZ .auto-group-zzeq-XMT {
+  box-sizing: border-box;
+  padding: 0.3rem 1.2rem 0.4rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36397-NUZ .auto-group-zzeq-XMT .account-holder-fTf {
+  margin: 0.1rem 1.6rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36397-NUZ .auto-group-zzeq-XMT .item--BS1 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .bank-details-pi5 .property-1variant2-YDP .personalinfo-n1F .group-36397-NUZ .frame-2609268-86M {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 21.2rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 {
+  box-sizing: border-box;
+  padding: 3.2rem 3.2rem 9.4rem 3.2rem;
+  width: 42rem;
+  height: 48.8rem;
+  position: absolute;
+  left: 37.5rem;
+  top: 106.1rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.components-SC1 .documents-A33 .property-1default-7cV {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .heading-Fih {
+  margin: 0rem 13.1rem 1rem 0rem;
+  box-sizing: border-box;
+  padding-right: 8.4rem;
+  width: calc(100% - 13.1rem);
+  height: 2.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .heading-Fih .auto-group-xapq-ZzH {
+  margin: 0.2rem 0.5rem 0.1rem 0rem;
+  height: calc(100% - 0.3rem);
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.6428571429;
+  letter-spacing: 0.042rem;
+  text-transform: uppercase;
+  color: #202741;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.2rem #009394;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .heading-Fih .done-T45 {
+  width: 3.8rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.3;
+  letter-spacing: 0.06rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Cabin, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #009394;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .documents-jnH {
+  width: 100%;
+  row-gap: 0.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .documents-jnH .id-type-GXK {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .documents-jnH .id-type-GXK .auto-group-7att-RQD {
+  box-sizing: border-box;
+  padding: 0.3rem 1.1rem 0.4rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .documents-jnH .id-type-GXK .auto-group-7att-RQD .id-type-kxH {
+  margin: 0.1rem 2rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .documents-jnH .id-type-GXK .auto-group-7att-RQD .item--Gfj {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .documents-jnH .id-type-GXK .mobile-1dK {
+  box-sizing: border-box;
+  padding: 0.4rem 0.6rem 0.4rem 0.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #202741;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .documents-jnH .id-type-GXK .mobile-1dK .aadhar-x2m {
+  margin-right: 19.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .documents-jnH .id-type-GXK .mobile-1dK .arrows-Xk5 {
+  width: 2rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .documents-jnH .id-no-bV3 {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .documents-jnH .id-no-bV3 .auto-group-vsem-kMw {
+  box-sizing: border-box;
+  padding: 0.3rem 1.1rem 0.4rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .documents-jnH .id-no-bV3 .auto-group-vsem-kMw .id-no-gmP {
+  margin: 0.1rem 2.8rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .documents-jnH .id-no-bV3 .auto-group-vsem-kMw .item--zn5 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .documents-jnH .id-no-bV3 .email-Xn1 {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 27.2rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #202741;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .documents-jnH .other-documents-ytu {
+  width: 100%;
+  row-gap: 0.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .documents-jnH .other-documents-ytu .frame-2609277-8Wu {
+  margin-right: 22.3rem;
+  width: calc(100% - 22.3rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .documents-jnH .other-documents-ytu .frame-2609277-8Wu .other-documents-5BF {
+  margin-right: 0.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .documents-jnH .other-documents-ytu .frame-2609277-8Wu .item--zZ7 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .documents-jnH .other-documents-ytu .upload-vxZ {
+  box-sizing: border-box;
+  padding: 0.8rem 0.942rem 0.8rem 0.8rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  background-color: #3d3d3d;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .documents-jnH .other-documents-ytu .upload-vxZ .browse-to-upload-documents-fv9 {
+  margin: 0rem 11.941rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #ffffff;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .documents-jnH .other-documents-ytu .upload-vxZ .upload-cloud-yfw {
+  width: 3.117rem;
+  height: 2.3997rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .documents-jnH .other-documents-ytu .entry1-HAq {
+  box-sizing: border-box;
+  padding: 0.4rem 0.583rem 0.542rem 0rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #e4e4e4;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .documents-jnH .other-documents-ytu .entry1-HAq .aadhar-cardpng-pRf {
+  margin: 0rem 23.083rem 0.058rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1default-7cV .documents-jnH .other-documents-ytu .entry1-HAq .mdi-print-preview-KtD {
+  margin-top: 0.3417rem;
+  width: 1.1333rem;
+  height: 1.4167rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1variant2-21w {
+  width: 100%;
+  height: 13.8rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1variant2-21w .heading-mER {
+  margin-bottom: 1rem;
+  width: 19.3rem;
+  height: 2.7rem;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1variant2-21w .heading-mER .auto-group-tkxm-Jk9 {
+  box-sizing: border-box;
+  padding-right: 2.8rem;
+  width: 15.5rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.components-SC1 .documents-A33 .property-1variant2-21w .heading-mER .auto-group-tkxm-Jk9 .auto-group-kcnm-3xd {
+  margin: 0.05rem 0.5rem 0.1rem 0rem;
+  height: calc(100% - 0.15rem);
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.6428571429;
+  letter-spacing: 0.042rem;
+  text-transform: uppercase;
+  color: #202741;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.2rem #009394;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1variant2-21w .heading-mER .auto-group-tkxm-Jk9 .material-symbols-edit-Kv9 {
+  width: 2.4rem;
+  height: 2.4rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1variant2-21w .documents-TFf {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1variant2-21w .documents-TFf .id-type-Qgh {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1variant2-21w .documents-TFf .id-type-Qgh .auto-group-qsvu-XWR {
+  box-sizing: border-box;
+  padding: 0.3rem 1.1rem 0.4rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1variant2-21w .documents-TFf .id-type-Qgh .auto-group-qsvu-XWR .id-type-GD7 {
+  margin: 0.1rem 2rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1variant2-21w .documents-TFf .id-type-Qgh .auto-group-qsvu-XWR .item--ydK {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1variant2-21w .documents-TFf .id-type-Qgh .mobile-iL1 {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 27.2rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1variant2-21w .documents-TFf .id-no-LsB {
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1variant2-21w .documents-TFf .id-no-LsB .auto-group-ckjo-6bT {
+  box-sizing: border-box;
+  padding: 0.3rem 1.1rem 0.4rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1variant2-21w .documents-TFf .id-no-LsB .auto-group-ckjo-6bT .id-no-qJ9 {
+  margin: 0.1rem 2.8rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1variant2-21w .documents-TFf .id-no-LsB .auto-group-ckjo-6bT .item--YiM {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1variant2-21w .documents-TFf .id-no-LsB .email-skd {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  width: 27.2rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1variant2-21w .documents-TFf .other-docs-8Rf {
+  width: 100%;
+  height: 6.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.components-SC1 .documents-A33 .property-1variant2-21w .documents-TFf .other-docs-8Rf .item--Gnm {
+  width: 0.4rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 13rem;
+  top: 0;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.4332596461;
+  letter-spacing: 0.012rem;
+  color: #5f5f5f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.components-SC1 .documents-A33 .property-1variant2-21w .documents-TFf .other-docs-8Rf .other-documents-aHf {
+  width: 35.6rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #006270;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.components-SC1 .medical-records-RZB {
+  box-sizing: border-box;
+  padding: 3.2rem 3.2rem 6rem 3.2rem;
+  width: 42rem;
+  height: 34.6rem;
+  position: absolute;
+  left: 81rem;
+  top: 113.2rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.components-SC1 .medical-records-RZB .property-1default-K8m {
+  margin-bottom: 1.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .medical-records-RZB .property-1default-K8m .heading-ruP {
+  margin: 0rem 13.1rem 1rem 0rem;
+  box-sizing: border-box;
+  padding-right: 3.5rem;
+  width: calc(100% - 13.1rem);
+  height: 2.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .medical-records-RZB .property-1default-K8m .heading-ruP .auto-group-jj5w-WU9 {
+  margin: 0.2rem 0.8rem 0.1rem 0rem;
+  height: calc(100% - 0.3rem);
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.6428571429;
+  letter-spacing: 0.042rem;
+  text-transform: uppercase;
+  color: #202741;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.2rem #009394;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.components-SC1 .medical-records-RZB .property-1default-K8m .heading-ruP .done-NmF {
+  width: 3.8rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.3;
+  letter-spacing: 0.06rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Cabin, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #009394;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .medical-records-RZB .property-1default-K8m .medicalinfo-rRX {
+  width: 100%;
+  row-gap: 0.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .medical-records-RZB .property-1default-K8m .medicalinfo-rRX .upload-bP7 {
+  box-sizing: border-box;
+  padding: 0.8rem 0.942rem 0.8rem 0.8rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  background-color: #3d3d3d;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .medical-records-RZB .property-1default-K8m .medicalinfo-rRX .upload-bP7 .browse-to-upload-documents-XXf {
+  margin: 0rem 11.941rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #ffffff;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .medical-records-RZB .property-1default-K8m .medicalinfo-rRX .upload-bP7 .upload-cloud-2jK {
+  width: 3.117rem;
+  height: 2.3997rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.components-SC1 .medical-records-RZB .property-1default-K8m .medicalinfo-rRX .entry1-vph {
+  box-sizing: border-box;
+  padding: 0.4rem 0.583rem 0.542rem 0rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #e4e4e4;
+  flex-shrink: 0;
+}
+.components-SC1 .medical-records-RZB .property-1default-K8m .medicalinfo-rRX .entry1-vph .x-ray-report28may23pdf-GNm {
+  margin: 0rem 16.883rem 0.058rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .medical-records-RZB .property-1default-K8m .medicalinfo-rRX .entry1-vph .mdi-print-preview-maR {
+  margin-top: 0.3417rem;
+  width: 1.1333rem;
+  height: 1.4167rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.components-SC1 .medical-records-RZB .property-1default-K8m .medicalinfo-rRX .entry2-HYm {
+  box-sizing: border-box;
+  padding: 0.4rem 0.583rem 0.542rem 0rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #e4e4e4;
+  flex-shrink: 0;
+}
+.components-SC1 .medical-records-RZB .property-1default-K8m .medicalinfo-rRX .entry2-HYm .blood-test-report28may23pdf-pob {
+  margin: 0rem 13.883rem 0.058rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .medical-records-RZB .property-1default-K8m .medicalinfo-rRX .entry2-HYm .mdi-print-preview-95B {
+  margin-top: 0.3417rem;
+  width: 1.1333rem;
+  height: 1.4167rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.components-SC1 .medical-records-RZB .property-1variant2-rVP {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .medical-records-RZB .property-1variant2-rVP .heading-cUZ {
+  margin: 0rem 16.3rem 1rem 0rem;
+  width: calc(100% - 16.3rem);
+  height: 2.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .medical-records-RZB .property-1variant2-rVP .heading-cUZ .auto-group-93hj-LfT {
+  margin: 0.05rem 0.8rem 0.1rem 0rem;
+  height: calc(100% - 0.15rem);
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.6428571429;
+  letter-spacing: 0.042rem;
+  text-transform: uppercase;
+  color: #202741;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.2rem #009394;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.components-SC1 .medical-records-RZB .property-1variant2-rVP .heading-cUZ .auto-group-dpmb-CBs {
+  width: 4.1rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.components-SC1 .medical-records-RZB .property-1variant2-rVP .heading-cUZ .auto-group-dpmb-CBs .material-symbols-edit-jBo {
+  margin: 0rem 1.7rem 0.3rem 0rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.components-SC1 .medical-records-RZB .property-1variant2-rVP .medicalinfo-nfs {
+  box-sizing: border-box;
+  padding-top: 3.3rem;
+  width: 100%;
+  height: 6rem;
+  flex-shrink: 0;
+}
+.components-SC1 .medical-records-RZB .property-1variant2-rVP .medicalinfo-nfs .entry2-7CM {
+  box-sizing: border-box;
+  padding: 0.4rem 0.583rem 0.542rem 0rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #e4e4e4;
+}
+.components-SC1 .medical-records-RZB .property-1variant2-rVP .medicalinfo-nfs .entry2-7CM .blood-test-report28may23pdf-1Hj {
+  margin: 0rem 13.883rem 0.058rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .medical-records-RZB .property-1variant2-rVP .medicalinfo-nfs .entry2-7CM .mdi-print-preview-6KB {
+  margin-top: 0.3417rem;
+  width: 1.1333rem;
+  height: 1.4167rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.components-SC1 .procedure-records-BLd {
+  box-sizing: border-box;
+  padding: 3.2rem 3.2rem 6rem 3.2rem;
+  width: 42rem;
+  height: 34.6rem;
+  position: absolute;
+  left: 124.5rem;
+  top: 113.2rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.components-SC1 .procedure-records-BLd .property-1default-fmb {
+  margin-bottom: 1.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .procedure-records-BLd .property-1default-fmb .heading-26M {
+  margin: 0rem 13.1rem 1rem 0rem;
+  width: calc(100% - 13.1rem);
+  height: 2.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .procedure-records-BLd .property-1default-fmb .heading-26M .auto-group-gkvf-YqP {
+  margin: 0.2rem 0.8rem 0.1rem 0rem;
+  height: calc(100% - 0.3rem);
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.6428571429;
+  letter-spacing: 0.042rem;
+  text-transform: uppercase;
+  color: #202741;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.2rem #009394;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.components-SC1 .procedure-records-BLd .property-1default-fmb .heading-26M .auto-group-hutm-2kZ {
+  width: 4.6rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.components-SC1 .procedure-records-BLd .property-1default-fmb .heading-26M .auto-group-hutm-2kZ .done-aXB {
+  margin-right: 0.8rem;
+  width: 3.8rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.3;
+  letter-spacing: 0.06rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Cabin, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #009394;
+  border-radius: 0.4rem;
+}
+.components-SC1 .procedure-records-BLd .property-1default-fmb .procedureinfo-Tay {
+  width: 100%;
+  row-gap: 0.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .procedure-records-BLd .property-1default-fmb .procedureinfo-Tay .upload-o93 {
+  box-sizing: border-box;
+  padding: 0.8rem 0.942rem 0.8rem 0.8rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+  background-color: #3d3d3d;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .procedure-records-BLd .property-1default-fmb .procedureinfo-Tay .upload-o93 .browse-to-upload-documents-wFF {
+  margin: 0rem 11.941rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #ffffff;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .procedure-records-BLd .property-1default-fmb .procedureinfo-Tay .upload-o93 .upload-cloud-eQZ {
+  width: 3.117rem;
+  height: 2.3997rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.components-SC1 .procedure-records-BLd .property-1default-fmb .procedureinfo-Tay .entry1-kCh {
+  box-sizing: border-box;
+  padding: 0.4rem 0.583rem 0.542rem 0rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #e4e4e4;
+  flex-shrink: 0;
+}
+.components-SC1 .procedure-records-BLd .property-1default-fmb .procedureinfo-Tay .entry1-kCh .consultation01july23pdf-6GZ {
+  margin: 0rem 16.983rem 0.058rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .procedure-records-BLd .property-1default-fmb .procedureinfo-Tay .entry1-kCh .mdi-print-preview-PmT {
+  margin-top: 0.3417rem;
+  width: 1.1333rem;
+  height: 1.4167rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.components-SC1 .procedure-records-BLd .property-1default-fmb .procedureinfo-Tay .entry2-JtR {
+  box-sizing: border-box;
+  padding: 0.4rem 0.583rem 0.542rem 0rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #e4e4e4;
+  flex-shrink: 0;
+}
+.components-SC1 .procedure-records-BLd .property-1default-fmb .procedureinfo-Tay .entry2-JtR .minor-surgery28may23pdf-qtM {
+  margin: 0rem 15.683rem 0.058rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .procedure-records-BLd .property-1default-fmb .procedureinfo-Tay .entry2-JtR .mdi-print-preview-Z3f {
+  margin-top: 0.3417rem;
+  width: 1.1333rem;
+  height: 1.4167rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.components-SC1 .procedure-records-BLd .property-1variant2-5Gu {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .procedure-records-BLd .property-1variant2-5Gu .heading-qG5 {
+  margin-bottom: 1rem;
+  width: 20.3rem;
+  height: 2.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.components-SC1 .procedure-records-BLd .property-1variant2-5Gu .heading-qG5 .personal-details-aDf {
+  width: 17.1rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 0;
+  top: 0.05rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.6428571429;
+  letter-spacing: 0.042rem;
+  text-transform: uppercase;
+  color: #202741;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.components-SC1 .procedure-records-BLd .property-1variant2-5Gu .heading-qG5 .material-symbols-edit-g1o {
+  width: 2.4rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 17.9rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.components-SC1 .procedure-records-BLd .property-1variant2-5Gu .heading-qG5 .line-50-o6R {
+  width: 4.7rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 2.4rem;
+  background-color: #009394;
+}
+.components-SC1 .procedure-records-BLd .property-1variant2-5Gu .procedureinfo-8Pb {
+  box-sizing: border-box;
+  padding-top: 3.3rem;
+  width: 100%;
+  height: 6rem;
+  flex-shrink: 0;
+}
+.components-SC1 .procedure-records-BLd .property-1variant2-5Gu .procedureinfo-8Pb .entry2-Gkh {
+  box-sizing: border-box;
+  padding: 0.4rem 0.583rem 0.542rem 0rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #e4e4e4;
+}
+.components-SC1 .procedure-records-BLd .property-1variant2-5Gu .procedureinfo-8Pb .entry2-Gkh .minor-surgery28may23pdf-1iH {
+  margin: 0rem 15.683rem 0.058rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6c6c6c;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .procedure-records-BLd .property-1variant2-5Gu .procedureinfo-8Pb .entry2-Gkh .mdi-print-preview-Kiy {
+  margin-top: 0.3417rem;
+  width: 1.1333rem;
+  height: 1.4167rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.components-SC1 .appointment-history-ci5 {
+  width: 40.95rem;
+  height: 11.25rem;
+  position: absolute;
+  left: 88.4rem;
+  top: 163.3rem;
+}
+.components-SC1 .appointment-history-ci5 .heading-Ybj {
+  margin-bottom: 1rem;
+  width: 22.5rem;
+  height: 2.7rem;
+}
+.components-SC1 .appointment-history-ci5 .heading-Ybj .auto-group-zss7-HpD {
+  box-sizing: border-box;
+  padding-bottom: 0.1rem;
+  width: 19.3rem;
+  height: 100%;
+}
+.components-SC1 .appointment-history-ci5 .heading-Ybj .auto-group-zss7-HpD .personal-details-2G1 {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.6428571429;
+  letter-spacing: 0.042rem;
+  text-transform: uppercase;
+  color: #202741;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.components-SC1 .appointment-history-ci5 .heading-Ybj .auto-group-zss7-HpD .line-50-95j {
+  width: 4.7rem;
+  height: 0.2rem;
+  background-color: #009394;
+}
+.components-SC1 .appointment-history-ci5 .appoint-history-gbT {
+  width: 100%;
+  height: 7.55rem;
+  display: flex;
+  align-items: center;
+}
+.components-SC1 .appointment-history-ci5 .appoint-history-gbT .auto-group-9uxd-EN5 {
+  box-sizing: border-box;
+  padding-right: 1.8rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.components-SC1 .appointment-history-ci5 .appoint-history-gbT .auto-group-9uxd-EN5 .sr-no-yaZ {
+  margin-right: 1.15rem;
+  width: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .appointment-history-ci5 .appoint-history-gbT .auto-group-9uxd-EN5 .sr-no-yaZ .no-8CZ {
+  margin-bottom: 0.8rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #5f5f5f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .appointment-history-ci5 .appoint-history-gbT .auto-group-9uxd-EN5 .sr-no-yaZ .auto-group-1pph-Syw {
+  margin: 0 0.55rem;
+  width: calc(100% - 1.1rem);
+  height: 4.2rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8000000545;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .appointment-history-ci5 .appoint-history-gbT .auto-group-9uxd-EN5 .date-YXB {
+  margin-right: 1.3rem;
+  width: 5.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .appointment-history-ci5 .appoint-history-gbT .auto-group-9uxd-EN5 .date-YXB .date-6Ho {
+  margin-bottom: 0.8rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #5f5f5f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .appointment-history-ci5 .appoint-history-gbT .auto-group-9uxd-EN5 .date-YXB .auto-group-nxih-oi1 {
+  width: 100%;
+  height: 4.2rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8000000545;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .appointment-history-ci5 .appoint-history-gbT .auto-group-9uxd-EN5 .day-ia5 {
+  width: 2.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .appointment-history-ci5 .appoint-history-gbT .auto-group-9uxd-EN5 .day-ia5 .day-GrV {
+  margin-bottom: 0.8rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #5f5f5f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .appointment-history-ci5 .appoint-history-gbT .auto-group-9uxd-EN5 .day-ia5 .auto-group-zquv-CVF {
+  width: 100%;
+  height: 4.2rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8000000545;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .appointment-history-ci5 .appoint-history-gbT .auto-group-pwmb-JHP {
+  width: 26.3rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.components-SC1 .appointment-history-ci5 .appoint-history-gbT .auto-group-pwmb-JHP .doctor-41f {
+  width: 8.9rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.components-SC1 .appointment-history-ci5 .appoint-history-gbT .auto-group-pwmb-JHP .doctor-41f .attending-dr-bGV {
+  margin-bottom: 0.8rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #5f5f5f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .appointment-history-ci5 .appoint-history-gbT .auto-group-pwmb-JHP .doctor-41f .auto-group-qfny-WeM {
+  width: 100%;
+  height: 4.2rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8000000545;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .appointment-history-ci5 .appoint-history-gbT .auto-group-pwmb-JHP .consultation-BkV {
+  box-sizing: border-box;
+  padding-bottom: 2rem;
+  width: 23.9rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.35rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.components-SC1 .appointment-history-ci5 .appoint-history-gbT .auto-group-pwmb-JHP .consultation-BkV .consultaion-f9s {
+  margin: 0rem 0rem 0.8rem 2.6rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #5f5f5f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .appointment-history-ci5 .appoint-history-gbT .auto-group-pwmb-JHP .consultation-BkV .consultation-953 {
+  width: 100%;
+  height: 2.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.components-SC1 .appointment-history-ci5 .appoint-history-gbT .auto-group-pwmb-JHP .consultation-BkV .consultation-953 .highfeverconsultation01july23pdf-u4D {
+  width: 23.9rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8000000545;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.components-SC1 .appointment-history-ci5 .appoint-history-gbT .auto-group-pwmb-JHP .consultation-BkV .consultation-953 .mdi-print-preview-nth {
+  width: 1.1333rem;
+  height: 1.4167rem;
+  position: absolute;
+  left: 16.6333rem;
+  top: 0.3417rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.components-SC1 .payments-history-hkm {
+  width: 47.25rem;
+  height: 12.8rem;
+  position: absolute;
+  left: 37.5rem;
+  top: 162.5rem;
+}
+.components-SC1 .payments-history-hkm .heading-2HF {
+  margin-bottom: 0.3rem;
+  width: 22.5rem;
+  height: 2.7rem;
+}
+.components-SC1 .payments-history-hkm .heading-2HF .auto-group-t5n9-xRo {
+  margin: 0rem 7.2rem 0.1rem 0rem;
+  width: 15.3rem;
+  height: 2.6rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.6428571429;
+  letter-spacing: 0.042rem;
+  text-transform: uppercase;
+  color: #202741;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.2rem #009394;
+  box-sizing: border-box;
+}
+.components-SC1 .payments-history-hkm .payments-RKP {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB {
+  margin: 0rem 0rem 0.4rem 0.1rem;
+  height: 8.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .sr-no-6RX {
+  margin-right: 1.15rem;
+  height: 100%;
+  row-gap: 0.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .sr-no-6RX .no-qP7 {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #5f5f5f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .sr-no-6RX .item-1-N89 {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8000000545;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .sr-no-6RX .item-2-6Zw {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8000000545;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .date-EAM {
+  margin-right: 1.25rem;
+  height: 100%;
+  row-gap: 0.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .date-EAM .date-Aph {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #5f5f5f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .date-EAM .item-01-07-23-unH {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8000000545;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .date-EAM .item-26-05-23-EZf {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8000000545;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .day-Zbw {
+  margin-right: 2.4rem;
+  height: 100%;
+  row-gap: 0.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .day-Zbw .day-7NZ {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #5f5f5f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .day-Zbw .sat-Fjf {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8000000545;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .day-Zbw .mon-C97 {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8000000545;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .date-8Hf {
+  margin-right: 5.25rem;
+  height: 100%;
+  row-gap: 0.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .date-8Hf .mode-5To {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #5f5f5f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .date-8Hf .upi-289 {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8000000545;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .date-8Hf .bank-kK3 {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8000000545;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .auto-group-ckwp-gCh {
+  width: 22.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .auto-group-ckwp-gCh .doctor-Rvy {
+  width: 5.45rem;
+  height: 8.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  row-gap: 0.8rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .auto-group-ckwp-gCh .doctor-Rvy .amount-xAD {
+  width: 100%;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #5f5f5f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .auto-group-ckwp-gCh .doctor-Rvy .item-1000-UuF {
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8000000545;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .auto-group-ckwp-gCh .doctor-Rvy .item-200-CqF {
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8000000545;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .auto-group-ckwp-gCh .consultation-LAm {
+  width: 21.3rem;
+  height: 7.9rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 0.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .auto-group-ckwp-gCh .consultation-LAm .auto-group-6zxj-4cZ {
+  box-sizing: border-box;
+  padding: 0rem 0.55rem 0.1rem 0.55rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .auto-group-ckwp-gCh .consultation-LAm .auto-group-6zxj-4cZ .receipt-Peq {
+  margin: 0rem 0rem 0.8rem 2.6rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #5f5f5f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .auto-group-ckwp-gCh .consultation-LAm .auto-group-6zxj-4cZ .consultation-753 {
+  width: 100%;
+  height: 2.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .auto-group-ckwp-gCh .consultation-LAm .auto-group-6zxj-4cZ .consultation-753 .highfeverreceipt01july23pdf-GCq {
+  width: 20.2rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8000000545;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .auto-group-ckwp-gCh .consultation-LAm .auto-group-6zxj-4cZ .consultation-753 .mdi-print-preview-NFs {
+  width: 1.1333rem;
+  height: 1.4167rem;
+  position: absolute;
+  left: 14.7833rem;
+  top: 0.3417rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .auto-group-ckwp-gCh .consultation-LAm .consultation-VLV {
+  width: 100%;
+  height: 2.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .auto-group-ckwp-gCh .consultation-LAm .consultation-VLV .saline-consultation01july23pdf-F4m {
+  width: 21.3rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8000000545;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .appoint-history-aTB .auto-group-ckwp-gCh .consultation-LAm .consultation-VLV .mdi-print-preview-kGR {
+  width: 1.1333rem;
+  height: 1.4167rem;
+  position: absolute;
+  left: 15.3333rem;
+  top: 0.3417rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.components-SC1 .payments-history-hkm .payments-RKP .rectangle-1313-GVf {
+  width: 28.9rem;
+  height: 0.8rem;
+  cursor: pointer;
+  background-color: #d9d9d9;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 {
+  box-sizing: border-box;
+  padding: 3.2rem;
+  width: 42.3rem;
+  height: 27.8rem;
+  position: absolute;
+  left: 125.9rem;
+  top: 155.7rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q {
+  margin-bottom: 3.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 {
+  margin: 0rem 0rem 1.1rem 0.1rem;
+  width: calc(100% - 0.1rem);
+  height: 7.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-qtrz-NBK {
+  box-sizing: border-box;
+  padding: 0.2rem 5.25rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-qtrz-NBK .sr-no-6d7 {
+  margin-right: 1.15rem;
+  height: 100%;
+  row-gap: 0.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-qtrz-NBK .sr-no-6d7 .no-EjK {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #5f5f5f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-qtrz-NBK .sr-no-6d7 .item-1-aHP {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-qtrz-NBK .sr-no-6d7 .item-2-hcu {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-qtrz-NBK .date-Roo {
+  margin-right: 1.25rem;
+  height: 100%;
+  row-gap: 0.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-qtrz-NBK .date-Roo .date-Nj3 {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #5f5f5f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-qtrz-NBK .date-Roo .item-01-07-23-7gd {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-qtrz-NBK .date-Roo .item-26-05-23-qMj {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-qtrz-NBK .day-xhF {
+  margin-right: 2.4rem;
+  height: 100%;
+  row-gap: 0.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-qtrz-NBK .day-xhF .day-WTs {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #5f5f5f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-qtrz-NBK .day-xhF .sat-e4H {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-qtrz-NBK .day-xhF .mon-nAV {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-qtrz-NBK .date-iZw {
+  height: 100%;
+  row-gap: 0.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-qtrz-NBK .date-iZw .mode-fzy {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #5f5f5f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-qtrz-NBK .date-iZw .upi-DFo {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-qtrz-NBK .date-iZw .bank-Yos {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-nxzb-537 {
+  width: 22.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-nxzb-537 .doctor-2DF {
+  width: 5.45rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  row-gap: 0.8rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-nxzb-537 .doctor-2DF .amount-YSV {
+  width: 100%;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #5f5f5f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-nxzb-537 .doctor-2DF .item-1000-UL9 {
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-nxzb-537 .doctor-2DF .item-200-Pi1 {
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-nxzb-537 .consultation-7P7 {
+  width: 21.3rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-nxzb-537 .consultation-7P7 .auto-group-hcfj-EyX {
+  box-sizing: border-box;
+  padding: 0rem 0.55rem 0.8rem 0.55rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-nxzb-537 .consultation-7P7 .auto-group-hcfj-EyX .receipt-aGh {
+  margin: 0rem 0rem 0.8rem 2.6rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #5f5f5f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-nxzb-537 .consultation-7P7 .auto-group-hcfj-EyX .consultation-VPf {
+  width: 100%;
+  height: 1.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-nxzb-537 .consultation-7P7 .auto-group-hcfj-EyX .consultation-VPf .highfeverreceipt01july23pdf-F7w {
+  width: 20.2rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-nxzb-537 .consultation-7P7 .auto-group-hcfj-EyX .consultation-VPf .mdi-print-preview-9UD {
+  width: 1.1334rem;
+  height: 1.4167rem;
+  position: absolute;
+  left: 14.7832rem;
+  top: 0.3417rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-nxzb-537 .consultation-7P7 .consultation-sQD {
+  width: 100%;
+  height: 1.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-nxzb-537 .consultation-7P7 .consultation-sQD .saline-consultation01july23pdf-q69 {
+  width: 21.3rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .appoint-history-em7 .auto-group-nxzb-537 .consultation-7P7 .consultation-sQD .mdi-print-preview-vtH {
+  width: 1.1334rem;
+  height: 1.4167rem;
+  position: absolute;
+  left: 15.3332rem;
+  top: 0.3417rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.components-SC1 .slider-payments-record-b29 .property-1default-u2q .rectangle-1313-3i1 {
+  width: 28.9rem;
+  height: 0.8rem;
+  cursor: pointer;
+  background-color: #d9d9d9;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm {
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB {
+  margin-bottom: 1.1rem;
+  width: 100%;
+  height: 7.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-newb-4t1 {
+  box-sizing: border-box;
+  padding: 0.2rem 5.25rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-newb-4t1 .sr-no-bd3 {
+  margin-right: 1.15rem;
+  height: 100%;
+  row-gap: 0.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-newb-4t1 .sr-no-bd3 .no-ihf {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #5f5f5f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-newb-4t1 .sr-no-bd3 .item-1-DPX {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-newb-4t1 .sr-no-bd3 .item-1-8WV {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-newb-4t1 .date-4f3 {
+  margin-right: 1.25rem;
+  height: 100%;
+  row-gap: 0.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-newb-4t1 .date-4f3 .date-QU1 {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #5f5f5f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-newb-4t1 .date-4f3 .item-01-07-23-8uo {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-newb-4t1 .date-4f3 .item-26-05-23-sMb {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-newb-4t1 .day-njT {
+  margin-right: 2.4rem;
+  height: 100%;
+  row-gap: 0.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-newb-4t1 .day-njT .day-Xh3 {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #5f5f5f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-newb-4t1 .day-njT .sat-g49 {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-newb-4t1 .day-njT .mon-Qkq {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-newb-4t1 .date-kZo {
+  height: 100%;
+  row-gap: 0.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-newb-4t1 .date-kZo .mode-hjw {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #5f5f5f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-newb-4t1 .date-kZo .upi-Ezm {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-newb-4t1 .date-kZo .bank-nWV {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-hhsx-7of {
+  width: 22.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-hhsx-7of .doctor-5Eh {
+  width: 5.45rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  row-gap: 0.8rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-hhsx-7of .doctor-5Eh .amount-18M {
+  width: 100%;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #5f5f5f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-hhsx-7of .doctor-5Eh .item-1000-j4M {
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-hhsx-7of .doctor-5Eh .item-200-SzM {
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-hhsx-7of .consultation-n2d {
+  width: 21.3rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-hhsx-7of .consultation-n2d .auto-group-dyez-WzD {
+  box-sizing: border-box;
+  padding: 0rem 0.55rem 0.8rem 0.55rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-hhsx-7of .consultation-n2d .auto-group-dyez-WzD .receipt-eqX {
+  margin: 0rem 0rem 0.8rem 2.6rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #5f5f5f;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-hhsx-7of .consultation-n2d .auto-group-dyez-WzD .consultation-mQM {
+  width: 100%;
+  height: 1.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-hhsx-7of .consultation-n2d .auto-group-dyez-WzD .consultation-mQM .highfeverreceipt01july23pdf-Kgm {
+  width: 20.2rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-hhsx-7of .consultation-n2d .auto-group-dyez-WzD .consultation-mQM .mdi-print-preview-36y {
+  width: 1.1333rem;
+  height: 1.4167rem;
+  position: absolute;
+  left: 14.7833rem;
+  top: 0.3417rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-hhsx-7of .consultation-n2d .consultation-ABb {
+  width: 100%;
+  height: 1.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-hhsx-7of .consultation-n2d .consultation-ABb .saline-consultation01july23pdf-76q {
+  width: 21.3rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #009394;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .appoint-history-XdB .auto-group-hhsx-7of .consultation-n2d .consultation-ABb .mdi-print-preview-pG9 {
+  width: 1.1333rem;
+  height: 1.4167rem;
+  position: absolute;
+  left: 15.3333rem;
+  top: 0.3417rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.components-SC1 .slider-payments-record-b29 .property-1variant2-yLm .rectangle-1313-XwF {
+  width: 28.9rem;
+  height: 0.8rem;
+  cursor: pointer;
+  background-color: #d9d9d9;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.components-SC1 .heading-38u {
+  width: 22.5rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 178.3rem;
+  top: 111.6rem;
+  display: flex;
+  align-items: center;
+}
+.components-SC1 .heading-38u .auto-group-ntxs-Zsw {
+  margin: 0.2rem 0.7rem 0.1rem 0rem;
+  height: calc(100% - 0.3rem);
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.6428571429;
+  letter-spacing: 0.042rem;
+  text-transform: uppercase;
+  color: #202741;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.2rem #009394;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.components-SC1 .heading-38u .done-r6M {
+  margin-right: 0.8rem;
+  width: 3.8rem;
+  height: 100%;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.3;
+  letter-spacing: 0.06rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Cabin, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #009394;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.components-SC1 .heading-38u .material-symbols-edit-iuF {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.components-SC1 .auto-group-ea8q-enu {
+  width: 13.3291rem;
+  height: 46.8rem;
+  position: absolute;
+  left: 225.5709rem;
+  top: 167.2333rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.components-SC1 .auto-group-ea8q-enu .ri-logout-circle-r-line-yKP {
+  margin: 0rem 0rem 11.467rem 4.163rem;
+  width: 9.1666rem;
+  height: 8.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.components-SC1 .auto-group-ea8q-enu .uil-signout-gzV {
+  margin: 0rem 0rem 12rem 3.329rem;
+  width: 6.6666rem;
+  height: 8.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.components-SC1 .auto-group-ea8q-enu .ic-twotone-refresh-22m {
+  margin-right: 6.6666rem;
+  width: 6.6625rem;
+  height: 6.6667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.components-SC1 .mdi-export-9dB {
+  width: 9.1666rem;
+  height: 6.6667rem;
+  position: absolute;
+  left: 214.3166rem;
+  top: 207.3667rem;
+  object-fit: contain;
+  vertical-align: top;
+}

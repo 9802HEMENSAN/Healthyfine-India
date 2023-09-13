@@ -1,0 +1,1111 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.patients-list-ZnZ {
+  box-sizing: border-box;
+  padding-right: 5.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background-color: #ffffff;
+}
+.patients-list-ZnZ .frame-2609219-gMP {
+  margin-right: 5.3rem;
+  box-sizing: border-box;
+  padding: 1.4rem 0rem 23.751rem 2.9rem;
+  width: 29.1rem;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .frame-129-aBs {
+  margin: 0rem 4.191rem 4.3rem 0.3rem;
+  width: calc(100% - 4.4913rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .frame-129-aBs .image-4-VJq {
+  margin-right: 0.4rem;
+  width: 5.3087rem;
+  height: 4.5913rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .frame-129-aBs .healtether-23s {
+  display: flex;
+  font-size: 2.8696rem;
+  font-weight: 600;
+  line-height: 2.3000000133;
+  color: #03bf9c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 {
+  width: 30.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .auto-group-k1ar-63j {
+  box-sizing: border-box;
+  padding-bottom: 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .auto-group-k1ar-63j .frame-2609221-nx9 {
+  margin: 0rem 7.4rem 3rem 0rem;
+  box-sizing: border-box;
+  padding: 1rem 13.8rem 1rem 0.95rem;
+  width: calc(100% - 7.4rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .auto-group-k1ar-63j .frame-2609221-nx9 .iconhome-3t5 {
+  margin: 0rem 1.65rem 0.267rem 0rem;
+  width: 2.4rem;
+  height: 2.1333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .auto-group-k1ar-63j .frame-2609221-nx9 .home-LMP {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .auto-group-k1ar-63j .frame-2609222-RNq {
+  margin: 0rem 7.4rem 3rem 0rem;
+  box-sizing: border-box;
+  padding: 1rem 7.8rem 1rem 0.983rem;
+  width: calc(100% - 7.4rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .auto-group-k1ar-63j .frame-2609222-RNq .uis-schedule-vqP {
+  margin: 0rem 1.683rem 0rem 0rem;
+  width: 2.3333rem;
+  height: 2.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .auto-group-k1ar-63j .frame-2609222-RNq .appointments-Fsf {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .auto-group-k1ar-63j .frame-2609227-mb7 {
+  margin: 0rem 7.4rem 3rem 0rem;
+  box-sizing: border-box;
+  padding: 0.975rem 6.4rem 0.975rem 0.925rem;
+  width: calc(100% - 7.4rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .auto-group-k1ar-63j .frame-2609227-mb7 .ion-logo-whatsapp-5bo {
+  margin-right: 1.625rem;
+  width: 2.45rem;
+  height: 2.45rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .auto-group-k1ar-63j .frame-2609227-mb7 .whatsapp-chat-1kM {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .auto-group-k1ar-63j .frame-2609223-Lnd {
+  margin: 0rem 7.4rem 3rem 0rem;
+  box-sizing: border-box;
+  padding: 0.941rem 6.852rem 0.941rem 1.069rem;
+  width: calc(100% - 7.4rem);
+  display: flex;
+  align-items: center;
+  background-color: #f7f4fa;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .auto-group-k1ar-63j .frame-2609223-Lnd .component-3-rW5 {
+  margin: 0rem 1.662rem 0rem 0rem;
+  width: 2.0173rem;
+  height: 1.7886rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .auto-group-k1ar-63j .frame-2609223-Lnd .patients-record-ned {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .auto-group-k1ar-63j .frame-2609224-vkq {
+  margin: 0rem 7.4rem 3.8rem 0rem;
+  box-sizing: border-box;
+  padding: 0.805rem 8.852rem 0.852rem 0.788rem;
+  width: calc(100% - 7.4rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .auto-group-k1ar-63j .frame-2609224-vkq .component-5-SUH {
+  margin-right: 1.5027rem;
+  width: 2.4578rem;
+  height: 2.6259rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .auto-group-k1ar-63j .frame-2609224-vkq .manage-staff-WDF {
+  margin-top: 0.0472rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .auto-group-k1ar-63j .frame-2609228-dYm {
+  margin: 0rem 18.652rem 3.8rem 0.8rem;
+  box-sizing: border-box;
+  padding: 0.062rem 0rem 0.062rem 0.041rem;
+  width: calc(100% - 19.4518rem);
+  height: 2.6829rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .auto-group-k1ar-63j .frame-2609228-dYm .component-2-8kR {
+  margin: 0rem 1.541rem 0.068rem 0rem;
+  width: 2.3661rem;
+  height: 2.4909rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .auto-group-k1ar-63j .frame-2609228-dYm .payments-GLq {
+  margin-bottom: 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .auto-group-k1ar-63j .frame-2609225-c9o {
+  margin-right: 7.4rem;
+  box-sizing: border-box;
+  padding: 0.9rem 12rem 0.9rem 0.858rem;
+  width: calc(100% - 7.4rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .auto-group-k1ar-63j .frame-2609225-c9o .trending-up-iid {
+  margin: 0.097rem 1.558rem 0rem 0rem;
+  width: 2.3833rem;
+  height: 1.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .auto-group-k1ar-63j .frame-2609225-c9o .analytics-3ku {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .logout-aVw {
+  width: 100%;
+  height: 15.1rem;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .logout-aVw .frame-2609226-LV7 {
+  box-sizing: border-box;
+  padding: 0.9rem 13.4rem 0.9rem 1.017rem;
+  width: 23.4rem;
+  height: 4.2rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .logout-aVw .frame-2609226-LV7 .ri-logout-circle-r-line-f1b {
+  margin: 0rem 1.4rem 0rem 0rem;
+  width: 2.3833rem;
+  height: 2.1667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .frame-2609219-gMP .navigation-YH7 .logout-aVw .frame-2609226-LV7 .logout-Nwb {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB {
+  margin-top: 2.5rem;
+  width: 103.8rem;
+  height: 51.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .auto-group-x8zw-zi5 {
+  width: 103.3rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 8.5rem;
+  display: flex;
+  align-items: center;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .auto-group-x8zw-zi5 .frame-2609260-j9s {
+  margin: 1.1rem 38.9rem 1.1rem 0rem;
+  height: calc(100% - 2.2rem);
+  display: flex;
+  column-gap: 1.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .auto-group-x8zw-zi5 .frame-2609260-j9s .dashboard-EsK {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .auto-group-x8zw-zi5 .frame-2609260-j9s .vector-244-BXf {
+  width: 0.6rem;
+  height: 1.55rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .auto-group-x8zw-zi5 .frame-2609260-j9s .patients-record-X5j {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .auto-group-x8zw-zi5 .frame-2609356-Rwo {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .auto-group-x8zw-zi5 .frame-2609356-Rwo .schedule-appointment-yTX {
+  margin: 0.3rem 0.8rem 0.3rem 0rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1rem 0.8rem 0.8rem;
+  height: calc(100% - 0.6rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.1800000072);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .auto-group-x8zw-zi5 .frame-2609356-Rwo .schedule-appointment-yTX .group-36373-S6D {
+  margin-right: 0.6rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .auto-group-x8zw-zi5 .frame-2609356-Rwo .schedule-appointment-yTX .add-member-wHs {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #03bf9c;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .auto-group-x8zw-zi5 .frame-2609356-Rwo .schedule-appointment-PvZ {
+  box-sizing: border-box;
+  padding: 1.1rem 0.8rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #03bf9c;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .auto-group-x8zw-zi5 .frame-2609356-Rwo .schedule-appointment-PvZ .mdi-account-multiple-add-vfb {
+  margin-right: 0.6rem;
+  width: 3rem;
+  height: 1.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .auto-group-x8zw-zi5 .frame-2609356-Rwo .schedule-appointment-PvZ .schedule-appointment-f7P {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .rectangle-1218-B5j {
+  width: 102.9rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 6.3rem;
+  background-color: #d9d9d9;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .rectangle-1219-WNu {
+  width: 102.9rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 14.8rem;
+  background-color: #d9d9d9;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F {
+  width: 103.6rem;
+  height: 30.4rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 21.2rem;
+  overflow: hidden;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 {
+  width: 100%;
+  height: 100%;
+  row-gap: 0.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609259-KbF {
+  box-sizing: border-box;
+  padding: 0.8rem 4.3rem 0.8rem 7rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #730ac6;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609259-KbF .patient-FUu {
+  margin-right: 12.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609259-KbF .contact-P5K {
+  margin-right: 10.55rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609259-KbF .last-visited-tnm {
+  margin-right: 9.75rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609259-KbF .app-type-cTs {
+  margin-right: 8.1rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609259-KbF .payment-status-wFF {
+  margin-right: 6.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609259-KbF .action-fh3 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609253-c6V {
+  box-sizing: border-box;
+  padding: 1.5rem 9rem 1.5rem 3.9rem;
+  width: 100%;
+  height: 5.8rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #f7f3f9;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609253-c6V .frame-2609252-KWh {
+  margin: 0.2rem 6.7rem 0.2rem 0rem;
+  height: calc(100% - 0.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609253-c6V .frame-2609252-KWh .ramesh-patel-3hb {
+  margin-right: 6.95rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609253-c6V .frame-2609252-KWh .item-91-8649-32154-ybF {
+  margin-right: 7rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609253-c6V .frame-2609252-KWh .june-2023-JNd {
+  margin-right: 9.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609253-c6V .frame-2609252-KWh .follow-up-dfo {
+  margin-right: 10.25rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609253-c6V .frame-2609252-KWh .completed-mn1 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609253-c6V .ion-logo-whatsapp-7L5 {
+  width: 2.8rem;
+  height: 2.8rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609260-eau {
+  box-sizing: border-box;
+  padding: 1.675rem 9.175rem 1.675rem 4.25rem;
+  width: 100%;
+  height: 5.8rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #f7f3f9;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609260-eau .frame-2609252-BKw {
+  margin: 0.025rem 7.925rem 0.025rem 0rem;
+  height: calc(100% - 0.05rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609260-eau .frame-2609252-BKw .kimiya-jones-uWq {
+  margin-right: 7.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609260-eau .frame-2609252-BKw .item-91-8649-32154-3d3 {
+  margin-right: 7rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609260-eau .frame-2609252-BKw .june-2023-Ahf {
+  margin-right: 11.25rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609260-eau .frame-2609252-BKw .new-JJ5 {
+  margin-right: 13.25rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609260-eau .frame-2609252-BKw .pending-e73 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609260-eau .ion-logo-whatsapp-Bcm {
+  width: 2.45rem;
+  height: 2.45rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609261-Wuw {
+  box-sizing: border-box;
+  padding: 1.675rem 9.175rem 1.675rem 5.25rem;
+  width: 100%;
+  height: 5.8rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #f7f3f9;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609261-Wuw .frame-2609252-djf {
+  margin: 0.025rem 9.825rem 0.025rem 0rem;
+  height: calc(100% - 0.05rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609261-Wuw .frame-2609252-djf .lara-croft-kpH {
+  margin-right: 8.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609261-Wuw .frame-2609252-djf .item-91-8649-32154-tQh {
+  margin-right: 10.9rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609261-Wuw .frame-2609252-djf .na-onZ {
+  margin-right: 13.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609261-Wuw .frame-2609252-djf .cancelled-kSu {
+  margin-right: 13.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609261-Wuw .frame-2609252-djf .na-VfP {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609261-Wuw .ion-logo-whatsapp-SqX {
+  width: 2.45rem;
+  height: 2.45rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609262-aB3 {
+  box-sizing: border-box;
+  padding: 1.675rem 9.175rem 1.675rem 4.25rem;
+  width: 100%;
+  height: 5.8rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #f7f3f9;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609262-aB3 .frame-2609252-Jcq {
+  margin: 0.025rem 6.875rem 0.025rem 0rem;
+  height: calc(100% - 0.05rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609262-aB3 .frame-2609252-Jcq .don-quixote-q6y {
+  margin-right: 7.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609262-aB3 .frame-2609252-Jcq .item-91-8649-32154-xxH {
+  margin-right: 7rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609262-aB3 .frame-2609252-Jcq .june-2023-tqw {
+  margin-right: 9.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609262-aB3 .frame-2609252-Jcq .follow-up-2x9 {
+  margin-right: 10.25rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609262-aB3 .frame-2609252-Jcq .completed-NWD {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609274-T3F .frame-2609259-zJ5 .frame-2609262-aB3 .ion-logo-whatsapp-X8D {
+  width: 2.45rem;
+  height: 2.45rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .group-36378-TXf {
+  width: 103.6rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 16.8rem;
+  display: flex;
+  align-items: flex-start;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .group-36378-TXf .results-found-zXb {
+  margin-right: 65.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .group-36378-TXf .frame-2609266-8th {
+  height: 100%;
+  display: flex;
+  column-gap: 1.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .group-36378-TXf .frame-2609266-8th .frame-2609343-gfK {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .group-36378-TXf .frame-2609266-8th .frame-2609343-gfK .frame-2609341-3km {
+  margin-right: 0.4rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .group-36378-TXf .frame-2609266-8th .frame-2609343-gfK .refresh-BMB {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .group-36378-TXf .frame-2609266-8th .frame-2609250-81X {
+  margin: 0.2rem 0;
+  height: calc(100% - 0.4rem);
+  display: flex;
+  column-gap: 0.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .group-36378-TXf .frame-2609266-8th .frame-2609250-81X .item-1-20-EqF {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .group-36378-TXf .frame-2609266-8th .frame-2609250-81X .of-PTF {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .group-36378-TXf .frame-2609266-8th .frame-2609250-81X .item-50-9BX {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .group-36378-TXf .frame-2609266-8th .frame-2609280-t97 {
+  box-sizing: border-box;
+  padding: 0.7rem 1.05rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .group-36378-TXf .frame-2609266-8th .frame-2609280-t97 .chevron-left-Req {
+  margin-right: 2.1rem;
+  width: 0.7rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .group-36378-TXf .frame-2609266-8th .frame-2609280-t97 .chevron-left-mih {
+  width: 0.7rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609302-7nZ {
+  width: 102.2486rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609302-7nZ .frame-2609231-GQZ {
+  margin-right: 25.8rem;
+  box-sizing: border-box;
+  padding: 1.2rem 1.538rem 1.4rem 1.2rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #202741;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609302-7nZ .frame-2609231-GQZ .frame-2609247-o9b {
+  margin-right: 39.1381rem;
+  box-sizing: border-box;
+  padding-left: 0.225rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609302-7nZ .frame-2609231-GQZ .frame-2609247-o9b .ic-baseline-search-Js3 {
+  margin: 0rem 0.463rem 0.038rem 0rem;
+  width: 1.3117rem;
+  height: 1.3118rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609302-7nZ .frame-2609231-GQZ .frame-2609247-o9b .search-patient-d8d {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6a798a;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609302-7nZ .frame-2609231-GQZ .system-uicons-filtering-8r5 {
+  margin-top: 0.2953rem;
+  width: 1.5238rem;
+  height: 1.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609302-7nZ .frame-2609301-dnq {
+  margin: 0.4rem 0rem 0.5rem 0rem;
+  height: calc(100% - 0.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609302-7nZ .frame-2609301-dnq .auto-group-5vq3-NVX {
+  box-sizing: border-box;
+  padding: 0.779rem 1.729rem 0.775rem 0.438rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609302-7nZ .frame-2609301-dnq .auto-group-5vq3-NVX .ion-help-circle-outline-Je5 {
+  margin: 0rem 2.163rem 0.004rem 0rem;
+  width: 1.925rem;
+  height: 1.925rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609302-7nZ .frame-2609301-dnq .auto-group-5vq3-NVX .iconnotifications-RTo {
+  width: 1.9457rem;
+  height: 1.9456rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609302-7nZ .frame-2609301-dnq .auto-group-guf3-ARP {
+  width: 13.2486rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609302-7nZ .frame-2609301-dnq .auto-group-guf3-ARP .frame-2609282-hgD {
+  width: 10.4rem;
+  height: 3.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609302-7nZ .frame-2609301-dnq .auto-group-guf3-ARP .frame-2609282-hgD .rectangle-1227-Sdo {
+  margin-right: 0.3rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609302-7nZ .frame-2609301-dnq .auto-group-guf3-ARP .frame-2609282-hgD .ajit-bhalla-N1f {
+  margin-top: 0.02rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609302-7nZ .frame-2609301-dnq .auto-group-guf3-ARP .frame-2609281-5wf {
+  width: 2.9486rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 10.3rem;
+  top: 0.9rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609302-7nZ .frame-2609301-dnq .auto-group-guf3-ARP .frame-2609281-5wf .en-cgh {
+  margin-right: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #1e1e36;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patients-list-ZnZ .auto-group-w6df-GXB .frame-2609302-7nZ .frame-2609301-dnq .auto-group-guf3-ARP .frame-2609281-5wf .vector-kH7 {
+  margin-top: 0rem;
+  width: 0.7486rem;
+  height: 0.3743rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

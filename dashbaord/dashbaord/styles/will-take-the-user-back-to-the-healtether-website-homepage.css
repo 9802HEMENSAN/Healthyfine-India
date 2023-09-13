@@ -1,0 +1,27 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 23.4rem;
+}.will-take-the-user-back-to-the-healtether-website-homepage-n6V {
+  width: 100%;
+  height: 3.9rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2000000477;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+}

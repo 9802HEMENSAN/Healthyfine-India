@@ -1,0 +1,1155 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.patients-list-ZnZ {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background-color: #ffffff;
+  box-sizing: border-box;
+  padding-right: 5.8rem;
+  width: 100%;
+  overflow: hidden;
+
+  .frame-2609219-gMP {
+    box-shadow: 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+    margin-right: 5.3rem;
+    padding: 1.4rem 0rem 23.751rem 2.9rem;
+    width: 29.1rem;
+    overflow: hidden;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    height: 102.4rem;
+    position: relative;
+    background-color: #ffffff;
+    flex-shrink: 0;
+
+    .frame-129-aBs {
+      flex-shrink: 0;
+      margin: 0rem 4.191rem 4.3rem 0.3rem;
+      width: calc(100% - 4.4913rem);
+      display: flex;
+      align-items: center;
+
+      .image-4-VJq {
+        margin-right: 0.4rem;
+        width: 5.3087rem;
+        height: 4.5913rem;
+        object-fit: cover;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .healtether-23s {
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        display: flex;
+        font-size: 2.8696rem;
+        font-weight: 600;
+        line-height: 2.3000000133;
+        color: #03bf9c;
+      }
+    }
+    .navigation-YH7 {
+      flex-shrink: 0;
+      width: 30.8rem;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+
+      .auto-group-k1ar-63j {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding-bottom: 3rem;
+
+        .frame-2609221-nx9 {
+          align-items: center;
+          box-sizing: border-box;
+          width: calc(100% - 7.4rem);
+          cursor: pointer;
+          display: flex;
+          margin: 0rem 7.4rem 3rem 0rem;
+          padding: 1rem 13.8rem 1rem 0.95rem;
+          background-color: #ffffff;
+          flex-shrink: 0;
+
+          .iconhome-3t5 {
+            flex-shrink: 0;
+            margin: 0rem 1.65rem 0.267rem 0rem;
+            width: 2.4rem;
+            height: 2.1333rem;
+            object-fit: contain;
+            vertical-align: top;
+          }
+          .home-LMP {
+            font-weight: 400;
+            line-height: 1.5;
+            color: #000000;
+            font-family: Open Sans, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-size: 1.6rem;
+          }
+        }
+        .frame-2609222-RNq {
+          cursor: pointer;
+          display: flex;
+          background-color: #ffffff;
+          flex-shrink: 0;
+          margin: 0rem 7.4rem 3rem 0rem;
+          box-sizing: border-box;
+          padding: 1rem 7.8rem 1rem 0.983rem;
+          width: calc(100% - 7.4rem);
+          align-items: center;
+
+          .uis-schedule-vqP {
+            height: 2.3333rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin: 0rem 1.683rem 0rem 0rem;
+            width: 2.3333rem;
+          }
+          .appointments-Fsf {
+            flex-shrink: 0;
+            font-size: 1.6rem;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #000000;
+            font-family: Open Sans, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+        }
+        .frame-2609227-mb7 {
+          width: calc(100% - 7.4rem);
+          flex-shrink: 0;
+          margin: 0rem 7.4rem 3rem 0rem;
+          box-sizing: border-box;
+          padding: 0.975rem 6.4rem 0.975rem 0.925rem;
+          cursor: pointer;
+          display: flex;
+          align-items: center;
+          background-color: #ffffff;
+
+          .ion-logo-whatsapp-5bo {
+            height: 2.45rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin-right: 1.625rem;
+            width: 2.45rem;
+          }
+          .whatsapp-chat-1kM {
+            font-size: 1.6rem;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #000000;
+            font-family: Open Sans, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+          }
+        }
+        .frame-2609223-Lnd {
+          margin: 0rem 7.4rem 3rem 0rem;
+          box-sizing: border-box;
+          padding: 0.941rem 6.852rem 0.941rem 1.069rem;
+          width: calc(100% - 7.4rem);
+          display: flex;
+          align-items: center;
+          background-color: #f7f4fa;
+          flex-shrink: 0;
+
+          .component-3-rW5 {
+            margin: 0rem 1.662rem 0rem 0rem;
+            width: 2.0173rem;
+            height: 1.7886rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+          .patients-record-ned {
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-size: 1.6rem;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #000000;
+            font-family: Open Sans, 'Source Sans Pro';
+          }
+        }
+        .frame-2609224-vkq {
+          cursor: pointer;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+          margin: 0rem 7.4rem 3.8rem 0rem;
+          box-sizing: border-box;
+          padding: 0.805rem 8.852rem 0.852rem 0.788rem;
+          width: calc(100% - 7.4rem);
+
+          .component-5-SUH {
+            position: relative;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin-right: 1.5027rem;
+            width: 2.4578rem;
+            height: 2.6259rem;
+          }
+          .manage-staff-WDF {
+            font-weight: 400;
+            line-height: 1.5;
+            color: #000000;
+            font-family: Open Sans, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-top: 0.0472rem;
+            font-size: 1.6rem;
+          }
+        }
+        .frame-2609228-dYm {
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+          margin: 0rem 18.652rem 3.8rem 0.8rem;
+          box-sizing: border-box;
+          padding: 0.062rem 0rem 0.062rem 0.041rem;
+          width: calc(100% - 19.4518rem);
+          height: 2.6829rem;
+
+          .component-2-8kR {
+            height: 2.4909rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin: 0rem 1.541rem 0.068rem 0rem;
+            width: 2.3661rem;
+          }
+          .payments-GLq {
+            flex-shrink: 0;
+            margin-bottom: 0rem;
+            font-size: 1.6rem;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #000000;
+            font-family: Open Sans, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+        }
+        .frame-2609225-c9o {
+          margin-right: 7.4rem;
+          box-sizing: border-box;
+          padding: 0.9rem 12rem 0.9rem 0.858rem;
+          width: calc(100% - 7.4rem);
+          cursor: pointer;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .trending-up-iid {
+            position: relative;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin: 0.097rem 1.558rem 0rem 0rem;
+            width: 2.3833rem;
+            height: 1.3rem;
+          }
+          .analytics-3ku {
+            flex-shrink: 0;
+            font-size: 1.6rem;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #000000;
+            font-family: Open Sans, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+        }
+      }
+      .logout-aVw {
+        height: 15.1rem;
+        flex-shrink: 0;
+        width: 100%;
+
+        .frame-2609226-LV7 {
+          align-items: center;
+          box-sizing: border-box;
+          padding: 0.9rem 13.4rem 0.9rem 1.017rem;
+          width: 23.4rem;
+          height: 4.2rem;
+          cursor: pointer;
+          display: flex;
+
+          .ri-logout-circle-r-line-f1b {
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin: 0rem 1.4rem 0rem 0rem;
+            width: 2.3833rem;
+            height: 2.1667rem;
+          }
+          .logout-Nwb {
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-size: 1.6rem;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #000000;
+            font-family: Open Sans, 'Source Sans Pro';
+          }
+        }
+      }
+    }
+  }
+  .auto-group-w6df-GXB {
+    margin-top: 2.5rem;
+    width: 103.8rem;
+    height: 51.6rem;
+    position: relative;
+    flex-shrink: 0;
+
+    .auto-group-x8zw-zi5 {
+      display: flex;
+      align-items: center;
+      width: 103.3rem;
+      height: 4.6rem;
+      position: absolute;
+      left: 0;
+      top: 8.5rem;
+
+      .frame-2609260-j9s {
+        margin: 1.1rem 38.9rem 1.1rem 0rem;
+        height: calc(100% - 2.2rem);
+        display: flex;
+        column-gap: 1.6rem;
+        align-items: center;
+        flex-shrink: 0;
+
+        .dashboard-EsK {
+          flex-shrink: 0;
+          font-size: 1.6rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #585858;
+          font-family: Open Sans, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+        .vector-244-BXf {
+          height: 1.55rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          width: 0.6rem;
+        }
+        .patients-record-X5j {
+          flex-shrink: 0;
+          font-size: 1.6rem;
+          font-weight: 400;
+          line-height: 1.5;
+          color: #585858;
+          font-family: Open Sans, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+      }
+      .frame-2609356-Rwo {
+        height: 100%;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .schedule-appointment-yTX {
+          align-items: center;
+          background-color: #ffffff;
+          border-radius: 0.8rem;
+          margin: 0.3rem 0.8rem 0.3rem 0rem;
+          height: calc(100% - 0.6rem);
+          display: flex;
+          box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.1800000072);
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 0.8rem 1rem 0.8rem 0.8rem;
+          cursor: pointer;
+
+          .group-36373-S6D {
+            height: 1.4rem;
+            position: relative;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin-right: 0.6rem;
+            width: 1.4rem;
+          }
+          .add-member-wHs {
+            font-size: 1.6rem;
+            font-weight: 600;
+            line-height: 1.5;
+            color: #03bf9c;
+            font-family: Open Sans, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+          }
+        }
+        .schedule-appointment-PvZ {
+          box-sizing: border-box;
+          height: 100%;
+          cursor: pointer;
+          border-radius: 0.8rem;
+          flex-shrink: 0;
+          padding: 1.1rem 0.8rem;
+          display: flex;
+          align-items: center;
+          background-color: #03bf9c;
+
+          .mdi-account-multiple-add-vfb {
+            margin-right: 0.6rem;
+            width: 3rem;
+            height: 1.75rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+          .schedule-appointment-f7P {
+            line-height: 1.5;
+            color: #ffffff;
+            font-family: Open Sans, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-size: 1.6rem;
+            font-weight: 600;
+          }
+        }
+      }
+    }
+    .rectangle-1218-B5j {
+      width: 102.9rem;
+      height: 0.1rem;
+      position: absolute;
+      left: 0.7rem;
+      top: 6.3rem;
+      background-color: #d9d9d9;
+    }
+    .rectangle-1219-WNu {
+      background-color: #d9d9d9;
+      width: 102.9rem;
+      height: 0.1rem;
+      position: absolute;
+      left: 0.7rem;
+      top: 14.8rem;
+    }
+    .frame-2609274-T3F {
+      top: 21.2rem;
+      overflow: hidden;
+      width: 103.6rem;
+      height: 30.4rem;
+      position: absolute;
+      left: 0.2rem;
+
+      .frame-2609259-zJ5 {
+        width: 100%;
+        height: 100%;
+        row-gap: 0.8rem;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+
+        .frame-2609259-KbF {
+          display: flex;
+          align-items: center;
+          background-color: #730ac6;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 0.8rem 4.3rem 0.8rem 7rem;
+          width: 100%;
+
+          .patient-FUu {
+            margin-right: 12.2rem;
+            font-size: 1.6rem;
+            font-weight: 600;
+            color: #ffffff;
+            font-family: Open Sans, 'Source Sans Pro';
+            text-align: center;
+            line-height: 1.5;
+            white-space: nowrap;
+            flex-shrink: 0;
+          }
+          .contact-P5K {
+            margin-right: 10.55rem;
+            text-align: center;
+            line-height: 1.5;
+            color: #ffffff;
+            flex-shrink: 0;
+            font-size: 1.6rem;
+            font-weight: 600;
+            font-family: Open Sans, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+          .last-visited-tnm {
+            margin-right: 9.75rem;
+            font-family: Open Sans, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            text-align: center;
+            font-size: 1.6rem;
+            font-weight: 600;
+            line-height: 1.5;
+            color: #ffffff;
+          }
+          .app-type-cTs {
+            line-height: 1.5;
+            color: #ffffff;
+            flex-shrink: 0;
+            margin-right: 8.1rem;
+            text-align: center;
+            font-family: Open Sans, 'Source Sans Pro';
+            white-space: nowrap;
+            font-size: 1.6rem;
+            font-weight: 600;
+          }
+          .payment-status-wFF {
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-right: 6.4rem;
+            text-align: center;
+            font-size: 1.6rem;
+            font-weight: 600;
+            font-family: Open Sans, 'Source Sans Pro';
+            line-height: 1.5;
+            color: #ffffff;
+          }
+          .action-fh3 {
+            text-align: center;
+            font-size: 1.6rem;
+            font-weight: 600;
+            line-height: 1.5;
+            color: #ffffff;
+            font-family: Open Sans, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+          }
+        }
+        .frame-2609253-c6V {
+          flex-shrink: 0;
+          height: 5.8rem;
+          cursor: pointer;
+          position: relative;
+          align-items: center;
+          display: flex;
+          background-color: #f7f3f9;
+          box-sizing: border-box;
+          padding: 1.5rem 9rem 1.5rem 3.9rem;
+          width: 100%;
+          overflow: hidden;
+
+          .frame-2609252-KWh {
+            margin: 0.2rem 6.7rem 0.2rem 0rem;
+            height: calc(100% - 0.4rem);
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+
+            .ramesh-patel-3hb {
+              text-align: center;
+              font-family: Open Sans, 'Source Sans Pro';
+              flex-shrink: 0;
+              margin-right: 6.95rem;
+              font-size: 1.6rem;
+              font-weight: 400;
+              line-height: 1.5;
+              color: #585858;
+              white-space: nowrap;
+            }
+            .item-91-8649-32154-ybF {
+              margin-right: 7rem;
+              text-align: center;
+              font-weight: 400;
+              font-family: Open Sans, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.6rem;
+              line-height: 1.5;
+              color: #585858;
+            }
+            .june-2023-JNd {
+              margin-right: 9.3rem;
+              font-weight: 400;
+              line-height: 1.5;
+              color: #585858;
+              font-family: Open Sans, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              text-align: center;
+              font-size: 1.6rem;
+            }
+            .follow-up-dfo {
+              white-space: nowrap;
+              margin-right: 10.25rem;
+              text-align: center;
+              font-size: 1.6rem;
+              font-weight: 400;
+              line-height: 1.5;
+              color: #585858;
+              font-family: Open Sans, 'Source Sans Pro';
+              flex-shrink: 0;
+            }
+            .completed-mn1 {
+              text-align: center;
+              font-size: 1.6rem;
+              font-weight: 400;
+              line-height: 1.5;
+              color: #585858;
+              font-family: Open Sans, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+            }
+          }
+          .ion-logo-whatsapp-7L5 {
+            width: 2.8rem;
+            height: 2.8rem;
+            cursor: pointer;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+        }
+        .frame-2609260-eau {
+          align-items: center;
+          background-color: #f7f3f9;
+          box-sizing: border-box;
+          padding: 1.675rem 9.175rem 1.675rem 4.25rem;
+          width: 100%;
+          height: 5.8rem;
+          position: relative;
+          display: flex;
+          flex-shrink: 0;
+          overflow: hidden;
+
+          .frame-2609252-BKw {
+            flex-shrink: 0;
+            margin: 0.025rem 7.925rem 0.025rem 0rem;
+            height: calc(100% - 0.05rem);
+            display: flex;
+            align-items: center;
+
+            .kimiya-jones-uWq {
+              margin-right: 7.3rem;
+              text-align: center;
+              flex-shrink: 0;
+              font-size: 1.6rem;
+              font-weight: 400;
+              line-height: 1.5;
+              color: #585858;
+              font-family: Open Sans, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+            .item-91-8649-32154-3d3 {
+              text-align: center;
+              font-size: 1.6rem;
+              line-height: 1.5;
+              font-family: Open Sans, 'Source Sans Pro';
+              flex-shrink: 0;
+              margin-right: 7rem;
+              font-weight: 400;
+              color: #585858;
+              white-space: nowrap;
+            }
+            .june-2023-Ahf {
+              font-family: Open Sans, 'Source Sans Pro';
+              line-height: 1.5;
+              text-align: center;
+              font-size: 1.6rem;
+              font-weight: 400;
+              color: #585858;
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin-right: 11.25rem;
+            }
+            .new-JJ5 {
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin-right: 13.25rem;
+              text-align: center;
+              font-size: 1.6rem;
+              font-weight: 400;
+              line-height: 1.5;
+              color: #585858;
+              font-family: Open Sans, 'Source Sans Pro';
+            }
+            .pending-e73 {
+              line-height: 1.5;
+              color: #585858;
+              font-family: Open Sans, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              text-align: center;
+              font-size: 1.6rem;
+              font-weight: 400;
+            }
+          }
+          .ion-logo-whatsapp-Bcm {
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            width: 2.45rem;
+            height: 2.45rem;
+          }
+        }
+        .frame-2609261-Wuw {
+          background-color: #f7f3f9;
+          box-sizing: border-box;
+          width: 100%;
+          overflow: hidden;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+          padding: 1.675rem 9.175rem 1.675rem 5.25rem;
+          height: 5.8rem;
+          position: relative;
+
+          .frame-2609252-djf {
+            height: calc(100% - 0.05rem);
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+            margin: 0.025rem 9.825rem 0.025rem 0rem;
+
+            .lara-croft-kpH {
+              margin-right: 8.3rem;
+              font-size: 1.6rem;
+              font-weight: 400;
+              font-family: Open Sans, 'Source Sans Pro';
+              flex-shrink: 0;
+              text-align: center;
+              line-height: 1.5;
+              color: #585858;
+              white-space: nowrap;
+            }
+            .item-91-8649-32154-tQh {
+              margin-right: 10.9rem;
+              text-align: center;
+              font-weight: 400;
+              white-space: nowrap;
+              font-size: 1.6rem;
+              line-height: 1.5;
+              color: #585858;
+              font-family: Open Sans, 'Source Sans Pro';
+              flex-shrink: 0;
+            }
+            .na-onZ {
+              font-size: 1.6rem;
+              line-height: 1.5;
+              color: #585858;
+              flex-shrink: 0;
+              margin-right: 13.2rem;
+              text-align: center;
+              font-weight: 400;
+              font-family: Open Sans, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+            .cancelled-kSu {
+              margin-right: 13.2rem;
+              text-align: center;
+              font-size: 1.6rem;
+              font-weight: 400;
+              line-height: 1.5;
+              white-space: nowrap;
+              color: #585858;
+              font-family: Open Sans, 'Source Sans Pro';
+              flex-shrink: 0;
+            }
+            .na-VfP {
+              text-align: center;
+              font-size: 1.6rem;
+              font-weight: 400;
+              line-height: 1.5;
+              color: #585858;
+              font-family: Open Sans, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+            }
+          }
+          .ion-logo-whatsapp-SqX {
+            width: 2.45rem;
+            height: 2.45rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+        }
+        .frame-2609262-aB3 {
+          height: 5.8rem;
+          background-color: #f7f3f9;
+          padding: 1.675rem 9.175rem 1.675rem 4.25rem;
+          width: 100%;
+          overflow: hidden;
+          position: relative;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+          box-sizing: border-box;
+
+          .frame-2609252-Jcq {
+            margin: 0.025rem 6.875rem 0.025rem 0rem;
+            height: calc(100% - 0.05rem);
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+
+            .don-quixote-q6y {
+              margin-right: 7.3rem;
+              text-align: center;
+              font-weight: 400;
+              line-height: 1.5;
+              color: #585858;
+              white-space: nowrap;
+              font-size: 1.6rem;
+              font-family: Open Sans, 'Source Sans Pro';
+              flex-shrink: 0;
+            }
+            .item-91-8649-32154-xxH {
+              color: #585858;
+              font-family: Open Sans, 'Source Sans Pro';
+              margin-right: 7rem;
+              text-align: center;
+              line-height: 1.5;
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.6rem;
+              font-weight: 400;
+            }
+            .june-2023-tqw {
+              font-size: 1.6rem;
+              font-weight: 400;
+              color: #585858;
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin-right: 9.3rem;
+              line-height: 1.5;
+              font-family: Open Sans, 'Source Sans Pro';
+              text-align: center;
+            }
+            .follow-up-2x9 {
+              font-size: 1.6rem;
+              line-height: 1.5;
+              color: #585858;
+              flex-shrink: 0;
+              margin-right: 10.25rem;
+              font-weight: 400;
+              font-family: Open Sans, 'Source Sans Pro';
+              white-space: nowrap;
+              text-align: center;
+            }
+            .completed-NWD {
+              white-space: nowrap;
+              flex-shrink: 0;
+              text-align: center;
+              font-size: 1.6rem;
+              font-weight: 400;
+              line-height: 1.5;
+              color: #585858;
+              font-family: Open Sans, 'Source Sans Pro';
+            }
+          }
+          .ion-logo-whatsapp-X8D {
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            width: 2.45rem;
+            height: 2.45rem;
+          }
+        }
+      }
+    }
+    .group-36378-TXf {
+      align-items: flex-start;
+      width: 103.6rem;
+      height: 2.8rem;
+      position: absolute;
+      left: 0.2rem;
+      top: 16.8rem;
+      display: flex;
+
+      .results-found-zXb {
+        line-height: 1.5;
+        color: #585858;
+        font-family: Open Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-right: 65.8rem;
+        font-size: 1.6rem;
+        font-weight: 400;
+      }
+      .frame-2609266-8th {
+        align-items: center;
+        flex-shrink: 0;
+        height: 100%;
+        display: flex;
+        column-gap: 1.6rem;
+
+        .frame-2609343-gfK {
+          align-items: center;
+          flex-shrink: 0;
+          height: 100%;
+          display: flex;
+
+          .frame-2609341-3km {
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin-right: 0.4rem;
+            width: 2.8rem;
+            height: 2.8rem;
+          }
+          .refresh-BMB {
+            flex-shrink: 0;
+            font-size: 1.6rem;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #585858;
+            font-family: Open Sans, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+        }
+        .frame-2609250-81X {
+          margin: 0.2rem 0;
+          height: calc(100% - 0.4rem);
+          display: flex;
+          column-gap: 0.5rem;
+          align-items: center;
+          flex-shrink: 0;
+
+          .item-1-20-EqF {
+            line-height: 1.5;
+            color: #585858;
+            font-family: Open Sans, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-size: 1.6rem;
+            font-weight: 400;
+          }
+          .of-PTF {
+            font-size: 1.6rem;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #585858;
+            font-family: Open Sans, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+          }
+          .item-50-9BX {
+            line-height: 1.5;
+            color: #585858;
+            font-family: Open Sans, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-size: 1.6rem;
+            font-weight: 400;
+          }
+        }
+        .frame-2609280-t97 {
+          padding: 0.7rem 1.05rem;
+          height: 100%;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+          box-sizing: border-box;
+
+          .chevron-left-Req {
+            width: 0.7rem;
+            height: 1.4rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin-right: 2.1rem;
+          }
+          .chevron-left-mih {
+            vertical-align: top;
+            flex-shrink: 0;
+            width: 0.7rem;
+            height: 1.4rem;
+            object-fit: contain;
+          }
+        }
+      }
+    }
+    .frame-2609302-7nZ {
+      display: flex;
+      align-items: center;
+      width: 102.2486rem;
+      height: 4.4rem;
+      position: absolute;
+      left: 0;
+      top: 0;
+
+      .frame-2609231-GQZ {
+        height: 100%;
+        position: relative;
+        padding: 1.2rem 1.538rem 1.4rem 1.2rem;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        border: solid 0.1rem #202741;
+        border-radius: 1.2rem;
+        margin-right: 25.8rem;
+        box-sizing: border-box;
+        flex-shrink: 0;
+
+        .frame-2609247-o9b {
+          padding-left: 0.225rem;
+          height: 100%;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+          margin-right: 39.1381rem;
+          box-sizing: border-box;
+
+          .ic-baseline-search-Js3 {
+            height: 1.3118rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin: 0rem 0.463rem 0.038rem 0rem;
+            width: 1.3117rem;
+          }
+          .search-patient-d8d {
+            margin-bottom: 0.1rem;
+            font-size: 1.4rem;
+            line-height: 1.1999999455;
+            flex-shrink: 0;
+            font-weight: 400;
+            letter-spacing: 0.028rem;
+            color: #6a798a;
+            font-family: Arimo, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+        }
+        .system-uicons-filtering-8r5 {
+          margin-top: 0.2953rem;
+          width: 1.5238rem;
+          height: 1.3333rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+      .frame-2609301-dnq {
+        margin: 0.4rem 0rem 0.5rem 0rem;
+        height: calc(100% - 0.9rem);
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .auto-group-5vq3-NVX {
+          box-sizing: border-box;
+          padding: 0.779rem 1.729rem 0.775rem 0.438rem;
+          height: 100%;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .ion-help-circle-outline-Je5 {
+            vertical-align: top;
+            flex-shrink: 0;
+            margin: 0rem 2.163rem 0.004rem 0rem;
+            width: 1.925rem;
+            height: 1.925rem;
+            object-fit: contain;
+          }
+          .iconnotifications-RTo {
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            width: 1.9457rem;
+            height: 1.9456rem;
+          }
+        }
+        .auto-group-guf3-ARP {
+          height: 100%;
+          position: relative;
+          flex-shrink: 0;
+          width: 13.2486rem;
+
+          .frame-2609282-hgD {
+            width: 10.4rem;
+            height: 3.5rem;
+            cursor: pointer;
+            position: absolute;
+            left: 0;
+            top: 0;
+            display: flex;
+            align-items: center;
+
+            .rectangle-1227-Sdo {
+              margin-right: 0.3rem;
+              width: 3.5rem;
+              height: 3.5rem;
+              object-fit: cover;
+              vertical-align: top;
+              border-radius: 10rem;
+              flex-shrink: 0;
+            }
+            .ajit-bhalla-N1f {
+              font-size: 1.4rem;
+              color: #000000;
+              flex-shrink: 0;
+              margin-top: 0.02rem;
+              font-weight: 400;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+          }
+          .frame-2609281-5wf {
+            display: flex;
+            align-items: center;
+            width: 2.9486rem;
+            left: 10.3rem;
+            top: 0.9rem;
+            box-sizing: border-box;
+            height: 1.7rem;
+            position: absolute;
+            border: solid 0.1rem #000000;
+
+            .en-cgh {
+              color: #1e1e36;
+              font-family: Arimo, 'Source Sans Pro';
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              font-weight: 400;
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin-right: 0.1rem;
+              font-size: 1.4rem;
+            }
+            .vector-kH7 {
+              height: 0.3743rem;
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+              margin-top: 0rem;
+              width: 0.7486rem;
+            }
+          }
+        }
+      }
+    }
+  }
+}

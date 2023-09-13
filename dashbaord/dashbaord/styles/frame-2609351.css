@@ -1,0 +1,1620 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 230.2rem;
+}.frame-2609351-JVP {
+  box-sizing: border-box;
+  padding: 13.4rem 7.1rem 13.4rem 31.1rem;
+  width: 100%;
+  height: 112.9rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.frame-2609351-JVP .navigation-axh {
+  box-sizing: border-box;
+  padding: 3.2rem 3.4rem 3.2rem 3.2rem;
+  width: 100%;
+  height: 68.1rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 3.6rem;
+  align-items: center;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 {
+  margin-bottom: 6.2515rem;
+  width: 23.4rem;
+  height: 55.4485rem;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .frame-2609221-nJ5 {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 1rem 13.8rem 1rem 0.95rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #f7f4fa;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .frame-2609221-nJ5 .iconhome-ViH {
+  margin: 0rem 1.65rem 0.267rem 0rem;
+  width: 2.4rem;
+  height: 2.1333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .frame-2609221-nJ5 .home-Cch {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .frame-2609222-WNV {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 1rem 7.8rem 1rem 0.983rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .frame-2609222-WNV .uis-schedule-RVT {
+  margin: 0rem 1.683rem 0rem 0rem;
+  width: 2.3333rem;
+  height: 2.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .frame-2609222-WNV .appointments-k1w {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .frame-2609227-gAV {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.975rem 6.4rem 0.975rem 0.925rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .frame-2609227-gAV .ion-logo-whatsapp-1Cm {
+  margin-right: 1.625rem;
+  width: 2.45rem;
+  height: 2.45rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .frame-2609227-gAV .whatsapp-chat-wcD {
+  margin-top: 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .frame-2609223-4wj {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.941rem 6.852rem 0.941rem 1.069rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .frame-2609223-4wj .component-3-PUD {
+  margin: 0rem 1.662rem 0rem 0rem;
+  width: 2.0173rem;
+  height: 1.7886rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .frame-2609223-4wj .patients-record-iFb {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .frame-2609224-TDB {
+  margin-bottom: 3.8rem;
+  box-sizing: border-box;
+  padding: 0.805rem 8.852rem 0.852rem 0.788rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .frame-2609224-TDB .component-5-ySR {
+  margin-right: 1.5027rem;
+  width: 2.4578rem;
+  height: 2.6259rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .frame-2609224-TDB .manage-staff-JzV {
+  margin-top: 0.0473rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .frame-2609228-F93 {
+  margin: 0rem 11.252rem 3.8rem 0.8rem;
+  box-sizing: border-box;
+  padding: 0.062rem 0rem 0.062rem 0.041rem;
+  width: calc(100% - 12.0518rem);
+  height: 2.6828rem;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .frame-2609228-F93 .component-2-kLh {
+  margin: 0rem 1.541rem 0.068rem 0rem;
+  width: 2.3661rem;
+  height: 2.4909rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .frame-2609228-F93 .payments-sgD {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .frame-2609225-23K {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.9rem 12rem 0.9rem 0.858rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .frame-2609225-23K .trending-up-kzu {
+  margin: 0.097rem 1.558rem 0rem 0rem;
+  width: 2.3833rem;
+  height: 1.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .frame-2609225-23K .analytics-h9T {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .logout-qmT {
+  width: 30.8rem;
+  height: 15.1rem;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .logout-qmT .frame-2609226-zuF {
+  box-sizing: border-box;
+  padding: 0.9rem 13.4rem 0.9rem 1.017rem;
+  width: 23.4rem;
+  height: 4.2rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .logout-qmT .frame-2609226-zuF .ri-logout-circle-r-line-WMo {
+  margin: 0rem 1.4rem 0rem 0rem;
+  width: 2.3833rem;
+  height: 2.1667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1home-sB7 .logout-qmT .frame-2609226-zuF .logout-2L9 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT {
+  margin-bottom: 6.2515rem;
+  width: 23.4rem;
+  height: 55.4485rem;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .frame-2609221-gQh {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 1rem 13.8rem 1rem 0.95rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .frame-2609221-gQh .iconhome-1C5 {
+  margin: 0rem 1.65rem 0.267rem 0rem;
+  width: 2.4rem;
+  height: 2.1333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .frame-2609221-gQh .home-vpq {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .frame-2609222-4w3 {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 1rem 7.8rem 1rem 0.983rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #f7f4fa;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .frame-2609222-4w3 .uis-schedule-CXT {
+  margin: 0rem 1.683rem 0rem 0rem;
+  width: 2.3333rem;
+  height: 2.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .frame-2609222-4w3 .appointments-vyF {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .frame-2609227-4pZ {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.975rem 6.4rem 0.975rem 0.925rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .frame-2609227-4pZ .ion-logo-whatsapp-ziD {
+  margin-right: 1.625rem;
+  width: 2.45rem;
+  height: 2.45rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .frame-2609227-4pZ .whatsapp-chat-Xy3 {
+  margin-top: 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .frame-2609223-sGD {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.941rem 6.852rem 0.941rem 1.069rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .frame-2609223-sGD .component-3-PVT {
+  margin: 0rem 1.662rem 0rem 0rem;
+  width: 2.0173rem;
+  height: 1.7886rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .frame-2609223-sGD .patients-record-iGq {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .frame-2609224-ewB {
+  margin-bottom: 3.8rem;
+  box-sizing: border-box;
+  padding: 0.805rem 8.852rem 0.852rem 0.788rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .frame-2609224-ewB .component-5-PNy {
+  margin-right: 1.5027rem;
+  width: 2.4578rem;
+  height: 2.6259rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .frame-2609224-ewB .manage-staff-jSq {
+  margin-top: 0.0473rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .frame-2609228-sow {
+  margin: 0rem 11.252rem 3.8rem 0.8rem;
+  box-sizing: border-box;
+  padding: 0.062rem 0rem 0.062rem 0.041rem;
+  width: calc(100% - 12.0518rem);
+  height: 2.6828rem;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .frame-2609228-sow .component-2-P1b {
+  margin: 0rem 1.541rem 0.068rem 0rem;
+  width: 2.3661rem;
+  height: 2.4909rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .frame-2609228-sow .payments-i3s {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .frame-2609225-F3o {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.9rem 12rem 0.9rem 0.858rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .frame-2609225-F3o .trending-up-yVb {
+  margin: 0.097rem 1.558rem 0rem 0rem;
+  width: 2.3833rem;
+  height: 1.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .frame-2609225-F3o .analytics-VTw {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .logout-EwK {
+  width: 30.8rem;
+  height: 15.1rem;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .logout-EwK .frame-2609226-nhw {
+  box-sizing: border-box;
+  padding: 0.9rem 13.4rem 0.9rem 1.017rem;
+  width: 23.4rem;
+  height: 4.2rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .logout-EwK .frame-2609226-nhw .ri-logout-circle-r-line-V6Z {
+  margin: 0rem 1.4rem 0rem 0rem;
+  width: 2.3833rem;
+  height: 2.1667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1appointments-ABT .logout-EwK .frame-2609226-nhw .logout-QUR {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj {
+  margin-bottom: 6.2515rem;
+  width: 23.4rem;
+  height: 55.4485rem;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .frame-2609221-fQM {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 1rem 13.8rem 1rem 0.95rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .frame-2609221-fQM .iconhome-aXK {
+  margin: 0rem 1.65rem 0.267rem 0rem;
+  width: 2.4rem;
+  height: 2.1333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .frame-2609221-fQM .home-f2y {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .frame-2609222-y3f {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 1rem 7.8rem 1rem 0.983rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .frame-2609222-y3f .uis-schedule-hEZ {
+  margin: 0rem 1.683rem 0rem 0rem;
+  width: 2.3333rem;
+  height: 2.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .frame-2609222-y3f .appointments-EEV {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .frame-2609227-ZGm {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.975rem 6.4rem 0.975rem 0.925rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #f7f4fa;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .frame-2609227-ZGm .ion-logo-whatsapp-VgD {
+  margin-right: 1.625rem;
+  width: 2.45rem;
+  height: 2.45rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .frame-2609227-ZGm .whatsapp-chat-dXX {
+  margin-top: 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .frame-2609223-MyK {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.941rem 6.852rem 0.941rem 1.069rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .frame-2609223-MyK .component-3-Hry {
+  margin: 0rem 1.662rem 0rem 0rem;
+  width: 2.0173rem;
+  height: 1.7886rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .frame-2609223-MyK .patients-record-pc1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .frame-2609224-xy7 {
+  margin-bottom: 3.8rem;
+  box-sizing: border-box;
+  padding: 0.805rem 8.852rem 0.852rem 0.788rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .frame-2609224-xy7 .component-5-u7f {
+  margin-right: 1.5027rem;
+  width: 2.4578rem;
+  height: 2.6259rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .frame-2609224-xy7 .manage-staff-StH {
+  margin-top: 0.0473rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .frame-2609228-Bay {
+  margin: 0rem 11.252rem 3.8rem 0.8rem;
+  box-sizing: border-box;
+  padding: 0.062rem 0rem 0.062rem 0.041rem;
+  width: calc(100% - 12.0518rem);
+  height: 2.6828rem;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .frame-2609228-Bay .component-2-6C9 {
+  margin: 0rem 1.541rem 0.068rem 0rem;
+  width: 2.3661rem;
+  height: 2.4909rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .frame-2609228-Bay .payments-2Lh {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .frame-2609225-Aho {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.9rem 12rem 0.9rem 0.858rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .frame-2609225-Aho .trending-up-d5b {
+  margin: 0.097rem 1.558rem 0rem 0rem;
+  width: 2.3833rem;
+  height: 1.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .frame-2609225-Aho .analytics-YyF {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .logout-hbF {
+  width: 30.8rem;
+  height: 15.1rem;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .logout-hbF .frame-2609226-3v1 {
+  box-sizing: border-box;
+  padding: 0.9rem 13.4rem 0.9rem 1.017rem;
+  width: 23.4rem;
+  height: 4.2rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .logout-hbF .frame-2609226-3v1 .ri-logout-circle-r-line-yYm {
+  margin: 0rem 1.4rem 0rem 0rem;
+  width: 2.3833rem;
+  height: 2.1667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1chat-YKj .logout-hbF .frame-2609226-3v1 .logout-hjf {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 {
+  margin-bottom: 6.2515rem;
+  width: 23.4rem;
+  height: 55.4485rem;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .frame-2609221-yBP {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 1rem 13.8rem 1rem 0.95rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .frame-2609221-yBP .iconhome-VvR {
+  margin: 0rem 1.65rem 0.267rem 0rem;
+  width: 2.4rem;
+  height: 2.1333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .frame-2609221-yBP .home-2fT {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .frame-2609222-y4u {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 1rem 7.8rem 1rem 0.983rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .frame-2609222-y4u .uis-schedule-VJ9 {
+  margin: 0rem 1.683rem 0rem 0rem;
+  width: 2.3333rem;
+  height: 2.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .frame-2609222-y4u .appointments-DV3 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .frame-2609227-9Nh {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.975rem 6.4rem 0.975rem 0.925rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .frame-2609227-9Nh .ion-logo-whatsapp-Ufs {
+  margin-right: 1.625rem;
+  width: 2.45rem;
+  height: 2.45rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .frame-2609227-9Nh .whatsapp-chat-DNZ {
+  margin-top: 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .frame-2609223-YQq {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.941rem 6.852rem 0.941rem 1.069rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #f7f4fa;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .frame-2609223-YQq .component-3-fVT {
+  margin: 0rem 1.662rem 0rem 0rem;
+  width: 2.0173rem;
+  height: 1.7886rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .frame-2609223-YQq .patients-record-PgM {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .frame-2609224-8P3 {
+  margin-bottom: 3.8rem;
+  box-sizing: border-box;
+  padding: 0.805rem 8.852rem 0.852rem 0.788rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .frame-2609224-8P3 .component-5-41o {
+  margin-right: 1.5027rem;
+  width: 2.4578rem;
+  height: 2.6259rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .frame-2609224-8P3 .manage-staff-PZs {
+  margin-top: 0.0473rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .frame-2609228-XAH {
+  margin: 0rem 11.252rem 3.8rem 0.8rem;
+  box-sizing: border-box;
+  padding: 0.062rem 0rem 0.062rem 0.041rem;
+  width: calc(100% - 12.0518rem);
+  height: 2.6828rem;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .frame-2609228-XAH .component-2-Qjs {
+  margin: 0rem 1.541rem 0.068rem 0rem;
+  width: 2.3661rem;
+  height: 2.4909rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .frame-2609228-XAH .payments-8fs {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .frame-2609225-s7f {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.9rem 12rem 0.9rem 0.858rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .frame-2609225-s7f .trending-up-o1K {
+  margin: 0.097rem 1.558rem 0rem 0rem;
+  width: 2.3833rem;
+  height: 1.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .frame-2609225-s7f .analytics-KVT {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .logout-sG5 {
+  width: 30.8rem;
+  height: 15.1rem;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .logout-sG5 .frame-2609226-dFF {
+  box-sizing: border-box;
+  padding: 0.9rem 13.4rem 0.9rem 1.017rem;
+  width: 23.4rem;
+  height: 4.2rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .logout-sG5 .frame-2609226-dFF .ri-logout-circle-r-line-inV {
+  margin: 0rem 1.4rem 0rem 0rem;
+  width: 2.3833rem;
+  height: 2.1667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1patients-record-eQ1 .logout-sG5 .frame-2609226-dFF .logout-F1j {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB {
+  margin-bottom: 6.2515rem;
+  width: 23.4rem;
+  height: 55.4485rem;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .frame-2609221-Hz1 {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 1rem 13.8rem 1rem 0.95rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .frame-2609221-Hz1 .iconhome-2Au {
+  margin: 0rem 1.65rem 0.267rem 0rem;
+  width: 2.4rem;
+  height: 2.1333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .frame-2609221-Hz1 .home-Y9F {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .frame-2609222-5Q5 {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 1rem 7.8rem 1rem 0.983rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .frame-2609222-5Q5 .uis-schedule-DFP {
+  margin: 0rem 1.683rem 0rem 0rem;
+  width: 2.3333rem;
+  height: 2.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .frame-2609222-5Q5 .appointments-8dF {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .frame-2609227-s53 {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.975rem 6.4rem 0.975rem 0.925rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .frame-2609227-s53 .ion-logo-whatsapp-Pp5 {
+  margin-right: 1.625rem;
+  width: 2.45rem;
+  height: 2.45rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .frame-2609227-s53 .whatsapp-chat-XvH {
+  margin-top: 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .frame-2609223-4QR {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.941rem 6.852rem 0.941rem 1.069rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .frame-2609223-4QR .component-3-Bzq {
+  margin: 0rem 1.662rem 0rem 0rem;
+  width: 2.0173rem;
+  height: 1.7886rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .frame-2609223-4QR .patients-record-izm {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .frame-2609224-GFb {
+  margin-bottom: 3.8rem;
+  box-sizing: border-box;
+  padding: 0.805rem 8.852rem 0.852rem 0.788rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #f7f4fa;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .frame-2609224-GFb .component-5-b2y {
+  margin-right: 1.5027rem;
+  width: 2.4578rem;
+  height: 2.6259rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .frame-2609224-GFb .manage-staff-vb3 {
+  margin-top: 0.0473rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .frame-2609228-rjb {
+  margin: 0rem 11.252rem 3.8rem 0.8rem;
+  box-sizing: border-box;
+  padding: 0.062rem 0rem 0.062rem 0.041rem;
+  width: calc(100% - 12.0518rem);
+  height: 2.6828rem;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .frame-2609228-rjb .component-2-9yb {
+  margin: 0rem 1.541rem 0.068rem 0rem;
+  width: 2.3661rem;
+  height: 2.4909rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .frame-2609228-rjb .payments-V1s {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .frame-2609225-RgD {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.9rem 12rem 0.9rem 0.858rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .frame-2609225-RgD .trending-up-ZGd {
+  margin: 0.097rem 1.558rem 0rem 0rem;
+  width: 2.3833rem;
+  height: 1.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .frame-2609225-RgD .analytics-61f {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .logout-2vu {
+  width: 30.8rem;
+  height: 15.1rem;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .logout-2vu .frame-2609226-PFf {
+  box-sizing: border-box;
+  padding: 0.9rem 13.4rem 0.9rem 1.017rem;
+  width: 23.4rem;
+  height: 4.2rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .logout-2vu .frame-2609226-PFf .ri-logout-circle-r-line-JdX {
+  margin: 0rem 1.4rem 0rem 0rem;
+  width: 2.3833rem;
+  height: 2.1667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1manage-staff-BRB .logout-2vu .frame-2609226-PFf .logout-qNZ {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm {
+  margin-bottom: 6.2515rem;
+  width: 23.4rem;
+  height: 55.4485rem;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .frame-2609221-u7X {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 1rem 13.8rem 1rem 0.95rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .frame-2609221-u7X .iconhome-S7T {
+  margin: 0rem 1.65rem 0.267rem 0rem;
+  width: 2.4rem;
+  height: 2.1333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .frame-2609221-u7X .home-ZSy {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .frame-2609222-JQZ {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 1rem 7.8rem 1rem 0.983rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .frame-2609222-JQZ .uis-schedule-2rM {
+  margin: 0rem 1.683rem 0rem 0rem;
+  width: 2.3333rem;
+  height: 2.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .frame-2609222-JQZ .appointments-xk1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .frame-2609227-WFj {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.975rem 6.4rem 0.975rem 0.925rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .frame-2609227-WFj .ion-logo-whatsapp-qoo {
+  margin-right: 1.625rem;
+  width: 2.45rem;
+  height: 2.45rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .frame-2609227-WFj .whatsapp-chat-nDF {
+  margin-top: 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .frame-2609223-uof {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.941rem 6.852rem 0.941rem 1.069rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .frame-2609223-uof .component-3-S2u {
+  margin: 0rem 1.662rem 0rem 0rem;
+  width: 2.0173rem;
+  height: 1.7886rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .frame-2609223-uof .patients-record-AUh {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .frame-2609224-Jau {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.805rem 8.852rem 0.852rem 0.788rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .frame-2609224-Jau .component-5-dt5 {
+  margin-right: 1.5027rem;
+  width: 2.4578rem;
+  height: 2.6259rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .frame-2609224-Jau .manage-staff-Beh {
+  margin-top: 0.0473rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .frame-2609228-849 {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.862rem 11.252rem 0.93rem 0.841rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #f7f4fa;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .frame-2609228-849 .component-2-3wo {
+  margin-right: 1.5411rem;
+  width: 2.3661rem;
+  height: 2.4909rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .frame-2609228-849 .payments-Pkm {
+  margin-top: 0.0683rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .frame-2609225-nY1 {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.9rem 12rem 0.9rem 0.858rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .frame-2609225-nY1 .trending-up-VxD {
+  margin: 0.097rem 1.558rem 0rem 0rem;
+  width: 2.3833rem;
+  height: 1.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .frame-2609225-nY1 .analytics-pzV {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .logout-NWD {
+  width: 30.8rem;
+  height: 15.1rem;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .logout-NWD .frame-2609226-ipy {
+  box-sizing: border-box;
+  padding: 0.9rem 13.4rem 0.9rem 1.017rem;
+  width: 23.4rem;
+  height: 4.2rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .logout-NWD .frame-2609226-ipy .ri-logout-circle-r-line-Fa1 {
+  margin: 0rem 1.4rem 0rem 0rem;
+  width: 2.3833rem;
+  height: 2.1667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1payments-yUm .logout-NWD .frame-2609226-ipy .logout-a6V {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 {
+  margin-bottom: 6.2515rem;
+  width: 23.4rem;
+  height: 55.4485rem;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .frame-2609221-Dv9 {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 1rem 13.8rem 1rem 0.95rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .frame-2609221-Dv9 .iconhome-kv5 {
+  margin: 0rem 1.65rem 0.267rem 0rem;
+  width: 2.4rem;
+  height: 2.1333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .frame-2609221-Dv9 .home-goj {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .frame-2609222-qAq {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 1rem 7.8rem 1rem 0.983rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .frame-2609222-qAq .uis-schedule-xmF {
+  margin: 0rem 1.683rem 0rem 0rem;
+  width: 2.3333rem;
+  height: 2.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .frame-2609222-qAq .appointments-gx9 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .frame-2609227-ECy {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.975rem 6.4rem 0.975rem 0.925rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .frame-2609227-ECy .ion-logo-whatsapp-YzM {
+  margin-right: 1.625rem;
+  width: 2.45rem;
+  height: 2.45rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .frame-2609227-ECy .whatsapp-chat-6FB {
+  margin-top: 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .frame-2609223-28q {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.941rem 6.852rem 0.941rem 1.069rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .frame-2609223-28q .component-3-MB7 {
+  margin: 0rem 1.662rem 0rem 0rem;
+  width: 2.0173rem;
+  height: 1.7886rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .frame-2609223-28q .patients-record-HKf {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .frame-2609224-ccq {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.805rem 8.852rem 0.852rem 0.788rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .frame-2609224-ccq .component-5-M4d {
+  margin-right: 1.5027rem;
+  width: 2.4578rem;
+  height: 2.6259rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .frame-2609224-ccq .manage-staff-g6u {
+  margin-top: 0.0473rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .frame-2609228-ohK {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.862rem 11.252rem 0.93rem 0.841rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .frame-2609228-ohK .component-2-jay {
+  margin-right: 1.5411rem;
+  width: 2.3661rem;
+  height: 2.4909rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .frame-2609228-ohK .payments-sx5 {
+  margin-top: 0.0683rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .frame-2609225-RCu {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 0.9rem 12rem 0.9rem 0.858rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #f7f4fa;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .frame-2609225-RCu .trending-up-YYR {
+  margin: 0.097rem 1.558rem 0rem 0rem;
+  width: 2.3833rem;
+  height: 1.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .frame-2609225-RCu .analytics-GUR {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .logout-QqX {
+  width: 30.8rem;
+  height: 15.1rem;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .logout-QqX .frame-2609226-y7w {
+  box-sizing: border-box;
+  padding: 0.9rem 13.4rem 0.9rem 1.017rem;
+  width: 23.4rem;
+  height: 4.2rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .logout-QqX .frame-2609226-y7w .ri-logout-circle-r-line-VMB {
+  margin: 0rem 1.4rem 0rem 0rem;
+  width: 2.3833rem;
+  height: 2.1667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-2609351-JVP .navigation-axh .property-1analytics-WF3 .logout-QqX .frame-2609226-y7w .logout-p8Z {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

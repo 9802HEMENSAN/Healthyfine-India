@@ -1,0 +1,4367 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 415.8rem;
+}.components-SC1 {
+  width: 100%;
+  height: 313.6rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+
+  .personal-details-LHP {
+    box-sizing: border-box;
+    width: 42rem;
+    height: 48rem;
+    position: absolute;
+    display: flex;
+    border: dashed 0.1rem #9747ff;
+    padding: 3.2rem 3.2rem 7.2rem 3.2rem;
+    left: 37.5rem;
+    top: 37.5rem;
+    overflow: hidden;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 0.5rem;
+
+    .property-1default-CqP {
+      flex-shrink: 0;
+      margin-bottom: 3.2rem;
+      width: 100%;
+      height: 18.8rem;
+      display: flex;
+      flex-direction: column;
+
+      .heading-k6D {
+        padding-right: 3.2rem;
+        width: calc(100% - 13.1rem);
+        height: 2.7rem;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+        margin: 0rem 13.1rem 0.9rem 0rem;
+        box-sizing: border-box;
+
+        .auto-group-cipt-TFX {
+          height: calc(100% - 0.3889rem);
+          font-family: Arimo, 'Source Sans Pro';
+          display: flex;
+          margin: 0.2rem 0.7rem 0.189rem 0rem;
+          width: 14.8rem;
+          font-size: 1.4rem;
+          text-transform: uppercase;
+          color: #202741;
+          line-height: 1.6428571429;
+          letter-spacing: 0.042rem;
+          white-space: nowrap;
+          justify-content: center;
+          border-bottom: solid 0.2rem #009394;
+          font-weight: 700;
+          align-items: center;
+          box-sizing: border-box;
+          flex-shrink: 0;
+        }
+        .done-roT {
+          line-height: 2.3;
+          text-transform: uppercase;
+          font-family: Cabin, 'Source Sans Pro';
+          align-items: center;
+          justify-content: center;
+          border-radius: 0.4rem;
+          width: 3.8rem;
+          letter-spacing: 0.06rem;
+          background-color: #009394;
+          flex-shrink: 0;
+          height: 100%;
+          font-size: 1rem;
+          font-weight: 700;
+          color: #ffffff;
+          display: flex;
+          cursor: pointer;
+          white-space: nowrap;
+        }
+      }
+      .personalinfo-wa1 {
+        flex-direction: column;
+        flex-shrink: 0;
+        width: 21.2rem;
+        row-gap: 0.8rem;
+        align-items: center;
+        display: flex;
+
+        .group-36389-g1o {
+          height: 2.5rem;
+          display: flex;
+          align-items: center;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+          width: 100%;
+
+          .auto-group-mixs-QyP {
+            height: 100%;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 0.3rem 0.7rem 0.4rem 0rem;
+
+            .birthday-8uP {
+              font-size: 1.4rem;
+              font-weight: 700;
+              color: #006270;
+              white-space: nowrap;
+              margin: 0.1rem 0.9rem 0rem 0rem;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              font-family: Arimo, 'Source Sans Pro';
+              flex-shrink: 0;
+            }
+            .item--qJ1 {
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+            }
+          }
+          .frame-2609268-ZE1 {
+            border: solid 0.1rem #202741;
+            flex-shrink: 0;
+            width: 12.9rem;
+            line-height: 1.1999999455;
+            white-space: nowrap;
+            color: #6c6c6c;
+            border-radius: 0.4rem;
+            box-sizing: border-box;
+            padding: 0.4rem 0.8rem;
+            font-weight: 400;
+            font-family: Arimo, 'Source Sans Pro';
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+            height: 100%;
+            font-size: 1.4rem;
+            letter-spacing: 0.028rem;
+          }
+        }
+        .group-36394-yYd {
+          align-items: center;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+          width: 100%;
+          height: 2.5rem;
+          display: flex;
+
+          .auto-group-snxj-im7 {
+            box-sizing: border-box;
+            padding: 0.3rem 0.7rem 0.4rem 0rem;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+
+            .age-G1w {
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-family: Arimo, 'Source Sans Pro';
+              margin: 0.1rem 4.1rem 0rem 0rem;
+              font-size: 1.4rem;
+              font-weight: 700;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              color: #006270;
+            }
+            .item--aYR {
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+            }
+          }
+          .frame-2609268-7YM {
+            font-family: Arimo, 'Source Sans Pro';
+            white-space: nowrap;
+            height: 100%;
+            line-height: 1.1999999455;
+            border: solid 0.1rem #202741;
+            border-radius: 0.4rem;
+            flex-shrink: 0;
+            width: 12.9rem;
+            font-size: 1.4rem;
+            letter-spacing: 0.028rem;
+            color: #6c6c6c;
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+            box-sizing: border-box;
+            padding: 0.4rem 0.8rem;
+            font-weight: 400;
+          }
+        }
+        .group-36395-Z9T {
+          height: 2.5rem;
+          display: flex;
+          align-items: center;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+          width: 100%;
+
+          .auto-group-puqz-7Rs {
+            height: 100%;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 0.3rem 0.7rem 0.4rem 0rem;
+
+            .gender-TEq {
+              color: #006270;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+              letter-spacing: 0.028rem;
+              flex-shrink: 0;
+              margin: 0.1rem 1.8rem 0rem 0rem;
+              font-size: 1.4rem;
+              font-weight: 700;
+              line-height: 1.1999999455;
+            }
+            .item--Z2y {
+              flex-shrink: 0;
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+          }
+          .frame-2609268-VSR {
+            color: #6f6f6f;
+            white-space: nowrap;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 0.4rem 0.8rem;
+            width: 12.9rem;
+            letter-spacing: 0.028rem;
+            font-family: Arimo, 'Source Sans Pro';
+            border-radius: 0.4rem;
+            height: 100%;
+            font-size: 1.4rem;
+            font-weight: 400;
+            line-height: 1.1999999455;
+            border: solid 0.1rem #202741;
+          }
+        }
+        .group-36396-y6h {
+          width: 100%;
+          height: 2.5rem;
+          display: flex;
+          align-items: center;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+
+          .auto-group-ympf-KRT {
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 0.3rem 0.7rem 0.4rem 0rem;
+            height: 100%;
+            display: flex;
+            align-items: center;
+
+            .height-T1s {
+              color: #006270;
+              font-size: 1.4rem;
+              font-weight: 700;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin: 0.1rem 2.3rem 0rem 0rem;
+            }
+            .item--N8q {
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+            }
+          }
+          .frame-2609268-VjF {
+            letter-spacing: 0.028rem;
+            color: #6c6c6c;
+            border: solid 0.1rem #202741;
+            width: 12.9rem;
+            font-weight: 400;
+            line-height: 1.1999999455;
+            box-sizing: border-box;
+            padding: 0.4rem 0.8rem;
+            height: 100%;
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+            flex-shrink: 0;
+            font-size: 1.4rem;
+            font-family: Arimo, 'Source Sans Pro';
+            white-space: nowrap;
+            border-radius: 0.4rem;
+          }
+        }
+        .group-36397-Ljs {
+          height: 2.5rem;
+          display: flex;
+          align-items: center;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+          width: 100%;
+
+          .auto-group-it1b-26u {
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 0.3rem 0.7rem 0.4rem 0rem;
+            height: 100%;
+            display: flex;
+            align-items: center;
+
+            .weight-AD7 {
+              flex-shrink: 0;
+              margin: 0.1rem 2rem 0rem 0rem;
+              font-size: 1.4rem;
+              line-height: 1.1999999455;
+              color: #006270;
+              white-space: nowrap;
+              font-weight: 700;
+              letter-spacing: 0.028rem;
+              font-family: Arimo, 'Source Sans Pro';
+            }
+            .item--HYd {
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+            }
+          }
+          .frame-2609268-2WD {
+            height: 100%;
+            color: #6c6c6c;
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+            flex-shrink: 0;
+            box-sizing: border-box;
+            font-weight: 400;
+            letter-spacing: 0.028rem;
+            border: solid 0.1rem #202741;
+            padding: 0.4rem 0.8rem;
+            width: 12.9rem;
+            line-height: 1.1999999455;
+            border-radius: 0.4rem;
+            font-size: 1.4rem;
+            font-family: Arimo, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+        }
+      }
+    }
+    .property-1variant2-GvM {
+      width: 100%;
+      height: 15.6rem;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .heading-2Pj {
+        padding: 0.05rem 0rem 0.1rem 0rem;
+        width: 19.3rem;
+        height: 2.7rem;
+        flex-shrink: 0;
+        margin-bottom: 1rem;
+        box-sizing: border-box;
+
+        .auto-group-ricr-xHP {
+          font-family: Arimo, 'Source Sans Pro';
+          margin-right: 4.5rem;
+          font-size: 1.4rem;
+          line-height: 1.6428571429;
+          letter-spacing: 0.042rem;
+          text-transform: uppercase;
+          border-bottom: solid 0.2rem #009394;
+          box-sizing: border-box;
+          width: 14.8rem;
+          height: 100%;
+          font-weight: 700;
+          color: #202741;
+          white-space: nowrap;
+        }
+      }
+      .personalinfo-3Zj {
+        width: 21.2rem;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .group-36389-nnD {
+          flex-shrink: 0;
+          width: 100%;
+          height: 2.5rem;
+          display: flex;
+          align-items: center;
+          border-radius: 0.8rem;
+
+          .auto-group-q81f-8r5 {
+            box-sizing: border-box;
+            padding: 0.3rem 0.7rem 0.4rem 0rem;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+
+            .birthday-sHs {
+              margin: 0.1rem 0.9rem 0rem 0rem;
+              font-size: 1.4rem;
+              letter-spacing: 0.028rem;
+              font-family: Arimo, 'Source Sans Pro';
+              font-weight: 700;
+              line-height: 1.1999999455;
+              color: #006270;
+              white-space: nowrap;
+              flex-shrink: 0;
+            }
+            .item--nQq {
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+            }
+          }
+          .frame-2609268-vG9 {
+            white-space: nowrap;
+            width: 12.9rem;
+            font-size: 1.4rem;
+            line-height: 1.1999999455;
+            font-family: Arimo, 'Source Sans Pro';
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+            box-sizing: border-box;
+            height: 100%;
+            font-weight: 400;
+            color: #009394;
+            border-radius: 0.8rem;
+            flex-shrink: 0;
+            padding: 0.4rem 0.8rem;
+            letter-spacing: 0.028rem;
+          }
+        }
+        .group-36394-Ntq {
+          width: 100%;
+          height: 2.5rem;
+          display: flex;
+          align-items: center;
+          border-radius: 0.8rem;
+          flex-shrink: 0;
+
+          .auto-group-apxm-Xmj {
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 0.3rem 0.7rem 0.4rem 0rem;
+            height: 100%;
+
+            .age-5HT {
+              margin: 0.1rem 4.1rem 0rem 0rem;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.4rem;
+              font-weight: 700;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              color: #006270;
+            }
+            .item--CN5 {
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+            }
+          }
+          .frame-2609268-wKf {
+            letter-spacing: 0.028rem;
+            font-family: Arimo, 'Source Sans Pro';
+            white-space: nowrap;
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+            border-radius: 0.8rem;
+            flex-shrink: 0;
+            width: 12.9rem;
+            font-weight: 400;
+            line-height: 1.1999999455;
+            color: #009394;
+            box-sizing: border-box;
+            padding: 0.4rem 0.8rem;
+            height: 100%;
+            font-size: 1.4rem;
+          }
+        }
+        .group-36395-o6y {
+          display: flex;
+          align-items: center;
+          border-radius: 0.8rem;
+          flex-shrink: 0;
+          width: 100%;
+          height: 2.5rem;
+
+          .auto-group-qtxd-kY1 {
+            padding: 0.3rem 0.7rem 0.4rem 0rem;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+            box-sizing: border-box;
+
+            .gender-teD {
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin: 0.1rem 1.8rem 0rem 0rem;
+              font-weight: 700;
+              color: #006270;
+              font-size: 1.4rem;
+            }
+            .item--omB {
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.2rem;
+            }
+          }
+          .frame-2609268-wsP {
+            padding: 0.4rem 0.8rem;
+            height: 100%;
+            line-height: 1.1999999455;
+            white-space: nowrap;
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+            font-size: 1.4rem;
+            letter-spacing: 0.028rem;
+            font-family: Arimo, 'Source Sans Pro';
+            border-radius: 0.8rem;
+            flex-shrink: 0;
+            font-weight: 400;
+            box-sizing: border-box;
+            width: 12.9rem;
+            color: #009394;
+          }
+        }
+        .group-36396-QW5 {
+          height: 2.5rem;
+          display: flex;
+          align-items: center;
+          border-radius: 0.8rem;
+          flex-shrink: 0;
+          width: 100%;
+
+          .auto-group-3lmx-YMP {
+            align-items: center;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 0.3rem 0.7rem 0.4rem 0rem;
+            height: 100%;
+            display: flex;
+
+            .height-fwo {
+              font-weight: 700;
+              letter-spacing: 0.028rem;
+              color: #006270;
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin: 0.1rem 2.3rem 0rem 0rem;
+              font-size: 1.4rem;
+              line-height: 1.1999999455;
+              font-family: Arimo, 'Source Sans Pro';
+            }
+            .item--nmX {
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+            }
+          }
+          .frame-2609268-84h {
+            line-height: 1.1999999455;
+            flex-shrink: 0;
+            font-weight: 400;
+            letter-spacing: 0.028rem;
+            font-family: Arimo, 'Source Sans Pro';
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+            border-radius: 0.8rem;
+            box-sizing: border-box;
+            font-size: 1.4rem;
+            height: 100%;
+            color: #009394;
+            white-space: nowrap;
+            padding: 0.4rem 0.8rem;
+            width: 12.9rem;
+          }
+        }
+        .group-36397-Nzd {
+          display: flex;
+          align-items: center;
+          border-radius: 0.8rem;
+          flex-shrink: 0;
+          width: 100%;
+          height: 2.5rem;
+
+          .auto-group-4of7-8iu {
+            padding: 0.3rem 0.7rem 0.4rem 0rem;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+            box-sizing: border-box;
+
+            .weight-UXs {
+              line-height: 1.1999999455;
+              white-space: nowrap;
+              font-weight: 700;
+              font-size: 1.4rem;
+              letter-spacing: 0.028rem;
+              color: #006270;
+              font-family: Arimo, 'Source Sans Pro';
+              flex-shrink: 0;
+              margin: 0.1rem 2rem 0rem 0rem;
+            }
+            .item--o4M {
+              letter-spacing: 0.012rem;
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+            }
+          }
+          .frame-2609268-Y1w {
+            box-sizing: border-box;
+            padding: 0.4rem 0.8rem;
+            letter-spacing: 0.028rem;
+            flex-shrink: 0;
+            font-weight: 400;
+            line-height: 1.1999999455;
+            font-family: Arimo, 'Source Sans Pro';
+            white-space: nowrap;
+            color: #009394;
+            border-radius: 0.8rem;
+            width: 12.9rem;
+            height: 100%;
+            font-size: 1.4rem;
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+          }
+        }
+      }
+    }
+  }
+  .contact-details-mvH {
+    width: 42rem;
+    height: 50.9rem;
+    position: absolute;
+    left: 81rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    border: dashed 0.1rem #9747ff;
+    box-sizing: border-box;
+    padding: 3.2rem 3.2rem 4.4rem 3.2rem;
+    top: 36rem;
+    overflow: hidden;
+    border-radius: 0.5rem;
+
+    .property-1default-sCd {
+      margin-bottom: 1.6rem;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .heading-1pd {
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+        margin: 0rem 13.1rem 1rem 0rem;
+        box-sizing: border-box;
+        padding-right: 4.2rem;
+        width: calc(100% - 13.1rem);
+        height: 2.7rem;
+
+        .auto-group-ceqq-jEq {
+          font-size: 1.4rem;
+          line-height: 1.6428571429;
+          text-transform: uppercase;
+          color: #202741;
+          white-space: nowrap;
+          box-sizing: border-box;
+          margin: 0.2rem 0.8rem 0.1rem 0rem;
+          font-weight: 700;
+          letter-spacing: 0.042rem;
+          font-family: Arimo, 'Source Sans Pro';
+          border-bottom: solid 0.2rem #009394;
+          flex-shrink: 0;
+          height: calc(100% - 0.3rem);
+        }
+        .done-cJd {
+          border-radius: 0.4rem;
+          width: 3.8rem;
+          line-height: 2.3;
+          color: #ffffff;
+          font-family: Cabin, 'Source Sans Pro';
+          display: flex;
+          align-items: center;
+          height: 100%;
+          font-size: 1rem;
+          text-transform: uppercase;
+          justify-content: center;
+          background-color: #009394;
+          cursor: pointer;
+          font-weight: 700;
+          flex-shrink: 0;
+          letter-spacing: 0.06rem;
+          white-space: nowrap;
+        }
+      }
+      .contactinfo-hay {
+        flex-shrink: 0;
+        width: 100%;
+        row-gap: 0.8rem;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+
+        .mobile-no-dzR {
+          width: 100%;
+          height: 5.8rem;
+          display: flex;
+          align-items: center;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+
+          .auto-group-znk9-bRT {
+            display: flex;
+            align-items: flex-start;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 0.3rem 1.1rem 0.3rem 0rem;
+            height: 100%;
+
+            .mobile-Xpu {
+              color: #006270;
+              white-space: nowrap;
+              margin: 0.1rem 2.2rem 0rem 0rem;
+              font-size: 1.4rem;
+              letter-spacing: 0.028rem;
+              flex-shrink: 0;
+              font-weight: 700;
+              line-height: 1.1999999455;
+              font-family: Arimo, 'Source Sans Pro';
+            }
+            .item--Fku {
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+            }
+          }
+          .auto-group-c61w-nF3 {
+            flex-shrink: 0;
+            width: 27.2rem;
+            height: 100%;
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+
+            .mobile-vs3 {
+              line-height: 1.1999999455;
+              color: #6c6c6c;
+              font-family: Arimo, 'Source Sans Pro';
+              box-sizing: border-box;
+              padding: 0.4rem 0.8rem;
+              font-size: 1.4rem;
+              width: 100%;
+              font-weight: 400;
+              box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+              white-space: nowrap;
+              border-radius: 0.4rem;
+              flex-shrink: 0;
+              margin-bottom: 0.8rem;
+              letter-spacing: 0.028rem;
+              border: solid 0.1rem #202741;
+            }
+            .whatsapp-no-Bny {
+              flex-shrink: 0;
+              box-sizing: border-box;
+              padding: 0.4rem 0.594rem 0.4rem 0.8rem;
+              display: flex;
+              align-items: center;
+              box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+              width: 100%;
+              border: solid 0.1rem #202741;
+              border-radius: 0.4rem;
+
+              .item-91-896-452167-7gd {
+                font-size: 1.4rem;
+                line-height: 1.1999999455;
+                color: #6c6c6c;
+                font-family: Arimo, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
+                margin-right: 13.8938rem;
+                font-weight: 400;
+                letter-spacing: 0.028rem;
+              }
+              .ion-logo-whatsapp-DzZ {
+                width: 1.3125rem;
+                height: 1.3125rem;
+                object-fit: contain;
+                vertical-align: top;
+                flex-shrink: 0;
+              }
+            }
+          }
+        }
+        .email-74M {
+          width: 100%;
+          height: 2.5rem;
+          display: flex;
+          align-items: center;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+
+          .auto-group-vcjb-Ttu {
+            box-sizing: border-box;
+            padding: 0.3rem 1.1rem 0.4rem 0rem;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+
+            .email-QJM {
+              color: #006270;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin: 0.1rem 3rem 0rem 0rem;
+              font-size: 1.4rem;
+              font-weight: 700;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+            }
+            .item--W6V {
+              letter-spacing: 0.012rem;
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+            }
+          }
+          .email-3MK {
+            box-sizing: border-box;
+            font-family: Arimo, 'Source Sans Pro';
+            line-height: 1.1999999455;
+            letter-spacing: 0.028rem;
+            white-space: nowrap;
+            border: solid 0.1rem #202741;
+            border-radius: 0.4rem;
+            width: 27.2rem;
+            font-size: 1.4rem;
+            color: #6c6c6c;
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+            padding: 0.4rem 0.8rem;
+            height: 100%;
+            font-weight: 400;
+            flex-shrink: 0;
+          }
+        }
+        .address-tsj {
+          display: flex;
+          align-items: flex-start;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+          width: 100%;
+
+          .address-TR3 {
+            letter-spacing: 0.028rem;
+            color: #006270;
+            font-size: 1.4rem;
+            font-weight: 700;
+            line-height: 1.1999999455;
+            font-family: Arimo, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin: 0.05rem 0.6rem 0rem 0rem;
+          }
+          .item--Zys {
+            margin-right: 1.1rem;
+            font-size: 1.2rem;
+            line-height: 1.4332596461;
+            letter-spacing: 0.012rem;
+            font-weight: 500;
+            color: #5f5f5f;
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+          }
+          .address-uH3 {
+            flex-shrink: 0;
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+            box-sizing: border-box;
+            padding: 0.4rem 0.8rem;
+            width: 27.2rem;
+            height: 8.2rem;
+            border: solid 0.1rem #202741;
+            border-radius: 0.4rem;
+            margin-top: 0.05rem;
+
+            .plot-no-4-75-1-madhavi-nagar-opposite-bhel-rd-gate-balanagar-hyderabad-telangana-500037-diq {
+              color: #6c6c6c;
+              font-family: Arimo, 'Source Sans Pro';
+              max-width: 22.4rem;
+              font-size: 1.4rem;
+              font-weight: 400;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+            }
+          }
+        }
+      }
+    }
+    .property-1variant2-43T {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .heading-Qd7 {
+        margin: 0rem 16.3rem 1rem 0rem;
+        width: calc(100% - 16.3rem);
+        height: 2.7rem;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .auto-group-wngh-jQV {
+          white-space: nowrap;
+          border-bottom: solid 0.2rem #009394;
+          box-sizing: border-box;
+          flex-shrink: 0;
+          margin: 0.05rem 0.8rem 0.1rem 0rem;
+          font-size: 1.4rem;
+          font-weight: 700;
+          line-height: 1.6428571429;
+          font-family: Arimo, 'Source Sans Pro';
+          height: calc(100% - 0.15rem);
+          letter-spacing: 0.042rem;
+          text-transform: uppercase;
+          color: #202741;
+        }
+        .auto-group-svbo-ov9 {
+          width: 4.8rem;
+          height: 100%;
+          flex-shrink: 0;
+
+          .material-symbols-edit-m6H {
+            height: 2.4rem;
+            cursor: pointer;
+            object-fit: contain;
+            vertical-align: top;
+            border-radius: 2rem;
+            margin: 0rem 2.4rem 0.3rem 0rem;
+            width: 2.4rem;
+          }
+        }
+      }
+      .contactinfo-fSZ {
+        row-gap: 0.2rem;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        width: 100%;
+
+        .mobile-1mK {
+          flex-shrink: 0;
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+          border-radius: 0.4rem;
+
+          .auto-group-mjjm-BQu {
+            width: 100%;
+            height: 2.5rem;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+
+            .auto-group-ksqz-Xjf {
+              display: flex;
+              align-items: center;
+              flex-shrink: 0;
+              box-sizing: border-box;
+              padding: 0.3rem 1.1rem 0.4rem 0rem;
+              height: 100%;
+
+              .mobile-UQ1 {
+                font-weight: 700;
+                color: #006270;
+                font-family: Arimo, 'Source Sans Pro';
+                white-space: nowrap;
+                margin: 0.1rem 2.2rem 0rem 0rem;
+                font-size: 1.4rem;
+                flex-shrink: 0;
+                line-height: 1.1999999455;
+                letter-spacing: 0.028rem;
+              }
+              .item--nvV {
+                font-family: Poppins, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
+                font-size: 1.2rem;
+                font-weight: 500;
+                line-height: 1.4332596461;
+                letter-spacing: 0.012rem;
+                color: #5f5f5f;
+              }
+            }
+            .mobile-j53 {
+              flex-shrink: 0;
+              font-size: 1.4rem;
+              box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+              font-family: Arimo, 'Source Sans Pro';
+              border-radius: 0.4rem;
+              height: 100%;
+              color: #009394;
+              letter-spacing: 0.028rem;
+              width: 27.2rem;
+              line-height: 1.1999999455;
+              font-weight: 400;
+              white-space: nowrap;
+              box-sizing: border-box;
+              padding: 0.4rem 0.8rem;
+            }
+          }
+          .whatsapp-no-zmf {
+            flex-shrink: 0;
+            display: flex;
+            align-items: center;
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+            border-radius: 0.4rem;
+            margin: 0rem 7rem 0rem 1.4rem;
+            box-sizing: border-box;
+            padding: 0.4rem 8.9rem 0.4rem 0.894rem;
+            width: calc(100% - 8.4rem);
+
+            .ion-logo-whatsapp-hvy {
+              height: 1.3125rem;
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+              margin-right: 5.4938rem;
+              width: 1.3125rem;
+            }
+            .item-91-896-452167-Evu {
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.4rem;
+              font-weight: 400;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              color: #009394;
+            }
+          }
+        }
+        .email-Vrq {
+          width: 100%;
+          height: 2.5rem;
+          display: flex;
+          align-items: center;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+
+          .auto-group-us3b-Fr1 {
+            box-sizing: border-box;
+            padding: 0.3rem 1.1rem 0.4rem 0rem;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+
+            .email-PxD {
+              font-size: 1.4rem;
+              letter-spacing: 0.028rem;
+              color: #006270;
+              font-family: Arimo, 'Source Sans Pro';
+              flex-shrink: 0;
+              margin: 0.1rem 3rem 0rem 0rem;
+              font-weight: 700;
+              line-height: 1.1999999455;
+              white-space: nowrap;
+            }
+            .item--hCD {
+              flex-shrink: 0;
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+          }
+          .email-2VP {
+            white-space: nowrap;
+            border-radius: 0.4rem;
+            height: 100%;
+            font-size: 1.4rem;
+            font-family: Arimo, 'Source Sans Pro';
+            font-weight: 400;
+            line-height: 1.1999999455;
+            color: #009394;
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+            flex-shrink: 0;
+            padding: 0.4rem 0.8rem;
+            width: 27.2rem;
+            letter-spacing: 0.028rem;
+            box-sizing: border-box;
+          }
+        }
+        .address-tGh {
+          flex-shrink: 0;
+          width: 100%;
+          display: flex;
+          align-items: flex-start;
+          border-radius: 0.4rem;
+
+          .address-dzy {
+            margin: 0.05rem 0.6rem 0rem 0rem;
+            font-size: 1.4rem;
+            line-height: 1.1999999455;
+            letter-spacing: 0.028rem;
+            flex-shrink: 0;
+            font-weight: 700;
+            color: #006270;
+            font-family: Arimo, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+          .item--Z7w {
+            font-weight: 500;
+            letter-spacing: 0.012rem;
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-size: 1.2rem;
+            line-height: 1.4332596461;
+            color: #5f5f5f;
+            font-family: Poppins, 'Source Sans Pro';
+            margin-right: 1.1rem;
+          }
+          .address-fwf {
+            padding: 0.4rem 0.8rem;
+            width: 27.2rem;
+            height: 8.2rem;
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+            border-radius: 0.4rem;
+            flex-shrink: 0;
+            margin-top: 0.05rem;
+            box-sizing: border-box;
+
+            .plot-no-4-75-1-madhavi-nagar-opposite-bhel-rd-gate-balanagar-hyderabad-telangana-500037-oHB {
+              font-size: 1.4rem;
+              font-weight: 400;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              color: #009394;
+              font-family: Arimo, 'Source Sans Pro';
+              max-width: 22.4rem;
+            }
+          }
+        }
+      }
+    }
+  }
+  .bank-details-pi5 {
+    padding: 3.2rem 3.2rem 5.8rem 3.2rem;
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    left: 124.5rem;
+    top: 37.5rem;
+    overflow: hidden;
+    display: flex;
+    box-sizing: border-box;
+    width: 42rem;
+    height: 47.2rem;
+    border: dashed 0.1rem #9747ff;
+    border-radius: 0.5rem;
+
+    .property-1default-XMb {
+      margin-bottom: 2.6rem;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .heading-4sK {
+        margin: 0rem 13.1rem 1rem 0rem;
+        box-sizing: border-box;
+        padding-right: 7.1rem;
+        width: calc(100% - 13.1rem);
+        height: 2.7rem;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .auto-group-beuq-Bh3 {
+          line-height: 1.6428571429;
+          border-bottom: solid 0.2rem #009394;
+          flex-shrink: 0;
+          text-transform: uppercase;
+          color: #202741;
+          font-family: Arimo, 'Source Sans Pro';
+          margin: 0.2rem 0.7rem 0.1rem 0rem;
+          height: calc(100% - 0.3rem);
+          font-size: 1.4rem;
+          font-weight: 700;
+          letter-spacing: 0.042rem;
+          white-space: nowrap;
+          box-sizing: border-box;
+        }
+        .done-3jF {
+          justify-content: center;
+          width: 3.8rem;
+          font-weight: 700;
+          text-transform: uppercase;
+          align-items: center;
+          flex-shrink: 0;
+          display: flex;
+          background-color: #009394;
+          border-radius: 0.4rem;
+          height: 100%;
+          font-size: 1rem;
+          line-height: 2.3;
+          letter-spacing: 0.06rem;
+          cursor: pointer;
+          color: #ffffff;
+          font-family: Cabin, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+      }
+      .personalinfo-jMB {
+        width: 100%;
+        row-gap: 0.8rem;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .group-36389-sTP {
+          height: 2.5rem;
+          display: flex;
+          align-items: center;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+          width: 100%;
+
+          .auto-group-5tcv-RE1 {
+            padding: 0.3rem 1.2rem 0.4rem 0rem;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+            box-sizing: border-box;
+
+            .upi-id-YpR {
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              color: #006270;
+              font-family: Arimo, 'Source Sans Pro';
+              font-size: 1.4rem;
+              font-weight: 700;
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin: 0.1rem 8.2rem 0rem 0rem;
+            }
+            .item--f8M {
+              letter-spacing: 0.012rem;
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+            }
+          }
+          .frame-2609268-Q5w {
+            font-family: Arimo, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-size: 1.4rem;
+            font-weight: 400;
+            line-height: 1.1999999455;
+            color: #6c6c6c;
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+            box-sizing: border-box;
+            padding: 0.4rem 0.8rem;
+            width: 21.2rem;
+            height: 100%;
+            letter-spacing: 0.028rem;
+            border: solid 0.1rem #202741;
+            border-radius: 0.4rem;
+          }
+        }
+        .group-36394-SoK {
+          width: 100%;
+          height: 2.5rem;
+          display: flex;
+          align-items: center;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+
+          .auto-group-6vw5-bRK {
+            box-sizing: border-box;
+            padding: 0.3rem 1.2rem 0.4rem 0rem;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+
+            .bank-8RF {
+              white-space: nowrap;
+              margin: 0.1rem 8.9rem 0rem 0rem;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              font-family: Arimo, 'Source Sans Pro';
+              flex-shrink: 0;
+              font-size: 1.4rem;
+              font-weight: 700;
+              color: #006270;
+            }
+            .item--FVs {
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.2rem;
+            }
+          }
+          .frame-2609268-zTT {
+            box-sizing: border-box;
+            letter-spacing: 0.028rem;
+            color: #6c6c6c;
+            white-space: nowrap;
+            width: 21.2rem;
+            font-weight: 400;
+            padding: 0.4rem 0.8rem;
+            font-size: 1.4rem;
+            border: solid 0.1rem #202741;
+            border-radius: 0.4rem;
+            flex-shrink: 0;
+            height: 100%;
+            line-height: 1.1999999455;
+            font-family: Arimo, 'Source Sans Pro';
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+          }
+        }
+        .group-36395-3Rj {
+          display: flex;
+          align-items: center;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+          width: 100%;
+          height: 2.5rem;
+
+          .auto-group-wozs-bCM {
+            height: 100%;
+            display: flex;
+            align-items: flex-start;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding-right: 1.2001rem;
+
+            .a-c-no-XLu {
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              color: #006270;
+              margin: 0.1rem 7.6rem 0rem 0rem;
+              font-weight: 700;
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.4rem;
+              font-family: Arimo, 'Source Sans Pro';
+            }
+            .item--brZ {
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+            }
+          }
+          .frame-2609268-L3T {
+            color: #6f6f6f;
+            flex-shrink: 0;
+            line-height: 1.1999999455;
+            height: 100%;
+            font-weight: 400;
+            border: solid 0.1rem #202741;
+            border-radius: 0.4rem;
+            padding: 0.4rem 0.8rem;
+            width: 21.2rem;
+            font-size: 1.4rem;
+            font-family: Arimo, 'Source Sans Pro';
+            box-sizing: border-box;
+            white-space: nowrap;
+            letter-spacing: 0.028rem;
+          }
+        }
+        .group-36396-oxd {
+          height: 2.5rem;
+          display: flex;
+          align-items: center;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+          width: 100%;
+
+          .auto-group-ygtt-mPf {
+            box-sizing: border-box;
+            padding-right: 1.2001rem;
+            height: 100%;
+            display: flex;
+            align-items: flex-start;
+            flex-shrink: 0;
+
+            .ifsc-code-7yK {
+              margin: 0.1rem 5.4rem 0rem 0rem;
+              font-size: 1.4rem;
+              flex-shrink: 0;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+              font-weight: 700;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              color: #006270;
+            }
+            .item--eCZ {
+              flex-shrink: 0;
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+          }
+          .frame-2609268-n3s {
+            height: 100%;
+            border-radius: 0.4rem;
+            border: solid 0.1rem #202741;
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+            padding: 0.4rem 0.8rem;
+            font-family: Arimo, 'Source Sans Pro';
+            color: #6c6c6c;
+            white-space: nowrap;
+            flex-shrink: 0;
+            width: 21.2rem;
+            letter-spacing: 0.028rem;
+            font-weight: 400;
+            line-height: 1.1999999455;
+            box-sizing: border-box;
+            font-size: 1.4rem;
+          }
+        }
+        .group-36397-mAh {
+          width: 100%;
+          height: 2.5rem;
+          display: flex;
+          align-items: center;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+
+          .auto-group-pvh7-ird {
+            height: 100%;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 0.3rem 1.2rem 0.4rem 0rem;
+
+            .account-holder-FrZ {
+              font-weight: 700;
+              color: #006270;
+              margin: 0.1rem 1.6rem 0rem 0rem;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.4rem;
+            }
+            .item--ZsF {
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.2rem;
+            }
+          }
+          .frame-2609268-JK3 {
+            line-height: 1.1999999455;
+            letter-spacing: 0.028rem;
+            color: #6c6c6c;
+            font-weight: 400;
+            font-size: 1.4rem;
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+            flex-shrink: 0;
+            height: 100%;
+            width: 21.2rem;
+            font-family: Arimo, 'Source Sans Pro';
+            white-space: nowrap;
+            border: solid 0.1rem #202741;
+            box-sizing: border-box;
+            border-radius: 0.4rem;
+            padding: 0.4rem 0.8rem;
+          }
+        }
+      }
+    }
+    .property-1variant2-YDP {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .heading-gqP {
+        margin-bottom: 1rem;
+        width: 19.3rem;
+        height: 2.7rem;
+        flex-shrink: 0;
+
+        .auto-group-rwm7-S3s {
+          box-sizing: border-box;
+          padding-right: 1.5rem;
+          width: 15.5rem;
+          height: 100%;
+          display: flex;
+          align-items: flex-start;
+
+          .auto-group-sywh-mbw {
+            border-bottom: solid 0.2rem #009394;
+            box-sizing: border-box;
+            margin: 0.05rem 0.7rem 0.1rem 0rem;
+            height: calc(100% - 0.15rem);
+            line-height: 1.6428571429;
+            color: #202741;
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-size: 1.4rem;
+            font-weight: 700;
+            letter-spacing: 0.042rem;
+            text-transform: uppercase;
+            font-family: Arimo, 'Source Sans Pro';
+          }
+          .material-symbols-edit-FX7 {
+            vertical-align: top;
+            border-radius: 2rem;
+            flex-shrink: 0;
+            width: 2.4rem;
+            height: 2.4rem;
+            cursor: pointer;
+            object-fit: contain;
+          }
+        }
+      }
+      .personalinfo-n1F {
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        width: 100%;
+        align-items: center;
+
+        .group-36389-KG5 {
+          width: 100%;
+          height: 2.5rem;
+          display: flex;
+          align-items: center;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+
+          .auto-group-rgp1-sYV {
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 0.3rem 1.2rem 0.4rem 0rem;
+            height: 100%;
+            display: flex;
+            align-items: center;
+
+            .upi-id-QYR {
+              white-space: nowrap;
+              font-size: 1.4rem;
+              font-weight: 700;
+              line-height: 1.1999999455;
+              font-family: Arimo, 'Source Sans Pro';
+              flex-shrink: 0;
+              margin: 0.1rem 8.2rem 0rem 0rem;
+              letter-spacing: 0.028rem;
+              color: #006270;
+            }
+            .item--WrM {
+              flex-shrink: 0;
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+          }
+          .frame-2609268-FZ3 {
+            box-sizing: border-box;
+            font-weight: 400;
+            flex-shrink: 0;
+            font-size: 1.4rem;
+            line-height: 1.1999999455;
+            letter-spacing: 0.028rem;
+            padding: 0.4rem 0.8rem;
+            width: 21.2rem;
+            font-family: Arimo, 'Source Sans Pro';
+            border-radius: 0.4rem;
+            height: 100%;
+            color: #6c6c6c;
+            white-space: nowrap;
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+          }
+        }
+        .group-36394-utV {
+          width: 100%;
+          height: 2.5rem;
+          display: flex;
+          align-items: center;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+
+          .auto-group-py2r-GU9 {
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 0.3rem 1.2rem 0.4rem 0rem;
+            height: 100%;
+
+            .bank-oiy {
+              margin: 0.1rem 8.9rem 0rem 0rem;
+              font-size: 1.4rem;
+              font-weight: 700;
+              letter-spacing: 0.028rem;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              line-height: 1.1999999455;
+              color: #006270;
+            }
+            .item--j6q {
+              flex-shrink: 0;
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+          }
+          .frame-2609268-sTw {
+            line-height: 1.1999999455;
+            letter-spacing: 0.028rem;
+            color: #6c6c6c;
+            white-space: nowrap;
+            width: 21.2rem;
+            height: 100%;
+            box-sizing: border-box;
+            padding: 0.4rem 0.8rem;
+            font-size: 1.4rem;
+            font-weight: 400;
+            font-family: Arimo, 'Source Sans Pro';
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+            border-radius: 0.4rem;
+            flex-shrink: 0;
+          }
+        }
+        .group-36395-L6d {
+          width: 100%;
+          height: 2.5rem;
+          display: flex;
+          align-items: center;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+
+          .auto-group-f1zh-VER {
+            height: 100%;
+            display: flex;
+            align-items: flex-start;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding-right: 1.2001rem;
+
+            .a-c-no-qp5 {
+              color: #006270;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-weight: 700;
+              font-size: 1.4rem;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              margin: 0.1rem 7.6rem 0rem 0rem;
+            }
+            .item--kw3 {
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+            }
+          }
+          .frame-2609268-Hvy {
+            height: 100%;
+            font-size: 1.4rem;
+            letter-spacing: 0.028rem;
+            color: #6f6f6f;
+            font-family: Arimo, 'Source Sans Pro';
+            border-radius: 0.4rem;
+            width: 21.2rem;
+            padding: 0.4rem 0.8rem;
+            font-weight: 400;
+            line-height: 1.1999999455;
+            white-space: nowrap;
+            flex-shrink: 0;
+            box-sizing: border-box;
+          }
+        }
+        .group-36396-zKb {
+          width: 100%;
+          height: 2.5rem;
+          display: flex;
+          align-items: center;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+
+          .auto-group-mgqw-vyw {
+            align-items: flex-start;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding-right: 1.2001rem;
+            height: 100%;
+            display: flex;
+
+            .ifsc-code-GH7 {
+              flex-shrink: 0;
+              margin: 0.1rem 5.4rem 0rem 0rem;
+              letter-spacing: 0.028rem;
+              color: #006270;
+              font-family: Arimo, 'Source Sans Pro';
+              font-size: 1.4rem;
+              font-weight: 700;
+              line-height: 1.1999999455;
+              white-space: nowrap;
+            }
+            .item--ySR {
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+            }
+          }
+          .frame-2609268-7Hj {
+            line-height: 1.1999999455;
+            letter-spacing: 0.028rem;
+            color: #6c6c6c;
+            white-space: nowrap;
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+            height: 100%;
+            font-weight: 400;
+            box-sizing: border-box;
+            font-family: Arimo, 'Source Sans Pro';
+            font-size: 1.4rem;
+            width: 21.2rem;
+            border-radius: 0.4rem;
+            flex-shrink: 0;
+            padding: 0.4rem 0.8rem;
+          }
+        }
+        .group-36397-NUZ {
+          width: 100%;
+          height: 2.5rem;
+          display: flex;
+          align-items: center;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+
+          .auto-group-zzeq-XMT {
+            box-sizing: border-box;
+            padding: 0.3rem 1.2rem 0.4rem 0rem;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+
+            .account-holder-fTf {
+              margin: 0.1rem 1.6rem 0rem 0rem;
+              font-size: 1.4rem;
+              color: #006270;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-weight: 700;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+            }
+            .item--BS1 {
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+            }
+          }
+          .frame-2609268-86M {
+            width: 21.2rem;
+            font-weight: 400;
+            letter-spacing: 0.028rem;
+            white-space: nowrap;
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+            padding: 0.4rem 0.8rem;
+            line-height: 1.1999999455;
+            color: #6c6c6c;
+            font-family: Arimo, 'Source Sans Pro';
+            height: 100%;
+            font-size: 1.4rem;
+            box-sizing: border-box;
+            border-radius: 0.4rem;
+            flex-shrink: 0;
+          }
+        }
+      }
+    }
+  }
+  .documents-A33 {
+    top: 106.1rem;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 3.2rem 3.2rem 9.4rem 3.2rem;
+    position: absolute;
+    left: 37.5rem;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    border: dashed 0.1rem #9747ff;
+    width: 42rem;
+    height: 48.8rem;
+    border-radius: 0.5rem;
+
+    .property-1default-7cV {
+      margin-bottom: 2.4rem;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .heading-Fih {
+        flex-shrink: 0;
+        margin: 0rem 13.1rem 1rem 0rem;
+        box-sizing: border-box;
+        padding-right: 8.4rem;
+        width: calc(100% - 13.1rem);
+        height: 2.7rem;
+        display: flex;
+        align-items: center;
+
+        .auto-group-xapq-ZzH {
+          line-height: 1.6428571429;
+          letter-spacing: 0.042rem;
+          color: #202741;
+          font-family: Arimo, 'Source Sans Pro';
+          white-space: nowrap;
+          box-sizing: border-box;
+          font-weight: 700;
+          height: calc(100% - 0.3rem);
+          font-size: 1.4rem;
+          text-transform: uppercase;
+          border-bottom: solid 0.2rem #009394;
+          flex-shrink: 0;
+          margin: 0.2rem 0.5rem 0.1rem 0rem;
+        }
+        .done-T45 {
+          font-size: 1rem;
+          line-height: 2.3;
+          color: #ffffff;
+          display: flex;
+          justify-content: center;
+          flex-shrink: 0;
+          cursor: pointer;
+          background-color: #009394;
+          letter-spacing: 0.06rem;
+          white-space: nowrap;
+          align-items: center;
+          width: 3.8rem;
+          font-weight: 700;
+          text-transform: uppercase;
+          font-family: Cabin, 'Source Sans Pro';
+          border-radius: 0.4rem;
+          height: 100%;
+        }
+      }
+      .documents-jnH {
+        width: 100%;
+        row-gap: 0.8rem;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .id-type-GXK {
+          width: 100%;
+          height: 2.5rem;
+          display: flex;
+          align-items: center;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+
+          .auto-group-7att-RQD {
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 0.3rem 1.1rem 0.4rem 0rem;
+            height: 100%;
+            display: flex;
+            align-items: center;
+
+            .id-type-kxH {
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              font-family: Arimo, 'Source Sans Pro';
+              font-size: 1.4rem;
+              font-weight: 700;
+              color: #006270;
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin: 0.1rem 2rem 0rem 0rem;
+            }
+            .item--Gfj {
+              flex-shrink: 0;
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+          }
+          .mobile-1dK {
+            padding: 0.4rem 0.6rem 0.4rem 0.8rem;
+            border-radius: 0.4rem;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            border: solid 0.1rem #202741;
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+
+            .aadhar-x2m {
+              line-height: 1.1999999455;
+              font-family: Arimo, 'Source Sans Pro';
+              flex-shrink: 0;
+              margin-right: 19.1rem;
+              font-size: 1.4rem;
+              font-weight: 400;
+              letter-spacing: 0.028rem;
+              color: #6c6c6c;
+              white-space: nowrap;
+            }
+            .arrows-Xk5 {
+              width: 2rem;
+              height: 1.5rem;
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+            }
+          }
+        }
+        .id-no-bV3 {
+          width: 100%;
+          height: 2.5rem;
+          display: flex;
+          align-items: center;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+
+          .auto-group-vsem-kMw {
+            height: 100%;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 0.3rem 1.1rem 0.4rem 0rem;
+
+            .id-no-gmP {
+              letter-spacing: 0.028rem;
+              color: #006270;
+              font-weight: 700;
+              line-height: 1.1999999455;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin: 0.1rem 2.8rem 0rem 0rem;
+              font-size: 1.4rem;
+            }
+            .item--zn5 {
+              flex-shrink: 0;
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+          }
+          .email-Xn1 {
+            white-space: nowrap;
+            flex-shrink: 0;
+            height: 100%;
+            letter-spacing: 0.028rem;
+            font-family: Arimo, 'Source Sans Pro';
+            border: solid 0.1rem #202741;
+            border-radius: 0.4rem;
+            box-sizing: border-box;
+            color: #6c6c6c;
+            padding: 0.4rem 0.8rem;
+            font-weight: 400;
+            line-height: 1.1999999455;
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+            width: 27.2rem;
+            font-size: 1.4rem;
+          }
+        }
+        .other-documents-ytu {
+          width: 100%;
+          row-gap: 0.6rem;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+
+          .frame-2609277-8Wu {
+            margin-right: 22.3rem;
+            width: calc(100% - 22.3rem);
+            display: flex;
+            align-items: flex-start;
+            flex-shrink: 0;
+
+            .other-documents-5BF {
+              font-size: 1.4rem;
+              font-weight: 700;
+              color: #006270;
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin-right: 0.3rem;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              font-family: Arimo, 'Source Sans Pro';
+            }
+            .item--zZ7 {
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+            }
+          }
+          .upload-vxZ {
+            box-sizing: border-box;
+            width: 100%;
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+            background-color: #3d3d3d;
+            padding: 0.8rem 0.942rem 0.8rem 0.8rem;
+            display: flex;
+            align-items: center;
+            border-radius: 0.4rem;
+            flex-shrink: 0;
+
+            .browse-to-upload-documents-fv9 {
+              letter-spacing: 0.028rem;
+              color: #ffffff;
+              font-family: Arimo, 'Source Sans Pro';
+              flex-shrink: 0;
+              font-size: 1.4rem;
+              font-weight: 400;
+              line-height: 1.1999999455;
+              white-space: nowrap;
+              margin: 0rem 11.941rem 0rem 0rem;
+            }
+            .upload-cloud-yfw {
+              width: 3.117rem;
+              height: 2.3997rem;
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+            }
+          }
+          .entry1-HAq {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            border: solid 0.1rem #e4e4e4;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 0.4rem 0.583rem 0.542rem 0rem;
+
+            .aadhar-cardpng-pRf {
+              color: #6c6c6c;
+              font-size: 1.4rem;
+              font-weight: 400;
+              letter-spacing: 0.028rem;
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin: 0rem 23.083rem 0.058rem 0rem;
+              line-height: 1.1999999455;
+              font-family: Arimo, 'Source Sans Pro';
+            }
+            .mdi-print-preview-KtD {
+              height: 1.4167rem;
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+              margin-top: 0.3417rem;
+              width: 1.1333rem;
+            }
+          }
+        }
+      }
+    }
+    .property-1variant2-21w {
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      width: 100%;
+      height: 13.8rem;
+
+      .heading-mER {
+        width: 19.3rem;
+        height: 2.7rem;
+        flex-shrink: 0;
+        margin-bottom: 1rem;
+
+        .auto-group-tkxm-Jk9 {
+          padding-right: 2.8rem;
+          width: 15.5rem;
+          height: 100%;
+          display: flex;
+          align-items: flex-start;
+          box-sizing: border-box;
+
+          .auto-group-kcnm-3xd {
+            margin: 0.05rem 0.5rem 0.1rem 0rem;
+            height: calc(100% - 0.15rem);
+            line-height: 1.6428571429;
+            letter-spacing: 0.042rem;
+            font-family: Arimo, 'Source Sans Pro';
+            flex-shrink: 0;
+            font-size: 1.4rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            color: #202741;
+            white-space: nowrap;
+            border-bottom: solid 0.2rem #009394;
+            box-sizing: border-box;
+          }
+          .material-symbols-edit-Kv9 {
+            border-radius: 2rem;
+            flex-shrink: 0;
+            width: 2.4rem;
+            height: 2.4rem;
+            cursor: pointer;
+            object-fit: contain;
+            vertical-align: top;
+          }
+        }
+      }
+      .documents-TFf {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        width: 100%;
+
+        .id-type-Qgh {
+          width: 100%;
+          height: 2.5rem;
+          display: flex;
+          align-items: center;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+
+          .auto-group-qsvu-XWR {
+            box-sizing: border-box;
+            padding: 0.3rem 1.1rem 0.4rem 0rem;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+
+            .id-type-GD7 {
+              margin: 0.1rem 2rem 0rem 0rem;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              font-family: Arimo, 'Source Sans Pro';
+              font-size: 1.4rem;
+              font-weight: 700;
+              color: #006270;
+              white-space: nowrap;
+              flex-shrink: 0;
+            }
+            .item--ydK {
+              flex-shrink: 0;
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+          }
+          .mobile-iL1 {
+            width: 27.2rem;
+            line-height: 1.1999999455;
+            border-radius: 0.4rem;
+            box-sizing: border-box;
+            height: 100%;
+            font-size: 1.4rem;
+            font-weight: 400;
+            font-family: Arimo, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            padding: 0.4rem 0.8rem;
+            letter-spacing: 0.028rem;
+            color: #6c6c6c;
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+          }
+        }
+        .id-no-LsB {
+          height: 2.5rem;
+          display: flex;
+          align-items: center;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+          width: 100%;
+
+          .auto-group-ckjo-6bT {
+            box-sizing: border-box;
+            padding: 0.3rem 1.1rem 0.4rem 0rem;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+
+            .id-no-qJ9 {
+              font-weight: 700;
+              color: #006270;
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin: 0.1rem 2.8rem 0rem 0rem;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              font-family: Arimo, 'Source Sans Pro';
+              font-size: 1.4rem;
+            }
+            .item--YiM {
+              font-size: 1.2rem;
+              font-weight: 500;
+              line-height: 1.4332596461;
+              letter-spacing: 0.012rem;
+              color: #5f5f5f;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+            }
+          }
+          .email-skd {
+            padding: 0.4rem 0.8rem;
+            letter-spacing: 0.028rem;
+            font-family: Arimo, 'Source Sans Pro';
+            box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+            height: 100%;
+            font-size: 1.4rem;
+            flex-shrink: 0;
+            width: 27.2rem;
+            font-weight: 400;
+            color: #6c6c6c;
+            white-space: nowrap;
+            border-radius: 0.4rem;
+            box-sizing: border-box;
+            line-height: 1.1999999455;
+          }
+        }
+        .other-docs-8Rf {
+          position: relative;
+          flex-shrink: 0;
+          width: 100%;
+          height: 6.4rem;
+
+          .item--Gnm {
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+            width: 0.4rem;
+            left: 13rem;
+            top: 0;
+            font-size: 1.2rem;
+            letter-spacing: 0.012rem;
+            color: #5f5f5f;
+            height: 1.8rem;
+            position: absolute;
+            font-weight: 500;
+            line-height: 1.4332596461;
+          }
+          .other-documents-aHf {
+            white-space: nowrap;
+            width: 35.6rem;
+            height: 6.3rem;
+            position: absolute;
+            font-size: 1.4rem;
+            letter-spacing: 0.028rem;
+            color: #006270;
+            font-family: Arimo, 'Source Sans Pro';
+            left: 0;
+            top: 0.1rem;
+            font-weight: 700;
+            line-height: 1.1999999455;
+          }
+        }
+      }
+    }
+  }
+  .medical-records-RZB {
+    padding: 3.2rem 3.2rem 6rem 3.2rem;
+    width: 42rem;
+    left: 81rem;
+    align-items: center;
+    flex-direction: column;
+    border: dashed 0.1rem #9747ff;
+    box-sizing: border-box;
+    height: 34.6rem;
+    position: absolute;
+    top: 113.2rem;
+    overflow: hidden;
+    display: flex;
+    border-radius: 0.5rem;
+
+    .property-1default-K8m {
+      flex-shrink: 0;
+      margin-bottom: 1.4rem;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+
+      .heading-ruP {
+        margin: 0rem 13.1rem 1rem 0rem;
+        box-sizing: border-box;
+        padding-right: 3.5rem;
+        width: calc(100% - 13.1rem);
+        height: 2.7rem;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .auto-group-jj5w-WU9 {
+          letter-spacing: 0.042rem;
+          border-bottom: solid 0.2rem #009394;
+          font-family: Arimo, 'Source Sans Pro';
+          margin: 0.2rem 0.8rem 0.1rem 0rem;
+          height: calc(100% - 0.3rem);
+          font-size: 1.4rem;
+          font-weight: 700;
+          line-height: 1.6428571429;
+          text-transform: uppercase;
+          color: #202741;
+          white-space: nowrap;
+          box-sizing: border-box;
+          flex-shrink: 0;
+        }
+        .done-NmF {
+          width: 3.8rem;
+          font-size: 1rem;
+          line-height: 2.3;
+          color: #ffffff;
+          white-space: nowrap;
+          justify-content: center;
+          cursor: pointer;
+          letter-spacing: 0.06rem;
+          display: flex;
+          align-items: center;
+          height: 100%;
+          text-transform: uppercase;
+          font-family: Cabin, 'Source Sans Pro';
+          background-color: #009394;
+          flex-shrink: 0;
+          font-weight: 700;
+          border-radius: 0.4rem;
+        }
+      }
+      .medicalinfo-rRX {
+        flex-direction: column;
+        flex-shrink: 0;
+        width: 100%;
+        row-gap: 0.6rem;
+        align-items: center;
+        display: flex;
+
+        .upload-bP7 {
+          box-sizing: border-box;
+          padding: 0.8rem 0.942rem 0.8rem 0.8rem;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+          width: 100%;
+          display: flex;
+          align-items: center;
+          box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+          background-color: #3d3d3d;
+
+          .browse-to-upload-documents-XXf {
+            font-size: 1.4rem;
+            font-weight: 400;
+            font-family: Arimo, 'Source Sans Pro';
+            flex-shrink: 0;
+            margin: 0rem 11.941rem 0rem 0rem;
+            line-height: 1.1999999455;
+            letter-spacing: 0.028rem;
+            color: #ffffff;
+            white-space: nowrap;
+          }
+          .upload-cloud-2jK {
+            width: 3.117rem;
+            height: 2.3997rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+        }
+        .entry1-vph {
+          box-sizing: border-box;
+          padding: 0.4rem 0.583rem 0.542rem 0rem;
+          width: 100%;
+          display: flex;
+          align-items: center;
+          border: solid 0.1rem #e4e4e4;
+          flex-shrink: 0;
+
+          .x-ray-report28may23pdf-GNm {
+            font-weight: 400;
+            line-height: 1.1999999455;
+            color: #6c6c6c;
+            flex-shrink: 0;
+            margin: 0rem 16.883rem 0.058rem 0rem;
+            font-size: 1.4rem;
+            letter-spacing: 0.028rem;
+            font-family: Arimo, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+          .mdi-print-preview-maR {
+            width: 1.1333rem;
+            height: 1.4167rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin-top: 0.3417rem;
+          }
+        }
+        .entry2-HYm {
+          width: 100%;
+          display: flex;
+          align-items: center;
+          border: solid 0.1rem #e4e4e4;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 0.4rem 0.583rem 0.542rem 0rem;
+
+          .blood-test-report28may23pdf-pob {
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin: 0rem 13.883rem 0.058rem 0rem;
+            font-weight: 400;
+            line-height: 1.1999999455;
+            letter-spacing: 0.028rem;
+            font-family: Arimo, 'Source Sans Pro';
+            font-size: 1.4rem;
+            color: #6c6c6c;
+          }
+          .mdi-print-preview-95B {
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin-top: 0.3417rem;
+            width: 1.1333rem;
+            height: 1.4167rem;
+          }
+        }
+      }
+    }
+    .property-1variant2-rVP {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .heading-cUZ {
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+        margin: 0rem 16.3rem 1rem 0rem;
+        width: calc(100% - 16.3rem);
+        height: 2.7rem;
+
+        .auto-group-93hj-LfT {
+          margin: 0.05rem 0.8rem 0.1rem 0rem;
+          height: calc(100% - 0.15rem);
+          font-weight: 700;
+          line-height: 1.6428571429;
+          color: #202741;
+          font-family: Arimo, 'Source Sans Pro';
+          flex-shrink: 0;
+          font-size: 1.4rem;
+          letter-spacing: 0.042rem;
+          text-transform: uppercase;
+          white-space: nowrap;
+          border-bottom: solid 0.2rem #009394;
+          box-sizing: border-box;
+        }
+        .auto-group-dpmb-CBs {
+          width: 4.1rem;
+          height: 100%;
+          flex-shrink: 0;
+
+          .material-symbols-edit-jBo {
+            margin: 0rem 1.7rem 0.3rem 0rem;
+            width: 2.4rem;
+            height: 2.4rem;
+            cursor: pointer;
+            object-fit: contain;
+            vertical-align: top;
+            border-radius: 2rem;
+          }
+        }
+      }
+      .medicalinfo-nfs {
+        height: 6rem;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding-top: 3.3rem;
+        width: 100%;
+
+        .entry2-7CM {
+          width: 100%;
+          height: 100%;
+          display: flex;
+          align-items: center;
+          border: solid 0.1rem #e4e4e4;
+          box-sizing: border-box;
+          padding: 0.4rem 0.583rem 0.542rem 0rem;
+
+          .blood-test-report28may23pdf-1Hj {
+            font-weight: 400;
+            line-height: 1.1999999455;
+            letter-spacing: 0.028rem;
+            font-family: Arimo, 'Source Sans Pro';
+            flex-shrink: 0;
+            margin: 0rem 13.883rem 0.058rem 0rem;
+            color: #6c6c6c;
+            white-space: nowrap;
+            font-size: 1.4rem;
+          }
+          .mdi-print-preview-6KB {
+            margin-top: 0.3417rem;
+            width: 1.1333rem;
+            height: 1.4167rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+        }
+      }
+    }
+  }
+  .procedure-records-BLd {
+    box-sizing: border-box;
+    top: 113.2rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    border: dashed 0.1rem #9747ff;
+    padding: 3.2rem 3.2rem 6rem 3.2rem;
+    width: 42rem;
+    height: 34.6rem;
+    position: absolute;
+    left: 124.5rem;
+    overflow: hidden;
+    border-radius: 0.5rem;
+
+    .property-1default-fmb {
+      margin-bottom: 1.4rem;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .heading-26M {
+        margin: 0rem 13.1rem 1rem 0rem;
+        width: calc(100% - 13.1rem);
+        height: 2.7rem;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .auto-group-gkvf-YqP {
+          font-size: 1.4rem;
+          line-height: 1.6428571429;
+          letter-spacing: 0.042rem;
+          font-family: Arimo, 'Source Sans Pro';
+          white-space: nowrap;
+          box-sizing: border-box;
+          flex-shrink: 0;
+          margin: 0.2rem 0.8rem 0.1rem 0rem;
+          font-weight: 700;
+          text-transform: uppercase;
+          color: #202741;
+          border-bottom: solid 0.2rem #009394;
+          height: calc(100% - 0.3rem);
+        }
+        .auto-group-hutm-2kZ {
+          width: 4.6rem;
+          height: 100%;
+          flex-shrink: 0;
+
+          .done-aXB {
+            font-weight: 700;
+            color: #ffffff;
+            font-family: Cabin, 'Source Sans Pro';
+            align-items: center;
+            cursor: pointer;
+            text-transform: uppercase;
+            white-space: nowrap;
+            background-color: #009394;
+            letter-spacing: 0.06rem;
+            margin-right: 0.8rem;
+            height: 100%;
+            font-size: 1rem;
+            line-height: 2.3;
+            display: flex;
+            justify-content: center;
+            border-radius: 0.4rem;
+            width: 3.8rem;
+          }
+        }
+      }
+      .procedureinfo-Tay {
+        flex-direction: column;
+        flex-shrink: 0;
+        width: 100%;
+        row-gap: 0.6rem;
+        align-items: center;
+        display: flex;
+
+        .upload-o93 {
+          box-sizing: border-box;
+          display: flex;
+          align-items: center;
+          border-radius: 0.4rem;
+          flex-shrink: 0;
+          padding: 0.8rem 0.942rem 0.8rem 0.8rem;
+          width: 100%;
+          box-shadow: inset 0.2rem 0.1rem 0.3rem rgba(123, 123, 123, 0.25));
+          background-color: #3d3d3d;
+
+          .browse-to-upload-documents-wFF {
+            font-size: 1.4rem;
+            font-family: Arimo, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin: 0rem 11.941rem 0rem 0rem;
+            font-weight: 400;
+            line-height: 1.1999999455;
+            letter-spacing: 0.028rem;
+            color: #ffffff;
+          }
+          .upload-cloud-eQZ {
+            width: 3.117rem;
+            height: 2.3997rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+        }
+        .entry1-kCh {
+          align-items: center;
+          border: solid 0.1rem #e4e4e4;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 0.4rem 0.583rem 0.542rem 0rem;
+          width: 100%;
+          display: flex;
+
+          .consultation01july23pdf-6GZ {
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-size: 1.4rem;
+            font-weight: 400;
+            letter-spacing: 0.028rem;
+            font-family: Arimo, 'Source Sans Pro';
+            margin: 0rem 16.983rem 0.058rem 0rem;
+            line-height: 1.1999999455;
+            color: #6c6c6c;
+          }
+          .mdi-print-preview-PmT {
+            height: 1.4167rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin-top: 0.3417rem;
+            width: 1.1333rem;
+          }
+        }
+        .entry2-JtR {
+          padding: 0.4rem 0.583rem 0.542rem 0rem;
+          width: 100%;
+          display: flex;
+          align-items: center;
+          border: solid 0.1rem #e4e4e4;
+          flex-shrink: 0;
+          box-sizing: border-box;
+
+          .minor-surgery28may23pdf-qtM {
+            color: #6c6c6c;
+            font-family: Arimo, 'Source Sans Pro';
+            flex-shrink: 0;
+            margin: 0rem 15.683rem 0.058rem 0rem;
+            font-weight: 400;
+            letter-spacing: 0.028rem;
+            font-size: 1.4rem;
+            line-height: 1.1999999455;
+            white-space: nowrap;
+          }
+          .mdi-print-preview-Z3f {
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin-top: 0.3417rem;
+            width: 1.1333rem;
+            height: 1.4167rem;
+          }
+        }
+      }
+    }
+    .property-1variant2-5Gu {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .heading-qG5 {
+        width: 20.3rem;
+        height: 2.7rem;
+        position: relative;
+        flex-shrink: 0;
+        margin-bottom: 1rem;
+
+        .personal-details-aDf {
+          left: 0;
+          top: 0.05rem;
+          font-size: 1.4rem;
+          letter-spacing: 0.042rem;
+          text-transform: uppercase;
+          color: #202741;
+          width: 17.1rem;
+          position: absolute;
+          line-height: 1.6428571429;
+          font-family: Arimo, 'Source Sans Pro';
+          white-space: nowrap;
+          height: 2.3rem;
+          font-weight: 700;
+        }
+        .material-symbols-edit-g1o {
+          object-fit: contain;
+          vertical-align: top;
+          border-radius: 2rem;
+          top: 0;
+          width: 2.4rem;
+          height: 2.4rem;
+          cursor: pointer;
+          position: absolute;
+          left: 17.9rem;
+        }
+        .line-50-o6R {
+          left: 0;
+          top: 2.4rem;
+          background-color: #009394;
+          width: 4.7rem;
+          height: 0.2rem;
+          position: absolute;
+        }
+      }
+      .procedureinfo-8Pb {
+        box-sizing: border-box;
+        padding-top: 3.3rem;
+        width: 100%;
+        height: 6rem;
+        flex-shrink: 0;
+
+        .entry2-Gkh {
+          width: 100%;
+          height: 100%;
+          display: flex;
+          align-items: center;
+          border: solid 0.1rem #e4e4e4;
+          box-sizing: border-box;
+          padding: 0.4rem 0.583rem 0.542rem 0rem;
+
+          .minor-surgery28may23pdf-1iH {
+            flex-shrink: 0;
+            margin: 0rem 15.683rem 0.058rem 0rem;
+            color: #6c6c6c;
+            white-space: nowrap;
+            letter-spacing: 0.028rem;
+            font-family: Arimo, 'Source Sans Pro';
+            font-size: 1.4rem;
+            font-weight: 400;
+            line-height: 1.1999999455;
+          }
+          .mdi-print-preview-Kiy {
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin-top: 0.3417rem;
+            width: 1.1333rem;
+            height: 1.4167rem;
+          }
+        }
+      }
+    }
+  }
+  .appointment-history-ci5 {
+    height: 11.25rem;
+    position: absolute;
+    left: 88.4rem;
+    top: 163.3rem;
+    width: 40.95rem;
+
+    .heading-Ybj {
+      width: 22.5rem;
+      height: 2.7rem;
+      margin-bottom: 1rem;
+
+      .auto-group-zss7-HpD {
+        height: 100%;
+        box-sizing: border-box;
+        padding-bottom: 0.1rem;
+        width: 19.3rem;
+
+        .personal-details-2G1 {
+          text-transform: uppercase;
+          color: #202741;
+          font-family: Arimo, 'Source Sans Pro';
+          white-space: nowrap;
+          font-weight: 700;
+          letter-spacing: 0.042rem;
+          line-height: 1.6428571429;
+          margin-bottom: 0.1rem;
+          font-size: 1.4rem;
+        }
+        .line-50-95j {
+          width: 4.7rem;
+          height: 0.2rem;
+          background-color: #009394;
+        }
+      }
+    }
+    .appoint-history-gbT {
+      width: 100%;
+      height: 7.55rem;
+      display: flex;
+      align-items: center;
+
+      .auto-group-9uxd-EN5 {
+        align-items: flex-start;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding-right: 1.8rem;
+        height: 100%;
+        display: flex;
+
+        .sr-no-yaZ {
+          margin-right: 1.15rem;
+          width: 2rem;
+          align-items: center;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+
+          .no-8CZ {
+            letter-spacing: 0.024rem;
+            color: #5f5f5f;
+            white-space: nowrap;
+            margin-bottom: 0.8rem;
+            text-align: center;
+            font-size: 1.2rem;
+            line-height: 1.5;
+            font-weight: 400;
+            font-family: Arimo, 'Source Sans Pro';
+            flex-shrink: 0;
+          }
+          .auto-group-1pph-Syw {
+            letter-spacing: 0.028rem;
+            font-family: Arimo, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            height: 4.2rem;
+            text-align: center;
+            font-size: 1.4rem;
+            font-weight: 400;
+            line-height: 1.8000000545;
+            color: #009394;
+            margin: 0 0.55rem;
+            width: calc(100% - 1.1rem);
+          }
+        }
+        .date-YXB {
+          width: 5.7rem;
+          align-items: center;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          margin-right: 1.3rem;
+
+          .date-6Ho {
+            margin-bottom: 0.8rem;
+            font-weight: 400;
+            letter-spacing: 0.024rem;
+            flex-shrink: 0;
+            white-space: nowrap;
+            text-align: center;
+            font-size: 1.2rem;
+            line-height: 1.5;
+            color: #5f5f5f;
+            font-family: Arimo, 'Source Sans Pro';
+          }
+          .auto-group-nxih-oi1 {
+            line-height: 1.8000000545;
+            font-family: Arimo, 'Source Sans Pro';
+            width: 100%;
+            height: 4.2rem;
+            text-align: center;
+            font-weight: 400;
+            flex-shrink: 0;
+            font-size: 1.4rem;
+            letter-spacing: 0.028rem;
+            color: #009394;
+            white-space: nowrap;
+          }
+        }
+        .day-ia5 {
+          width: 2.7rem;
+          align-items: center;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+
+          .day-GrV {
+            flex-shrink: 0;
+            margin-bottom: 0.8rem;
+            line-height: 1.5;
+            font-family: Arimo, 'Source Sans Pro';
+            white-space: nowrap;
+            color: #5f5f5f;
+            text-align: center;
+            font-size: 1.2rem;
+            font-weight: 400;
+            letter-spacing: 0.024rem;
+          }
+          .auto-group-zquv-CVF {
+            text-align: center;
+            font-size: 1.4rem;
+            letter-spacing: 0.028rem;
+            color: #009394;
+            font-family: Arimo, 'Source Sans Pro';
+            flex-shrink: 0;
+            width: 100%;
+            height: 4.2rem;
+            font-weight: 400;
+            line-height: 1.8000000545;
+            white-space: nowrap;
+          }
+        }
+      }
+      .auto-group-pwmb-JHP {
+        width: 26.3rem;
+        height: 100%;
+        position: relative;
+        flex-shrink: 0;
+
+        .doctor-41f {
+          width: 8.9rem;
+          height: 6.8rem;
+          position: absolute;
+          left: 0;
+          top: 0;
+          align-items: center;
+          display: flex;
+          flex-direction: column;
+
+          .attending-dr-bGV {
+            margin-bottom: 0.8rem;
+            font-size: 1.2rem;
+            font-weight: 400;
+            line-height: 1.5;
+            white-space: nowrap;
+            flex-shrink: 0;
+            text-align: center;
+            letter-spacing: 0.024rem;
+            color: #5f5f5f;
+            font-family: Arimo, 'Source Sans Pro';
+          }
+          .auto-group-qfny-WeM {
+            width: 100%;
+            height: 4.2rem;
+            color: #009394;
+            flex-shrink: 0;
+            text-align: center;
+            font-size: 1.4rem;
+            font-weight: 400;
+            line-height: 1.8000000545;
+            letter-spacing: 0.028rem;
+            font-family: Arimo, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+        }
+        .consultation-BkV {
+          box-sizing: border-box;
+          padding-bottom: 2rem;
+          height: 7.2rem;
+          top: 0.35rem;
+          align-items: center;
+          display: flex;
+          flex-direction: column;
+          width: 23.9rem;
+          position: absolute;
+          left: 2.4rem;
+
+          .consultaion-f9s {
+            margin: 0rem 0rem 0.8rem 2.6rem;
+            text-align: center;
+            line-height: 1.5;
+            white-space: nowrap;
+            font-size: 1.2rem;
+            font-weight: 400;
+            letter-spacing: 0.024rem;
+            color: #5f5f5f;
+            font-family: Arimo, 'Source Sans Pro';
+            flex-shrink: 0;
+          }
+          .consultation-953 {
+            width: 100%;
+            height: 2.6rem;
+            position: relative;
+            flex-shrink: 0;
+
+            .highfeverconsultation01july23pdf-u4D {
+              text-align: center;
+              font-size: 1.4rem;
+              line-height: 1.8000000545;
+              white-space: nowrap;
+              width: 23.9rem;
+              position: absolute;
+              left: 0;
+              letter-spacing: 0.028rem;
+              color: #009394;
+              font-family: Arimo, 'Source Sans Pro';
+              height: 2.6rem;
+              top: 0;
+              font-weight: 400;
+            }
+            .mdi-print-preview-nth {
+              width: 1.1333rem;
+              height: 1.4167rem;
+              position: absolute;
+              left: 16.6333rem;
+              top: 0.3417rem;
+              object-fit: contain;
+              vertical-align: top;
+            }
+          }
+        }
+      }
+    }
+  }
+  .payments-history-hkm {
+    left: 37.5rem;
+    top: 162.5rem;
+    width: 47.25rem;
+    height: 12.8rem;
+    position: absolute;
+
+    .heading-2HF {
+      margin-bottom: 0.3rem;
+      width: 22.5rem;
+      height: 2.7rem;
+
+      .auto-group-t5n9-xRo {
+        margin: 0rem 7.2rem 0.1rem 0rem;
+        height: 2.6rem;
+        font-size: 1.4rem;
+        font-weight: 700;
+        letter-spacing: 0.042rem;
+        text-transform: uppercase;
+        color: #202741;
+        white-space: nowrap;
+        width: 15.3rem;
+        line-height: 1.6428571429;
+        font-family: Arimo, 'Source Sans Pro';
+        border-bottom: solid 0.2rem #009394;
+        box-sizing: border-box;
+      }
+    }
+    .payments-RKP {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+
+      .appoint-history-aTB {
+        align-items: center;
+        flex-shrink: 0;
+        margin: 0rem 0rem 0.4rem 0.1rem;
+        height: 8.6rem;
+        display: flex;
+
+        .sr-no-6RX {
+          flex-shrink: 0;
+          margin-right: 1.15rem;
+          height: 100%;
+          row-gap: 0.8rem;
+          align-items: center;
+          display: flex;
+          flex-direction: column;
+
+          .no-qP7 {
+            flex-shrink: 0;
+            text-align: center;
+            font-size: 1.2rem;
+            letter-spacing: 0.024rem;
+            white-space: nowrap;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #5f5f5f;
+            font-family: Arimo, 'Source Sans Pro';
+          }
+          .item-1-N89 {
+            text-align: center;
+            line-height: 1.8000000545;
+            flex-shrink: 0;
+            white-space: nowrap;
+            font-size: 1.4rem;
+            font-weight: 400;
+            letter-spacing: 0.028rem;
+            color: #009394;
+            font-family: Arimo, 'Source Sans Pro';
+          }
+          .item-2-6Zw {
+            font-size: 1.4rem;
+            font-weight: 400;
+            line-height: 1.8000000545;
+            letter-spacing: 0.028rem;
+            text-align: center;
+            font-family: Arimo, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            color: #009394;
+          }
+        }
+        .date-EAM {
+          row-gap: 0.8rem;
+          align-items: center;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          margin-right: 1.25rem;
+          height: 100%;
+
+          .date-Aph {
+            line-height: 1.5;
+            letter-spacing: 0.024rem;
+            font-family: Arimo, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            text-align: center;
+            font-size: 1.2rem;
+            font-weight: 400;
+            color: #5f5f5f;
+          }
+          .item-01-07-23-unH {
+            text-align: center;
+            font-weight: 400;
+            line-height: 1.8000000545;
+            color: #009394;
+            flex-shrink: 0;
+            font-size: 1.4rem;
+            letter-spacing: 0.028rem;
+            font-family: Arimo, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+          .item-26-05-23-EZf {
+            line-height: 1.8000000545;
+            color: #009394;
+            white-space: nowrap;
+            flex-shrink: 0;
+            text-align: center;
+            font-size: 1.4rem;
+            font-weight: 400;
+            letter-spacing: 0.028rem;
+            font-family: Arimo, 'Source Sans Pro';
+          }
+        }
+        .day-Zbw {
+          row-gap: 0.8rem;
+          align-items: center;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          margin-right: 2.4rem;
+          height: 100%;
+
+          .day-7NZ {
+            flex-shrink: 0;
+            text-align: center;
+            font-weight: 400;
+            letter-spacing: 0.024rem;
+            color: #5f5f5f;
+            font-size: 1.2rem;
+            line-height: 1.5;
+            font-family: Arimo, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+          .sat-Fjf {
+            text-align: center;
+            font-size: 1.4rem;
+            line-height: 1.8000000545;
+            color: #009394;
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-weight: 400;
+            letter-spacing: 0.028rem;
+            font-family: Arimo, 'Source Sans Pro';
+          }
+          .mon-C97 {
+            letter-spacing: 0.028rem;
+            color: #009394;
+            white-space: nowrap;
+            text-align: center;
+            font-weight: 400;
+            line-height: 1.8000000545;
+            font-size: 1.4rem;
+            font-family: Arimo, 'Source Sans Pro';
+            flex-shrink: 0;
+          }
+        }
+        .date-8Hf {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          margin-right: 5.25rem;
+          height: 100%;
+          row-gap: 0.8rem;
+          align-items: center;
+
+          .mode-5To {
+            font-size: 1.2rem;
+            white-space: nowrap;
+            font-family: Arimo, 'Source Sans Pro';
+            flex-shrink: 0;
+            text-align: center;
+            font-weight: 400;
+            line-height: 1.5;
+            letter-spacing: 0.024rem;
+            color: #5f5f5f;
+          }
+          .upi-289 {
+            text-align: center;
+            font-size: 1.4rem;
+            line-height: 1.8000000545;
+            color: #009394;
+            font-family: Arimo, 'Source Sans Pro';
+            font-weight: 400;
+            letter-spacing: 0.028rem;
+            white-space: nowrap;
+            flex-shrink: 0;
+          }
+          .bank-kK3 {
+            text-align: center;
+            letter-spacing: 0.028rem;
+            font-family: Arimo, 'Source Sans Pro';
+            color: #009394;
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-size: 1.4rem;
+            font-weight: 400;
+            line-height: 1.8000000545;
+          }
+        }
+        .auto-group-ckwp-gCh {
+          width: 22.7rem;
+          height: 100%;
+          position: relative;
+          flex-shrink: 0;
+
+          .doctor-Rvy {
+            position: absolute;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end;
+            width: 5.45rem;
+            height: 8.6rem;
+            left: 0;
+            top: 0;
+            row-gap: 0.8rem;
+
+            .amount-xAD {
+              letter-spacing: 0.024rem;
+              color: #5f5f5f;
+              font-size: 1.2rem;
+              text-align: center;
+              font-weight: 400;
+              line-height: 1.5;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              width: 100%;
+            }
+            .item-1000-UuF {
+              font-size: 1.4rem;
+              font-weight: 400;
+              line-height: 1.8000000545;
+              letter-spacing: 0.028rem;
+              color: #009394;
+              font-family: Arimo, 'Source Sans Pro';
+              text-align: right;
+              flex-shrink: 0;
+              white-space: nowrap;
+            }
+            .item-200-CqF {
+              white-space: nowrap;
+              font-size: 1.4rem;
+              letter-spacing: 0.028rem;
+              color: #009394;
+              font-family: Arimo, 'Source Sans Pro';
+              flex-shrink: 0;
+              text-align: right;
+              font-weight: 400;
+              line-height: 1.8000000545;
+            }
+          }
+          .consultation-LAm {
+            left: 1.4rem;
+            top: 0.7rem;
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            width: 21.3rem;
+            height: 7.9rem;
+            position: absolute;
+
+            .auto-group-6zxj-4cZ {
+              box-sizing: border-box;
+              padding: 0rem 0.55rem 0.1rem 0.55rem;
+              width: 100%;
+              align-items: center;
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+
+              .receipt-Peq {
+                margin: 0rem 0rem 0.8rem 2.6rem;
+                color: #5f5f5f;
+                white-space: nowrap;
+                line-height: 1.5;
+                letter-spacing: 0.024rem;
+                font-family: Arimo, 'Source Sans Pro';
+                flex-shrink: 0;
+                text-align: center;
+                font-size: 1.2rem;
+                font-weight: 400;
+              }
+              .consultation-753 {
+                position: relative;
+                flex-shrink: 0;
+                width: 100%;
+                height: 2.6rem;
+
+                .highfeverreceipt01july23pdf-GCq {
+                  width: 20.2rem;
+                  left: 0;
+                  top: 0;
+                  text-align: center;
+                  font-weight: 400;
+                  line-height: 1.8000000545;
+                  height: 2.6rem;
+                  position: absolute;
+                  font-size: 1.4rem;
+                  letter-spacing: 0.028rem;
+                  color: #009394;
+                  font-family: Arimo, 'Source Sans Pro';
+                  white-space: nowrap;
+                }
+                .mdi-print-preview-NFs {
+                  width: 1.1333rem;
+                  height: 1.4167rem;
+                  position: absolute;
+                  left: 14.7833rem;
+                  top: 0.3417rem;
+                  object-fit: contain;
+                  vertical-align: top;
+                }
+              }
+            }
+            .consultation-VLV {
+              position: relative;
+              flex-shrink: 0;
+              width: 100%;
+              height: 2.6rem;
+
+              .saline-consultation01july23pdf-F4m {
+                left: 0;
+                text-align: center;
+                font-weight: 400;
+                color: #009394;
+                white-space: nowrap;
+                font-family: Arimo, 'Source Sans Pro';
+                width: 21.3rem;
+                height: 2.6rem;
+                position: absolute;
+                top: 0;
+                font-size: 1.4rem;
+                line-height: 1.8000000545;
+                letter-spacing: 0.028rem;
+              }
+              .mdi-print-preview-kGR {
+                object-fit: contain;
+                vertical-align: top;
+                width: 1.1333rem;
+                height: 1.4167rem;
+                position: absolute;
+                left: 15.3333rem;
+                top: 0.3417rem;
+              }
+            }
+          }
+        }
+      }
+      .rectangle-1313-GVf {
+        width: 28.9rem;
+        height: 0.8rem;
+        cursor: pointer;
+        background-color: #d9d9d9;
+        border-radius: 0.2rem;
+        flex-shrink: 0;
+      }
+    }
+  }
+  .slider-payments-record-b29 {
+    padding: 3.2rem;
+    height: 27.8rem;
+    left: 125.9rem;
+    top: 155.7rem;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    border: dashed 0.1rem #9747ff;
+    box-sizing: border-box;
+    width: 42.3rem;
+    position: absolute;
+    align-items: center;
+    border-radius: 0.5rem;
+
+    .property-1default-u2q {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      margin-bottom: 3.2rem;
+
+      .appoint-history-em7 {
+        align-items: center;
+        flex-shrink: 0;
+        margin: 0rem 0rem 1.1rem 0.1rem;
+        width: calc(100% - 0.1rem);
+        height: 7.2rem;
+        display: flex;
+
+        .auto-group-qtrz-NBK {
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 0.2rem 5.25rem 0.2rem 0rem;
+          height: 100%;
+          display: flex;
+          align-items: center;
+
+          .sr-no-6d7 {
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            margin-right: 1.15rem;
+            height: 100%;
+            row-gap: 0.8rem;
+
+            .no-EjK {
+              letter-spacing: 0.024rem;
+              font-family: Arimo, 'Source Sans Pro';
+              flex-shrink: 0;
+              text-align: center;
+              font-size: 1.2rem;
+              font-weight: 400;
+              line-height: 1.5;
+              color: #5f5f5f;
+              white-space: nowrap;
+            }
+            .item-1-aHP {
+              text-align: center;
+              font-size: 1.4rem;
+              color: #009394;
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-weight: 400;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              font-family: Arimo, 'Source Sans Pro';
+            }
+            .item-2-hcu {
+              font-size: 1.4rem;
+              font-weight: 400;
+              letter-spacing: 0.028rem;
+              color: #009394;
+              text-align: center;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              line-height: 1.1999999455;
+            }
+          }
+          .date-Roo {
+            flex-direction: column;
+            flex-shrink: 0;
+            margin-right: 1.25rem;
+            height: 100%;
+            row-gap: 0.8rem;
+            align-items: center;
+            display: flex;
+
+            .date-Nj3 {
+              text-align: center;
+              line-height: 1.5;
+              letter-spacing: 0.024rem;
+              flex-shrink: 0;
+              white-space: nowrap;
+              font-size: 1.2rem;
+              font-weight: 400;
+              color: #5f5f5f;
+              font-family: Arimo, 'Source Sans Pro';
+            }
+            .item-01-07-23-7gd {
+              font-weight: 400;
+              color: #009394;
+              white-space: nowrap;
+              font-size: 1.4rem;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              font-family: Arimo, 'Source Sans Pro';
+              flex-shrink: 0;
+              text-align: center;
+            }
+            .item-26-05-23-qMj {
+              font-weight: 400;
+              line-height: 1.1999999455;
+              color: #009394;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+              text-align: center;
+              letter-spacing: 0.028rem;
+              flex-shrink: 0;
+              font-size: 1.4rem;
+            }
+          }
+          .day-xhF {
+            margin-right: 2.4rem;
+            height: 100%;
+            row-gap: 0.8rem;
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+
+            .day-WTs {
+              color: #5f5f5f;
+              white-space: nowrap;
+              text-align: center;
+              font-size: 1.2rem;
+              font-weight: 400;
+              flex-shrink: 0;
+              line-height: 1.5;
+              letter-spacing: 0.024rem;
+              font-family: Arimo, 'Source Sans Pro';
+            }
+            .sat-e4H {
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+              text-align: center;
+              font-size: 1.4rem;
+              color: #009394;
+              flex-shrink: 0;
+              font-weight: 400;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+            }
+            .mon-nAV {
+              font-family: Arimo, 'Source Sans Pro';
+              flex-shrink: 0;
+              text-align: center;
+              font-size: 1.4rem;
+              font-weight: 400;
+              letter-spacing: 0.028rem;
+              color: #009394;
+              line-height: 1.1999999455;
+              white-space: nowrap;
+            }
+          }
+          .date-iZw {
+            height: 100%;
+            row-gap: 0.8rem;
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+
+            .mode-fzy {
+              font-family: Arimo, 'Source Sans Pro';
+              flex-shrink: 0;
+              font-size: 1.2rem;
+              line-height: 1.5;
+              letter-spacing: 0.024rem;
+              color: #5f5f5f;
+              white-space: nowrap;
+              text-align: center;
+              font-weight: 400;
+            }
+            .upi-DFo {
+              font-size: 1.4rem;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              color: #009394;
+              white-space: nowrap;
+              text-align: center;
+              font-family: Arimo, 'Source Sans Pro';
+              flex-shrink: 0;
+              font-weight: 400;
+            }
+            .bank-Yos {
+              text-align: center;
+              font-weight: 400;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              flex-shrink: 0;
+              font-size: 1.4rem;
+              color: #009394;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+          }
+        }
+        .auto-group-nxzb-537 {
+          width: 22.7rem;
+          height: 100%;
+          position: relative;
+          flex-shrink: 0;
+
+          .doctor-2DF {
+            left: 0;
+            row-gap: 0.8rem;
+            align-items: flex-end;
+            display: flex;
+            width: 5.45rem;
+            position: absolute;
+            top: 0.2rem;
+            flex-direction: column;
+            height: 6.8rem;
+
+            .amount-YSV {
+              letter-spacing: 0.024rem;
+              color: #5f5f5f;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              width: 100%;
+              font-size: 1.2rem;
+              line-height: 1.5;
+              text-align: center;
+              font-weight: 400;
+            }
+            .item-1000-UL9 {
+              font-size: 1.4rem;
+              font-weight: 400;
+              letter-spacing: 0.028rem;
+              text-align: right;
+              color: #009394;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              line-height: 1.1999999455;
+            }
+            .item-200-Pi1 {
+              font-family: Arimo, 'Source Sans Pro';
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              font-weight: 400;
+              color: #009394;
+              white-space: nowrap;
+              flex-shrink: 0;
+              text-align: right;
+              font-size: 1.4rem;
+            }
+          }
+          .consultation-7P7 {
+            display: flex;
+            flex-direction: column;
+            width: 21.3rem;
+            height: 7.2rem;
+            position: absolute;
+            left: 1.4rem;
+            top: 0;
+            align-items: center;
+
+            .auto-group-hcfj-EyX {
+              flex-shrink: 0;
+              box-sizing: border-box;
+              padding: 0rem 0.55rem 0.8rem 0.55rem;
+              width: 100%;
+              align-items: center;
+              display: flex;
+              flex-direction: column;
+
+              .receipt-aGh {
+                color: #5f5f5f;
+                font-family: Arimo, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
+                margin: 0rem 0rem 0.8rem 2.6rem;
+                text-align: center;
+                line-height: 1.5;
+                letter-spacing: 0.024rem;
+                font-size: 1.2rem;
+                font-weight: 400;
+              }
+              .consultation-VPf {
+                width: 100%;
+                height: 1.9rem;
+                position: relative;
+                flex-shrink: 0;
+
+                .highfeverreceipt01july23pdf-F7w {
+                  width: 20.2rem;
+                  left: 0;
+                  top: 0;
+                  font-size: 1.4rem;
+                  font-weight: 400;
+                  letter-spacing: 0.028rem;
+                  color: #009394;
+                  height: 1.7rem;
+                  position: absolute;
+                  text-align: center;
+                  line-height: 1.1999999455;
+                  font-family: Arimo, 'Source Sans Pro';
+                  white-space: nowrap;
+                }
+                .mdi-print-preview-9UD {
+                  object-fit: contain;
+                  vertical-align: top;
+                  width: 1.1334rem;
+                  height: 1.4167rem;
+                  position: absolute;
+                  left: 14.7832rem;
+                  top: 0.3417rem;
+                }
+              }
+            }
+            .consultation-sQD {
+              flex-shrink: 0;
+              width: 100%;
+              height: 1.9rem;
+              position: relative;
+
+              .saline-consultation01july23pdf-q69 {
+                line-height: 1.1999999455;
+                letter-spacing: 0.028rem;
+                width: 21.3rem;
+                left: 0;
+                top: 0;
+                text-align: center;
+                font-size: 1.4rem;
+                font-weight: 400;
+                color: #009394;
+                font-family: Arimo, 'Source Sans Pro';
+                height: 1.7rem;
+                position: absolute;
+                white-space: nowrap;
+              }
+              .mdi-print-preview-vtH {
+                vertical-align: top;
+                width: 1.1334rem;
+                height: 1.4167rem;
+                position: absolute;
+                left: 15.3332rem;
+                top: 0.3417rem;
+                object-fit: contain;
+              }
+            }
+          }
+        }
+      }
+      .rectangle-1313-3i1 {
+        flex-shrink: 0;
+        width: 28.9rem;
+        height: 0.8rem;
+        cursor: pointer;
+        background-color: #d9d9d9;
+        border-radius: 0.2rem;
+      }
+    }
+    .property-1variant2-yLm {
+      width: 100%;
+      align-items: flex-end;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .appoint-history-XdB {
+        margin-bottom: 1.1rem;
+        width: 100%;
+        height: 7.2rem;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .auto-group-newb-4t1 {
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 0.2rem 5.25rem 0.2rem 0rem;
+          height: 100%;
+
+          .sr-no-bd3 {
+            flex-direction: column;
+            flex-shrink: 0;
+            margin-right: 1.15rem;
+            height: 100%;
+            row-gap: 0.8rem;
+            align-items: center;
+            display: flex;
+
+            .no-ihf {
+              font-size: 1.2rem;
+              letter-spacing: 0.024rem;
+              color: #5f5f5f;
+              flex-shrink: 0;
+              text-align: center;
+              font-weight: 400;
+              line-height: 1.5;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+            .item-1-DPX {
+              font-size: 1.4rem;
+              line-height: 1.1999999455;
+              flex-shrink: 0;
+              text-align: center;
+              font-weight: 400;
+              letter-spacing: 0.028rem;
+              color: #009394;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+            .item-1-8WV {
+              color: #009394;
+              font-family: Arimo, 'Source Sans Pro';
+              flex-shrink: 0;
+              text-align: center;
+              font-size: 1.4rem;
+              font-weight: 400;
+              letter-spacing: 0.028rem;
+              line-height: 1.1999999455;
+              white-space: nowrap;
+            }
+          }
+          .date-4f3 {
+            margin-right: 1.25rem;
+            height: 100%;
+            row-gap: 0.8rem;
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+
+            .date-QU1 {
+              line-height: 1.5;
+              font-family: Arimo, 'Source Sans Pro';
+              flex-shrink: 0;
+              text-align: center;
+              font-size: 1.2rem;
+              font-weight: 400;
+              letter-spacing: 0.024rem;
+              color: #5f5f5f;
+              white-space: nowrap;
+            }
+            .item-01-07-23-8uo {
+              text-align: center;
+              font-size: 1.4rem;
+              font-weight: 400;
+              letter-spacing: 0.028rem;
+              line-height: 1.1999999455;
+              color: #009394;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+            }
+            .item-26-05-23-sMb {
+              letter-spacing: 0.028rem;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+              line-height: 1.1999999455;
+              color: #009394;
+              flex-shrink: 0;
+              text-align: center;
+              font-size: 1.4rem;
+              font-weight: 400;
+            }
+          }
+          .day-njT {
+            flex-direction: column;
+            flex-shrink: 0;
+            margin-right: 2.4rem;
+            height: 100%;
+            row-gap: 0.8rem;
+            align-items: center;
+            display: flex;
+
+            .day-Xh3 {
+              flex-shrink: 0;
+              text-align: center;
+              font-size: 1.2rem;
+              font-weight: 400;
+              font-family: Arimo, 'Source Sans Pro';
+              line-height: 1.5;
+              letter-spacing: 0.024rem;
+              color: #5f5f5f;
+              white-space: nowrap;
+            }
+            .sat-g49 {
+              font-size: 1.4rem;
+              flex-shrink: 0;
+              text-align: center;
+              font-weight: 400;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              color: #009394;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+            .mon-Qkq {
+              font-weight: 400;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              flex-shrink: 0;
+              text-align: center;
+              color: #009394;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+              font-size: 1.4rem;
+            }
+          }
+          .date-kZo {
+            height: 100%;
+            row-gap: 0.8rem;
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+
+            .mode-hjw {
+              text-align: center;
+              font-weight: 400;
+              color: #5f5f5f;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.2rem;
+              line-height: 1.5;
+              letter-spacing: 0.024rem;
+            }
+            .upi-Ezm {
+              text-align: center;
+              line-height: 1.1999999455;
+              color: #009394;
+              flex-shrink: 0;
+              font-size: 1.4rem;
+              font-weight: 400;
+              letter-spacing: 0.028rem;
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+            .bank-nWV {
+              letter-spacing: 0.028rem;
+              color: #009394;
+              font-family: Arimo, 'Source Sans Pro';
+              line-height: 1.1999999455;
+              font-size: 1.4rem;
+              font-weight: 400;
+              white-space: nowrap;
+              flex-shrink: 0;
+              text-align: center;
+            }
+          }
+        }
+        .auto-group-hhsx-7of {
+          width: 22.7rem;
+          height: 100%;
+          position: relative;
+          flex-shrink: 0;
+
+          .doctor-5Eh {
+            width: 5.45rem;
+            left: 0;
+            top: 0.2rem;
+            display: flex;
+            height: 6.8rem;
+            position: absolute;
+            row-gap: 0.8rem;
+            align-items: flex-end;
+            flex-direction: column;
+
+            .amount-18M {
+              flex-shrink: 0;
+              text-align: center;
+              font-size: 1.2rem;
+              font-weight: 400;
+              line-height: 1.5;
+              color: #5f5f5f;
+              font-family: Arimo, 'Source Sans Pro';
+              width: 100%;
+              letter-spacing: 0.024rem;
+              white-space: nowrap;
+            }
+            .item-1000-j4M {
+              white-space: nowrap;
+              font-size: 1.4rem;
+              line-height: 1.1999999455;
+              letter-spacing: 0.028rem;
+              font-family: Arimo, 'Source Sans Pro';
+              text-align: right;
+              font-weight: 400;
+              color: #009394;
+              flex-shrink: 0;
+            }
+            .item-200-SzM {
+              font-family: Arimo, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.4rem;
+              font-weight: 400;
+              letter-spacing: 0.028rem;
+              color: #009394;
+              text-align: right;
+              line-height: 1.1999999455;
+            }
+          }
+          .consultation-n2d {
+            display: flex;
+            flex-direction: column;
+            width: 21.3rem;
+            height: 7.2rem;
+            position: absolute;
+            left: 1.4rem;
+            top: 0;
+            align-items: center;
+
+            .auto-group-dyez-WzD {
+              padding: 0rem 0.55rem 0.8rem 0.55rem;
+              width: 100%;
+              align-items: center;
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              box-sizing: border-box;
+
+              .receipt-eqX {
+                text-align: center;
+                font-weight: 400;
+                line-height: 1.5;
+                font-family: Arimo, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
+                margin: 0rem 0rem 0.8rem 2.6rem;
+                font-size: 1.2rem;
+                letter-spacing: 0.024rem;
+                color: #5f5f5f;
+              }
+              .consultation-mQM {
+                position: relative;
+                flex-shrink: 0;
+                width: 100%;
+                height: 1.9rem;
+
+                .highfeverreceipt01july23pdf-Kgm {
+                  width: 20.2rem;
+                  height: 1.7rem;
+                  position: absolute;
+                  text-align: center;
+                  line-height: 1.1999999455;
+                  color: #009394;
+                  white-space: nowrap;
+                  left: 0;
+                  top: 0;
+                  font-size: 1.4rem;
+                  font-weight: 400;
+                  letter-spacing: 0.028rem;
+                  font-family: Arimo, 'Source Sans Pro';
+                }
+                .mdi-print-preview-36y {
+                  object-fit: contain;
+                  vertical-align: top;
+                  width: 1.1333rem;
+                  height: 1.4167rem;
+                  position: absolute;
+                  left: 14.7833rem;
+                  top: 0.3417rem;
+                }
+              }
+            }
+            .consultation-ABb {
+              width: 100%;
+              height: 1.9rem;
+              position: relative;
+              flex-shrink: 0;
+
+              .saline-consultation01july23pdf-76q {
+                position: absolute;
+                text-align: center;
+                font-weight: 400;
+                line-height: 1.1999999455;
+                letter-spacing: 0.028rem;
+                white-space: nowrap;
+                width: 21.3rem;
+                height: 1.7rem;
+                font-size: 1.4rem;
+                color: #009394;
+                font-family: Arimo, 'Source Sans Pro';
+                left: 0;
+                top: 0;
+              }
+              .mdi-print-preview-pG9 {
+                height: 1.4167rem;
+                position: absolute;
+                left: 15.3333rem;
+                top: 0.3417rem;
+                object-fit: contain;
+                vertical-align: top;
+                width: 1.1333rem;
+              }
+            }
+          }
+        }
+      }
+      .rectangle-1313-XwF {
+        width: 28.9rem;
+        height: 0.8rem;
+        cursor: pointer;
+        background-color: #d9d9d9;
+        border-radius: 0.2rem;
+        flex-shrink: 0;
+      }
+    }
+  }
+  .heading-38u {
+    width: 22.5rem;
+    height: 2.7rem;
+    position: absolute;
+    left: 178.3rem;
+    top: 111.6rem;
+    display: flex;
+    align-items: center;
+
+    .auto-group-ntxs-Zsw {
+      text-transform: uppercase;
+      color: #202741;
+      font-family: Arimo, 'Source Sans Pro';
+      box-sizing: border-box;
+      flex-shrink: 0;
+      font-size: 1.4rem;
+      line-height: 1.6428571429;
+      font-weight: 700;
+      letter-spacing: 0.042rem;
+      white-space: nowrap;
+      border-bottom: solid 0.2rem #009394;
+      margin: 0.2rem 0.7rem 0.1rem 0rem;
+      height: calc(100% - 0.3rem);
+    }
+    .done-r6M {
+      margin-right: 0.8rem;
+      letter-spacing: 0.06rem;
+      text-transform: uppercase;
+      color: #ffffff;
+      font-family: Cabin, 'Source Sans Pro';
+      line-height: 2.3;
+      align-items: center;
+      background-color: #009394;
+      flex-shrink: 0;
+      display: flex;
+      justify-content: center;
+      width: 3.8rem;
+      height: 100%;
+      font-size: 1rem;
+      font-weight: 700;
+      white-space: nowrap;
+      border-radius: 0.4rem;
+    }
+    .material-symbols-edit-iuF {
+      flex-shrink: 0;
+      width: 2.4rem;
+      height: 2.4rem;
+      object-fit: contain;
+      vertical-align: top;
+      border-radius: 2rem;
+    }
+  }
+  .auto-group-ea8q-enu {
+    height: 46.8rem;
+    position: absolute;
+    left: 225.5709rem;
+    top: 167.2333rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 13.3291rem;
+
+    .ri-logout-circle-r-line-yKP {
+      margin: 0rem 0rem 11.467rem 4.163rem;
+      width: 9.1666rem;
+      height: 8.3333rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .uil-signout-gzV {
+      vertical-align: top;
+      flex-shrink: 0;
+      margin: 0rem 0rem 12rem 3.329rem;
+      width: 6.6666rem;
+      height: 8.3333rem;
+      object-fit: contain;
+    }
+    .ic-twotone-refresh-22m {
+      margin-right: 6.6666rem;
+      width: 6.6625rem;
+      height: 6.6667rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+  }
+  .mdi-export-9dB {
+    object-fit: contain;
+    vertical-align: top;
+    width: 9.1666rem;
+    height: 6.6667rem;
+    position: absolute;
+    left: 214.3166rem;
+    top: 207.3667rem;
+  }
+}

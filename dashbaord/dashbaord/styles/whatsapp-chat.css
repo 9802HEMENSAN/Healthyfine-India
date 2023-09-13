@@ -1,0 +1,1044 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.whatsapp-chat-tCR {
+  box-sizing: border-box;
+  padding-right: 6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  background-color: #ffffff;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 {
+  margin-right: 5.3rem;
+  box-sizing: border-box;
+  padding: 1.4rem 0rem 23.751rem 2.9rem;
+  width: 29.1rem;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .frame-129-WzV {
+  margin: 0rem 4.191rem 4.3rem 0.3rem;
+  width: calc(100% - 4.4913rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .frame-129-WzV .image-4-rYZ {
+  margin-right: 0.4rem;
+  width: 5.3087rem;
+  height: 4.5913rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .frame-129-WzV .healtether-zPs {
+  display: flex;
+  font-size: 2.8696rem;
+  font-weight: 600;
+  line-height: 2.3000000133;
+  color: #03bf9c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP {
+  width: 30.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .auto-group-majm-sTf {
+  box-sizing: border-box;
+  padding-bottom: 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .auto-group-majm-sTf .frame-2609221-QTb {
+  margin: 0rem 7.4rem 3rem 0rem;
+  box-sizing: border-box;
+  padding: 1rem 13.8rem 1rem 0.95rem;
+  width: calc(100% - 7.4rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .auto-group-majm-sTf .frame-2609221-QTb .iconhome-K4m {
+  margin: 0rem 1.65rem 0.267rem 0rem;
+  width: 2.4rem;
+  height: 2.1333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .auto-group-majm-sTf .frame-2609221-QTb .home-e73 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .auto-group-majm-sTf .frame-2609222-Zjo {
+  margin: 0rem 7.4rem 3rem 0rem;
+  box-sizing: border-box;
+  padding: 1rem 7.8rem 1rem 0.983rem;
+  width: calc(100% - 7.4rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .auto-group-majm-sTf .frame-2609222-Zjo .uis-schedule-gJd {
+  margin: 0rem 1.683rem 0rem 0rem;
+  width: 2.3333rem;
+  height: 2.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .auto-group-majm-sTf .frame-2609222-Zjo .appointments-cCH {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .auto-group-majm-sTf .frame-2609227-Xa9 {
+  margin: 0rem 7.4rem 3rem 0rem;
+  box-sizing: border-box;
+  padding: 0.975rem 6.4rem 0.975rem 0.925rem;
+  width: calc(100% - 7.4rem);
+  display: flex;
+  align-items: center;
+  background-color: #f7f4fa;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .auto-group-majm-sTf .frame-2609227-Xa9 .ion-logo-whatsapp-3Hb {
+  margin-right: 1.625rem;
+  width: 2.45rem;
+  height: 2.45rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .auto-group-majm-sTf .frame-2609227-Xa9 .whatsapp-chat-aoK {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .auto-group-majm-sTf .frame-2609223-uqb {
+  margin: 0rem 7.4rem 3rem 0rem;
+  box-sizing: border-box;
+  padding: 0.941rem 6.852rem 0.941rem 1.069rem;
+  width: calc(100% - 7.4rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .auto-group-majm-sTf .frame-2609223-uqb .component-3-29X {
+  margin: 0rem 1.662rem 0rem 0rem;
+  width: 2.0173rem;
+  height: 1.7885rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .auto-group-majm-sTf .frame-2609223-uqb .patients-record-Ydf {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .auto-group-majm-sTf .frame-2609224-69P {
+  margin: 0rem 7.4rem 3.8rem 0rem;
+  box-sizing: border-box;
+  padding: 0.805rem 8.852rem 0.852rem 0.788rem;
+  width: calc(100% - 7.4rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .auto-group-majm-sTf .frame-2609224-69P .component-5-c7j {
+  margin-right: 1.5027rem;
+  width: 2.4578rem;
+  height: 2.6259rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .auto-group-majm-sTf .frame-2609224-69P .manage-staff-9dT {
+  margin-top: 0.0473rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .auto-group-majm-sTf .frame-2609228-Uvd {
+  margin: 0rem 18.652rem 3.8rem 0.8rem;
+  box-sizing: border-box;
+  padding: 0.062rem 0rem 0.062rem 0.041rem;
+  width: calc(100% - 19.4518rem);
+  height: 2.6828rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .auto-group-majm-sTf .frame-2609228-Uvd .component-2-zPB {
+  margin: 0rem 1.541rem 0.068rem 0rem;
+  width: 2.3661rem;
+  height: 2.4909rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .auto-group-majm-sTf .frame-2609228-Uvd .payments-KRT {
+  margin-top: 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .auto-group-majm-sTf .frame-2609225-TGm {
+  margin-right: 7.4rem;
+  box-sizing: border-box;
+  padding: 0.9rem 12rem 0.9rem 0.858rem;
+  width: calc(100% - 7.4rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .auto-group-majm-sTf .frame-2609225-TGm .trending-up-ZKo {
+  margin: 0.097rem 1.558rem 0rem 0rem;
+  width: 2.3833rem;
+  height: 1.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .auto-group-majm-sTf .frame-2609225-TGm .analytics-tN5 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .logout-d4m {
+  width: 100%;
+  height: 15.1rem;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .logout-d4m .frame-2609226-P3w {
+  box-sizing: border-box;
+  padding: 0.9rem 13.4rem 0.9rem 1.017rem;
+  width: 23.4rem;
+  height: 4.2rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .logout-d4m .frame-2609226-P3w .ri-logout-circle-r-line-WPT {
+  margin: 0rem 1.4rem 0rem 0rem;
+  width: 2.3833rem;
+  height: 2.1667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .frame-2609219-Ri9 .navigation-7jP .logout-d4m .frame-2609226-P3w .logout-2sb {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm {
+  width: 103.6rem;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-grxd-VWH {
+  box-sizing: border-box;
+  padding-bottom: 2.1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-grxd-VWH .frame-2609302-FEZ {
+  margin: 0rem 1.351rem 1.9rem 0rem;
+  width: calc(100% - 1.3514rem);
+  height: 4.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-grxd-VWH .frame-2609302-FEZ .frame-2609231-myb {
+  margin-right: 25.8rem;
+  box-sizing: border-box;
+  padding: 1.2rem 1.538rem 1.4rem 1.2rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #202741;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-grxd-VWH .frame-2609302-FEZ .frame-2609231-myb .frame-2609247-71s {
+  margin-right: 39.1381rem;
+  box-sizing: border-box;
+  padding-left: 0.225rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-grxd-VWH .frame-2609302-FEZ .frame-2609231-myb .frame-2609247-71s .ic-baseline-search-Spq {
+  margin: 0rem 0.463rem 0.038rem 0rem;
+  width: 1.3117rem;
+  height: 1.3117rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-grxd-VWH .frame-2609302-FEZ .frame-2609231-myb .frame-2609247-71s .search-patient-ZuT {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #6a798a;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-grxd-VWH .frame-2609302-FEZ .frame-2609231-myb .system-uicons-filtering-UWd {
+  margin-top: 0.2952rem;
+  width: 1.5238rem;
+  height: 1.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-grxd-VWH .frame-2609302-FEZ .frame-2609301-N6D {
+  margin: 0.4rem 0rem 0.5rem 0rem;
+  height: calc(100% - 0.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-grxd-VWH .frame-2609302-FEZ .frame-2609301-N6D .auto-group-zzl5-6nu {
+  box-sizing: border-box;
+  padding: 0.779rem 1.729rem 0.775rem 0.438rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-grxd-VWH .frame-2609302-FEZ .frame-2609301-N6D .auto-group-zzl5-6nu .ion-help-circle-outline-dnq {
+  margin: 0rem 2.163rem 0.004rem 0rem;
+  width: 1.925rem;
+  height: 1.925rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-grxd-VWH .frame-2609302-FEZ .frame-2609301-N6D .auto-group-zzl5-6nu .iconnotifications-xaD {
+  width: 1.9457rem;
+  height: 1.9456rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-grxd-VWH .frame-2609302-FEZ .frame-2609301-N6D .auto-group-fkdx-6wK {
+  width: 13.2486rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-grxd-VWH .frame-2609302-FEZ .frame-2609301-N6D .auto-group-fkdx-6wK .frame-2609282-fDj {
+  width: 10.4rem;
+  height: 3.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-grxd-VWH .frame-2609302-FEZ .frame-2609301-N6D .auto-group-fkdx-6wK .frame-2609282-fDj .rectangle-1227-12h {
+  margin-right: 0.3rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-grxd-VWH .frame-2609302-FEZ .frame-2609301-N6D .auto-group-fkdx-6wK .frame-2609282-fDj .ajit-bhalla-LKs {
+  margin-top: 0.02rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-grxd-VWH .frame-2609302-FEZ .frame-2609301-N6D .auto-group-fkdx-6wK .frame-2609281-erM {
+  width: 2.9486rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 10.3rem;
+  top: 0.9rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-grxd-VWH .frame-2609302-FEZ .frame-2609301-N6D .auto-group-fkdx-6wK .frame-2609281-erM .en-azu {
+  margin-right: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  color: #1e1e36;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-grxd-VWH .frame-2609302-FEZ .frame-2609301-N6D .auto-group-fkdx-6wK .frame-2609281-erM .vector-vJ5 {
+  margin-bottom: 0rem;
+  width: 0.7486rem;
+  height: 0.3743rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-grxd-VWH .rectangle-1218-S1X {
+  margin-left: 0.7rem;
+  width: 102.9rem;
+  height: 0.1rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-rglq-YaM {
+  margin-bottom: 1.8rem;
+  width: 100%;
+  height: 4.6rem;
+  display: flex;
+  align-items: center;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-rglq-YaM .frame-2609260-gRf {
+  margin: 1.4rem 58.3rem 0.7rem 0rem;
+  box-sizing: border-box;
+  padding: 0.05rem 0;
+  height: calc(100% - 2.1rem);
+  display: flex;
+  column-gap: 0.9375rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-rglq-YaM .frame-2609260-gRf .dashboard-zSM {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-rglq-YaM .frame-2609260-gRf .chevron-left-8YZ {
+  width: 0.625rem;
+  height: 1.25rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-rglq-YaM .frame-2609260-gRf .whatsapp-chat-foP {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585858;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-rglq-YaM .schedule-appointment-cTj {
+  box-sizing: border-box;
+  padding: 1.1rem 0.8rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #03bf9c;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-rglq-YaM .schedule-appointment-cTj .mdi-account-multiple-add-9yT {
+  margin-right: 0.6rem;
+  width: 3rem;
+  height: 1.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .auto-group-rglq-YaM .schedule-appointment-cTj .schedule-appointment-J5f {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP {
+  width: 103.5rem;
+  height: 85rem;
+  position: relative;
+  overflow: hidden;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609275-mE9 {
+  box-sizing: border-box;
+  padding: 2.3rem 0rem 45.6rem 0rem;
+  width: 28.1rem;
+  height: 85rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #d9d9d9;
+  background-color: #ffffff;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609275-mE9 .frame-2609353-GRo {
+  margin: 0rem 2.1rem 1.3rem 2.1rem;
+  width: calc(100% - 4.2rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609275-mE9 .frame-2609353-GRo .frame-2609262-CaM {
+  margin-bottom: 1.3rem;
+  box-sizing: border-box;
+  padding: 0.8rem 9.4rem 0.8rem 1.025rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609275-mE9 .frame-2609353-GRo .frame-2609262-CaM .ic-baseline-search-Kus {
+  margin: 0rem 0.863rem 0.038rem 0rem;
+  width: 1.3117rem;
+  height: 1.3117rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609275-mE9 .frame-2609353-GRo .frame-2609262-CaM .search-patient-FHj {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #111111;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609275-mE9 .frame-2609353-GRo .schedule-appointment-Mbf {
+  margin: 0 0.05rem;
+  box-sizing: border-box;
+  padding: 0.8rem 4.5rem 0.8rem 4.3rem;
+  width: calc(100% - 0.1rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.1800000072);
+  background-color: #03bf9c;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609275-mE9 .frame-2609353-GRo .schedule-appointment-Mbf .group-36373-gP3 {
+  margin-right: 0.6rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609275-mE9 .frame-2609353-GRo .schedule-appointment-Mbf .add-member-oiZ {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609275-mE9 .frame-2609276-7DT {
+  width: 100%;
+  row-gap: 0.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609275-mE9 .frame-2609276-7DT .list-FKf {
+  box-sizing: border-box;
+  padding: 0.8rem 1.2rem;
+  width: 100%;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #111111;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #730ac6;
+  background-color: #f7f4fa;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609275-mE9 .frame-2609276-7DT .list-9vq {
+  box-sizing: border-box;
+  padding: 0.8rem 1.2rem;
+  width: 100%;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #111111;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d9d9d9;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609275-mE9 .frame-2609276-7DT .list-fPP {
+  box-sizing: border-box;
+  padding: 0.8rem 1.2rem;
+  width: 100%;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #111111;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d9d9d9;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609275-mE9 .frame-2609276-7DT .list-mSR {
+  box-sizing: border-box;
+  padding: 0.8rem 1.2rem;
+  width: 100%;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #111111;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d9d9d9;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609275-mE9 .frame-2609276-7DT .list-skM {
+  box-sizing: border-box;
+  padding: 0.8rem 1.2rem;
+  width: 100%;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #111111;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d9d9d9;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609275-mE9 .frame-2609276-7DT .list-auf {
+  box-sizing: border-box;
+  padding: 0.8rem 1.2rem;
+  width: 100%;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #111111;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d9d9d9;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609277-t9f {
+  box-sizing: border-box;
+  padding: 1.4rem 3.1rem 2rem 3.1rem;
+  width: 75.5rem;
+  height: 8.4rem;
+  position: absolute;
+  left: 28rem;
+  top: 0;
+  overflow: hidden;
+  background-color: #16d7b3;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609277-t9f .frame-2609278-Cg9 {
+  width: 16.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609277-t9f .frame-2609278-Cg9 .rectangle-1227-MZ3 {
+  margin-right: 1rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609277-t9f .frame-2609278-Cg9 .ramesh-patel-5zq {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609278-R37 {
+  box-sizing: border-box;
+  padding: 1.3rem 2rem 32.1rem 3.1rem;
+  width: 75.5rem;
+  height: 67.8rem;
+  position: absolute;
+  left: 28rem;
+  top: 8.5rem;
+  overflow: hidden;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #fdf7d9;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609278-R37 .group-36414-i2D {
+  margin: 0rem 0.05rem 1.5rem 0rem;
+  box-sizing: border-box;
+  padding: 1.1rem 1.1rem 1.173rem 1.1rem;
+  width: 35.05rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/union-XS1.png');
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609278-R37 .group-36414-i2D .hello-i-want-to-book-an-appointment-p5F {
+  margin: 0rem 6.65rem 0.927rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4642857143;
+  letter-spacing: 0.014rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609278-R37 .group-36414-i2D .frame-485-K21 {
+  margin: 0rem 1.3rem 0rem 28rem;
+  width: calc(100% - 29.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609278-R37 .group-36414-i2D .frame-485-K21 .item-12-11-ea5 {
+  margin-right: 0.3rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.7083333333;
+  letter-spacing: 0.012rem;
+  color: #9c9c9c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609278-R37 .group-36414-i2D .frame-485-K21 .vector-232-meh {
+  width: 0.85rem;
+  height: 0.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609278-R37 .group-36413-gmf {
+  margin: 0rem 33.3rem 0.8rem 0rem;
+  box-sizing: border-box;
+  padding: 0.9rem 2.313rem 0.791rem 3.268rem;
+  width: 37.1rem;
+  height: 7.4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/union-xLh.png');
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609278-R37 .group-36413-gmf .group-36418-zXT {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609278-R37 .group-36413-gmf .group-36418-zXT .frame-485-Mso {
+  width: 3.55rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 27.9687rem;
+  top: 3.6094rem;
+  display: flex;
+  align-items: center;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609278-R37 .group-36413-gmf .group-36418-zXT .frame-485-Mso .item-12-11-gv5 {
+  margin-right: 0.3rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.7083333333;
+  letter-spacing: 0.012rem;
+  color: #9c9c9c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609278-R37 .group-36413-gmf .group-36418-zXT .frame-485-Mso .vector-232-cYq {
+  width: 0.85rem;
+  height: 0.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609278-R37 .group-36413-gmf .group-36418-zXT .hello-would-you-like-a-virtual-consultation-or-visit-the-doctor-personally-N2D {
+  width: 29.9rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.014rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609278-R37 .auto-group-55f7-puo {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.1rem 1.1rem 0.9rem 1.1rem;
+  width: 35.1rem;
+  height: 7.4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/union-bv9.png');
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609278-R37 .auto-group-55f7-puo .group-36417-kHf {
+  width: 31.55rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609278-R37 .auto-group-55f7-puo .group-36417-kHf .i-would-like-to-visit-the-doctor-tuf {
+  margin: 0rem 10.65rem 1.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4642857143;
+  letter-spacing: 0.014rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609278-R37 .auto-group-55f7-puo .group-36417-kHf .frame-485-hs7 {
+  margin-left: 28rem;
+  width: calc(100% - 28rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609278-R37 .auto-group-55f7-puo .group-36417-kHf .frame-485-hs7 .item-12-11-rED {
+  margin-right: 0.3rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.7083333333;
+  letter-spacing: 0.012rem;
+  color: #9c9c9c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609278-R37 .auto-group-55f7-puo .group-36417-kHf .frame-485-hs7 .vector-232-NTT {
+  width: 0.85rem;
+  height: 0.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609278-R37 .auto-group-pvfj-twb {
+  box-sizing: border-box;
+  padding: 1.1rem;
+  width: 35.1rem;
+  height: 7.4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/union.png');
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609278-R37 .auto-group-pvfj-twb .group-36416-SCR {
+  width: 31.5661rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609278-R37 .auto-group-pvfj-twb .group-36416-SCR .at-what-time-doctor-would-be-available-zUq {
+  margin: 0rem 2.466rem 1rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4642857143;
+  letter-spacing: 0.014rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609278-R37 .auto-group-pvfj-twb .group-36416-SCR .frame-485-Hiq {
+  margin-left: 27.8661rem;
+  box-sizing: border-box;
+  padding-right: 0.0833rem;
+  width: calc(100% - 27.8661rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609278-R37 .auto-group-pvfj-twb .group-36416-SCR .frame-485-Hiq .item-12-11-Rq3 {
+  margin-right: 0.3833rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.7083333333;
+  letter-spacing: 0.012rem;
+  color: #9c9c9c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609278-R37 .auto-group-pvfj-twb .group-36416-SCR .frame-485-Hiq .material-symbols-schedule-outline-Yuf {
+  margin-bottom: 0rem;
+  width: 0.8333rem;
+  height: 0.8333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609355-RiZ {
+  box-sizing: border-box;
+  padding: 0rem 0.163rem 0rem 0.39rem;
+  width: 71.8rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 28.9rem;
+  top: 78.1rem;
+  display: flex;
+  align-items: center;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609355-RiZ .dashicons-screenoptions-jDT {
+  margin: 0rem 2.59rem 0rem 0rem;
+  width: 1.82rem;
+  height: 1.82rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609355-RiZ .frame-2609231-rJ5 {
+  margin-right: 2.3626rem;
+  box-sizing: border-box;
+  padding: 1.2rem;
+  width: 62.2rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1999999455;
+  letter-spacing: 0.028rem;
+  font-style: italic;
+  color: #6a798a;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #202741;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.whatsapp-chat-tCR .auto-group-tedw-wUm .frame-2609354-QuP .frame-2609355-RiZ .fluent-send-32-filled-uXF {
+  margin-top: 0.0002rem;
+  width: 2.2749rem;
+  height: 2.275rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
